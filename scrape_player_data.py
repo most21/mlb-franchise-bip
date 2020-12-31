@@ -61,6 +61,7 @@ def create_players_list(data_dir="./data/franchise/", save=True, save_path="./da
     for name in FRANCHISES:
         df = pd.read_csv(data_dir + name + ".csv")
         output = output.append(df[["playerid", "Name"]])
+    output.drop_duplicates(inplace=True)
     output.reset_index(drop=True, inplace=True)
 
     # Save result to file so we don't have to repeatedly run this function
