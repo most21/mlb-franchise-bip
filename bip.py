@@ -30,8 +30,8 @@ def make_bip(players, idx_to_id_dict, teammate_matrix):
 
     # Parse solution
     for i in range(N):
-        if np.isclose(x[i][j].x, 1):
-            print(i, idx_to_id_dict[i], x[i][j].x, players["WAR"][i])
+        if np.isclose(x[i].x, 1):
+            print(i, idx_to_id_dict[i], x[i].x, players["WAR"][i])
 
     print(f"\nObjective function: {m.objective_value}")
 
