@@ -23,7 +23,8 @@ def make_bip(players, idx_to_id_dict, teammate_matrix):
 
     # Create second set of constraints: no teammates allowed
     for i in range(N):
-        m += mip.xsum(mip.xsum(teammate_matrix.get((idx_to_id_dict[i], idx_to_id_dict[j]), 0) * x[j] for j in range(N)) * x[i] for i in range(N)) == 0
+        m += mip.xsum(teammate_matrix.get((idx_to_id_dict[i], idx_to_id_dict[j]), 0) * x[j] for j in range(N)) == 0
+        # * x[i] for i in range(N)) == 0
 
     # Solve
     m.optimize()
