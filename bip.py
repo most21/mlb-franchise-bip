@@ -62,9 +62,11 @@ def main():
     players, idx_to_id_dict = load_players(team)
 
     # Create teammate matrix for this franchise
-    teammate_matrix = build_teammate_matrix(players, 17, save=False)
-    #print(teammate_matrix)
-    #quit()
+    teammate_matrix = build_teammate_matrix(players, 16, save=False)
+    # for key in teammate_matrix:
+    #     if "1012299" in key:
+    #         print(key, teammate_matrix[key])
+    # quit()
 
     # Create and solve optimization problem
     make_bip(players, idx_to_id_dict, teammate_matrix)
