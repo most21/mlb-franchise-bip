@@ -1,8 +1,8 @@
-ateam,aseason
-Tigers,1914
-Tigers,1915
-Tigers,1920
-Tigers,1921
-Tigers,1922
-Pirates,1925
-Pirates,1926
+teamId,ateam,aseason
+6.0,Tigers,1914
+6.0,Tigers,1915
+6.0,Tigers,1920
+6.0,Tigers,1921
+6.0,Tigers,1922
+27.0,Pirates,1925
+27.0,Pirates,1926

@@ -1,7 +1,7 @@
-ateam,aseason
-Red Sox,1969
-Red Sox,1970
-Red Sox,1971
-Red Sox,1972
-Cardinals,1973
-Astros,1974
+teamId,ateam,aseason
+3.0,Red Sox,1969
+3.0,Red Sox,1970
+3.0,Red Sox,1971
+3.0,Red Sox,1972
+28.0,Cardinals,1973
+21.0,Astros,1974

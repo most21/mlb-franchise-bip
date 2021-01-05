@@ -1,17 +1,17 @@
-ateam,aseason
-Tigers,1939
-Tigers,1940
-Tigers,1941
-Tigers,1942
-Tigers,1943
-Tigers,1944
-Tigers,1945
-Tigers,1946
-Tigers,1947
-Tigers,1948
-Tigers,1949
-Tigers,1950
-Tigers,1951
-Tigers,1952
-Red Sox,1952
-Orioles,1957
+teamId,ateam,aseason
+6.0,Tigers,1939
+6.0,Tigers,1940
+6.0,Tigers,1941
+6.0,Tigers,1942
+6.0,Tigers,1943
+6.0,Tigers,1944
+6.0,Tigers,1945
+6.0,Tigers,1946
+6.0,Tigers,1947
+6.0,Tigers,1948
+6.0,Tigers,1949
+6.0,Tigers,1950
+6.0,Tigers,1951
+6.0,Tigers,1952
+3.0,Red Sox,1952
+2.0,Orioles,1957

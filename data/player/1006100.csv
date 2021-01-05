@@ -1,8 +1,8 @@
-ateam,aseason
-Dodgers,1984
-Dodgers,1985
-Dodgers,1986
-Dodgers,1987
-Dodgers,1988
-Phillies,1989
-Phillies,1990
+teamId,ateam,aseason
+22.0,Dodgers,1984
+22.0,Dodgers,1985
+22.0,Dodgers,1986
+22.0,Dodgers,1987
+22.0,Dodgers,1988
+26.0,Phillies,1989
+26.0,Phillies,1990

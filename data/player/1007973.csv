@@ -1,10 +1,10 @@
-ateam,aseason
-Cardinals,1987
-Cardinals,1988
-Cardinals,1989
-Cardinals,1990
-Cardinals,1992
-Cardinals,1993
-Angels,1993
-Angels,1994
-White Sox,1996
+teamId,ateam,aseason
+28.0,Cardinals,1987
+28.0,Cardinals,1988
+28.0,Cardinals,1989
+28.0,Cardinals,1990
+28.0,Cardinals,1992
+28.0,Cardinals,1993
+1.0,Angels,1993
+1.0,Angels,1994
+4.0,White Sox,1996

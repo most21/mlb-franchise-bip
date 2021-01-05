@@ -1,8 +1,8 @@
-ateam,aseason
-Red Sox,1909
-Red Sox,1913
-Buffeds,1914
-Blues,1915
-Giants,1916
-Giants,1917
-Giants,1918
+teamId,ateam,aseason
+3.0,Red Sox,1909
+3.0,Red Sox,1913
+1004.0,Buffeds,1914
+1004.0,Blues,1915
+30.0,Giants,1916
+30.0,Giants,1917
+30.0,Giants,1918

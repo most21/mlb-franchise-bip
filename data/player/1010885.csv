@@ -1,10 +1,10 @@
-ateam,aseason
-Yankees,1929
-Yankees,1930
-Yankees,1931
-Yankees,1932
-Red Sox,1932
-Red Sox,1933
-Red Sox,1934
-Red Sox,1935
-Athletics,1936
+teamId,ateam,aseason
+9.0,Yankees,1929
+9.0,Yankees,1930
+9.0,Yankees,1931
+9.0,Yankees,1932
+3.0,Red Sox,1932
+3.0,Red Sox,1933
+3.0,Red Sox,1934
+3.0,Red Sox,1935
+10.0,Athletics,1936

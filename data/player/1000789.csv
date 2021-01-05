@@ -1,16 +1,16 @@
-ateam,aseason
-Dodgers,1987
-Dodgers,1988
-Dodgers,1989
-Dodgers,1990
-Dodgers,1991
-Reds,1992
-Reds,1993
-White Sox,1993
-Tigers,1994
-Mariners,1995
-Royals,1996
-Royals,1997
-Royals,1998
-Angels,1999
-Angels,2000
+teamId,ateam,aseason
+22.0,Dodgers,1987
+22.0,Dodgers,1988
+22.0,Dodgers,1989
+22.0,Dodgers,1990
+22.0,Dodgers,1991
+18.0,Reds,1992
+18.0,Reds,1993
+4.0,White Sox,1993
+6.0,Tigers,1994
+11.0,Mariners,1995
+7.0,Royals,1996
+7.0,Royals,1997
+7.0,Royals,1998
+1.0,Angels,1999
+1.0,Angels,2000

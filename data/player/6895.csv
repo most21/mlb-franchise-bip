@@ -1,8 +1,8 @@
-ateam,aseason
-Diamondbacks,2014
-Diamondbacks,2015
-Brewers,2016
-Brewers,2017
-Brewers,2018
-Brewers,2019
-Blue Jays,2020
+teamId,ateam,aseason
+15.0,Diamondbacks,2014
+15.0,Diamondbacks,2015
+23.0,Brewers,2016
+23.0,Brewers,2017
+23.0,Brewers,2018
+23.0,Brewers,2019
+14.0,Blue Jays,2020

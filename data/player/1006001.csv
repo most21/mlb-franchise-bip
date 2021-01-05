@@ -1,7 +1,7 @@
-ateam,aseason
-Athletics,1950
-Athletics,1951
-Athletics,1952
-Indians,1953
-Indians,1954
-Redlegs,1955
+teamId,ateam,aseason
+10.0,Athletics,1950
+10.0,Athletics,1951
+10.0,Athletics,1952
+5.0,Indians,1953
+5.0,Indians,1954
+18.0,Redlegs,1955

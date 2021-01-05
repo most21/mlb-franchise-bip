@@ -1,14 +1,14 @@
-ateam,aseason
-Angels,1999
-Angels,2000
-Angels,2001
-Angels,2002
-Angels,2003
-Angels,2004
-Reds,2005
-Nationals,2006
-Twins,2007
-Rockies,2007
-Dodgers,2010
-Cubs,2011
-Blue Jays,2013
+teamId,ateam,aseason
+1.0,Angels,1999
+1.0,Angels,2000
+1.0,Angels,2001
+1.0,Angels,2002
+1.0,Angels,2003
+1.0,Angels,2004
+18.0,Reds,2005
+24.0,Nationals,2006
+8.0,Twins,2007
+19.0,Rockies,2007
+22.0,Dodgers,2010
+17.0,Cubs,2011
+14.0,Blue Jays,2013

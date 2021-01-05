@@ -1,14 +1,14 @@
-ateam,aseason
-Browns,1914
-Browns,1915
-Browns,1917
-Browns,1918
-Browns,1919
-Browns,1920
-Browns,1921
-Red Sox,1921
-Indians,1921
-Indians,1922
-Cardinals,1924
-Cardinals,1925
-Cardinals,1926
+teamId,ateam,aseason
+2.0,Browns,1914
+2.0,Browns,1915
+2.0,Browns,1917
+2.0,Browns,1918
+2.0,Browns,1919
+2.0,Browns,1920
+2.0,Browns,1921
+3.0,Red Sox,1921
+5.0,Indians,1921
+5.0,Indians,1922
+28.0,Cardinals,1924
+28.0,Cardinals,1925
+28.0,Cardinals,1926

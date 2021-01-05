@@ -1,14 +1,14 @@
-ateam,aseason
-Pirates,1997
-Devil Rays,1998
-Orioles,1999
-Orioles,2000
-Orioles,2001
-Orioles,2002
-Orioles,2003
-Tigers,2004
-Tigers,2005
-Indians,2006
-Red Sox,2006
-Reds,2006
-Dodgers,2008
+teamId,ateam,aseason
+27.0,Pirates,1997
+12.0,Devil Rays,1998
+2.0,Orioles,1999
+2.0,Orioles,2000
+2.0,Orioles,2001
+2.0,Orioles,2002
+2.0,Orioles,2003
+6.0,Tigers,2004
+6.0,Tigers,2005
+5.0,Indians,2006
+3.0,Red Sox,2006
+18.0,Reds,2006
+22.0,Dodgers,2008

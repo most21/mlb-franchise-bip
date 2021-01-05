@@ -1,24 +1,24 @@
-ateam,aseason
-Red Sox,1924
-Red Sox,1925
-Red Sox,1926
-Red Sox,1927
-Red Sox,1928
-Red Sox,1929
-Red Sox,1930
-Yankees,1930
-Yankees,1931
-Yankees,1932
-Yankees,1933
-Yankees,1934
-Yankees,1935
-Yankees,1936
-Yankees,1937
-Yankees,1938
-Yankees,1939
-Yankees,1940
-Yankees,1941
-Yankees,1942
-Yankees,1945
-Yankees,1946
-White Sox,1947
+teamId,ateam,aseason
+3.0,Red Sox,1924
+3.0,Red Sox,1925
+3.0,Red Sox,1926
+3.0,Red Sox,1927
+3.0,Red Sox,1928
+3.0,Red Sox,1929
+3.0,Red Sox,1930
+9.0,Yankees,1930
+9.0,Yankees,1931
+9.0,Yankees,1932
+9.0,Yankees,1933
+9.0,Yankees,1934
+9.0,Yankees,1935
+9.0,Yankees,1936
+9.0,Yankees,1937
+9.0,Yankees,1938
+9.0,Yankees,1939
+9.0,Yankees,1940
+9.0,Yankees,1941
+9.0,Yankees,1942
+9.0,Yankees,1945
+9.0,Yankees,1946
+4.0,White Sox,1947

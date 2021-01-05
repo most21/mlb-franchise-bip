@@ -1,11 +1,11 @@
-ateam,aseason
-Red Caps,1881
-Red Caps,1882
-Beaneaters,1883
-Beaneaters,1884
-Beaneaters,1885
-Cowboys,1886
-Nationals,1887
-Nationals,1888
-Hoosiers,1889
-Athletics,1890
+teamId,ateam,aseason
+16.0,Red Caps,1881
+16.0,Red Caps,1882
+16.0,Beaneaters,1883
+16.0,Beaneaters,1884
+16.0,Beaneaters,1885
+1039.0,Cowboys,1886
+1087.0,Nationals,1887
+1087.0,Nationals,1888
+1037.0,Hoosiers,1889
+1060.0,Athletics,1890

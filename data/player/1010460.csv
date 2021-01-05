@@ -1,17 +1,17 @@
-ateam,aseason
-Twins,1985
-Twins,1986
-Twins,1987
-Twins,1988
-Astros,1989
-Astros,1990
-Astros,1991
-Astros,1992
-Astros,1993
-Giants,1994
-Giants,1995
-Reds,1995
-Reds,1996
-Phillies,1997
-Phillies,1998
-Red Sox,1999
+teamId,ateam,aseason
+8.0,Twins,1985
+8.0,Twins,1986
+8.0,Twins,1987
+8.0,Twins,1988
+21.0,Astros,1989
+21.0,Astros,1990
+21.0,Astros,1991
+21.0,Astros,1992
+21.0,Astros,1993
+30.0,Giants,1994
+30.0,Giants,1995
+18.0,Reds,1995
+18.0,Reds,1996
+26.0,Phillies,1997
+26.0,Phillies,1998
+3.0,Red Sox,1999

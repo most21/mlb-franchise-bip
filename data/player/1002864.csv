@@ -1,8 +1,8 @@
-ateam,aseason
-Naps,1913
-Naps,1914
-Packers,1914
-Packers,1915
-Yankees,1916
-Yankees,1917
-Browns,1921
+teamId,ateam,aseason
+5.0,Naps,1913
+5.0,Naps,1914
+1040.0,Packers,1914
+1040.0,Packers,1915
+9.0,Yankees,1916
+9.0,Yankees,1917
+2.0,Browns,1921

@@ -1,12 +1,12 @@
-ateam,aseason
-White Sox,2011
-White Sox,2012
-White Sox,2013
-Angels,2014
-Angels,2015
-Angels,2016
-Twins,2016
-Twins,2017
-White Sox,2018
-Mets,2019
-White Sox,2019
+teamId,ateam,aseason
+4.0,White Sox,2011
+4.0,White Sox,2012
+4.0,White Sox,2013
+1.0,Angels,2014
+1.0,Angels,2015
+1.0,Angels,2016
+8.0,Twins,2016
+8.0,Twins,2017
+4.0,White Sox,2018
+25.0,Mets,2019
+4.0,White Sox,2019

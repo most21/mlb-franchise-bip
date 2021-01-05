@@ -1,13 +1,13 @@
-ateam,aseason
-White Sox,1987
-White Sox,1988
-White Sox,1990
-White Sox,1991
-White Sox,1992
-White Sox,1993
-White Sox,1994
-Yankees,1995
-Indians,1996
-Indians,1997
-Angels,1998
-Angels,1999
+teamId,ateam,aseason
+4.0,White Sox,1987
+4.0,White Sox,1988
+4.0,White Sox,1990
+4.0,White Sox,1991
+4.0,White Sox,1992
+4.0,White Sox,1993
+4.0,White Sox,1994
+9.0,Yankees,1995
+5.0,Indians,1996
+5.0,Indians,1997
+1.0,Angels,1998
+1.0,Angels,1999

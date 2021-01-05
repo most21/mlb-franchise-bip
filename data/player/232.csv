@@ -1,15 +1,15 @@
-ateam,aseason
-White Sox,2000
-White Sox,2001
-White Sox,2002
-White Sox,2003
-White Sox,2004
-White Sox,2005
-White Sox,2006
-White Sox,2007
-Angels,2008
-Diamondbacks,2009
-Dodgers,2009
-Padres,2010
-Dodgers,2011
-Rockies,2013
+teamId,ateam,aseason
+4.0,White Sox,2000
+4.0,White Sox,2001
+4.0,White Sox,2002
+4.0,White Sox,2003
+4.0,White Sox,2004
+4.0,White Sox,2005
+4.0,White Sox,2006
+4.0,White Sox,2007
+1.0,Angels,2008
+15.0,Diamondbacks,2009
+22.0,Dodgers,2009
+29.0,Padres,2010
+22.0,Dodgers,2011
+19.0,Rockies,2013

@@ -1,8 +1,8 @@
-ateam,aseason
-Tigers,1986
-Tigers,1987
-Tigers,1988
-White Sox,1989
-White Sox,1990
-Indians,1991
-Tigers,1992
+teamId,ateam,aseason
+6.0,Tigers,1986
+6.0,Tigers,1987
+6.0,Tigers,1988
+4.0,White Sox,1989
+4.0,White Sox,1990
+5.0,Indians,1991
+6.0,Tigers,1992

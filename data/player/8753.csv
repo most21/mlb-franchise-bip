@@ -1,10 +1,10 @@
-ateam,aseason
-Nationals,2013
-Nationals,2014
-Nationals,2015
-Nationals,2016
-Nationals,2017
-Nationals,2018
-Reds,2019
-Athletics,2019
-Blue Jays,2020
+teamId,ateam,aseason
+24.0,Nationals,2013
+24.0,Nationals,2014
+24.0,Nationals,2015
+24.0,Nationals,2016
+24.0,Nationals,2017
+24.0,Nationals,2018
+18.0,Reds,2019
+10.0,Athletics,2019
+14.0,Blue Jays,2020

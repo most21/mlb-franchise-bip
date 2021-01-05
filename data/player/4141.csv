@@ -1,14 +1,14 @@
-ateam,aseason
-Rangers,2009
-Rangers,2010
-Rangers,2011
-Rangers,2012
-Rangers,2013
-Rangers,2014
-Rangers,2015
-Rangers,2016
-White Sox,2017
-Giants,2018
-Giants,2019
-Cubs,2019
-Pirates,2020
+teamId,ateam,aseason
+13.0,Rangers,2009
+13.0,Rangers,2010
+13.0,Rangers,2011
+13.0,Rangers,2012
+13.0,Rangers,2013
+13.0,Rangers,2014
+13.0,Rangers,2015
+13.0,Rangers,2016
+4.0,White Sox,2017
+30.0,Giants,2018
+30.0,Giants,2019
+17.0,Cubs,2019
+27.0,Pirates,2020

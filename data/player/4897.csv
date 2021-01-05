@@ -1,15 +1,15 @@
-ateam,aseason
-Devil Rays,2004
-Devil Rays,2005
-Devil Rays,2006
-Devil Rays,2007
-Rays,2008
-Rays,2009
-Angels,2009
-Angels,2010
-Angels,2011
-Indians,2013
-Athletics,2014
-Athletics,2015
-Astros,2015
-Dodgers,2016
+teamId,ateam,aseason
+12.0,Devil Rays,2004
+12.0,Devil Rays,2005
+12.0,Devil Rays,2006
+12.0,Devil Rays,2007
+12.0,Rays,2008
+12.0,Rays,2009
+1.0,Angels,2009
+1.0,Angels,2010
+1.0,Angels,2011
+5.0,Indians,2013
+10.0,Athletics,2014
+10.0,Athletics,2015
+21.0,Astros,2015
+22.0,Dodgers,2016

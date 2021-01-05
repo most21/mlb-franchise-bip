@@ -1,16 +1,16 @@
-ateam,aseason
-White Sox,1999
-White Sox,2000
-White Sox,2001
-Pirates,2002
-Pirates,2003
-Pirates,2004
-Pirates,2005
-Pirates,2006
-Rangers,2006
-Cardinals,2007
-Rockies,2008
-Royals,2008
-Nationals,2009
-Reds,2009
-Padres,2012
+teamId,ateam,aseason
+4.0,White Sox,1999
+4.0,White Sox,2000
+4.0,White Sox,2001
+27.0,Pirates,2002
+27.0,Pirates,2003
+27.0,Pirates,2004
+27.0,Pirates,2005
+27.0,Pirates,2006
+13.0,Rangers,2006
+28.0,Cardinals,2007
+19.0,Rockies,2008
+7.0,Royals,2008
+24.0,Nationals,2009
+18.0,Reds,2009
+29.0,Padres,2012

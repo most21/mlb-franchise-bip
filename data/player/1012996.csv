@@ -1,16 +1,16 @@
-ateam,aseason
-White Sox,1926
-White Sox,1927
-White Sox,1928
-White Sox,1929
-White Sox,1930
-White Sox,1931
-White Sox,1932
-Senators,1932
-Senators,1933
-Senators,1934
-Senators,1935
-Phillies,1935
-Browns,1936
-Browns,1937
-Red Sox,1937
+teamId,ateam,aseason
+4.0,White Sox,1926
+4.0,White Sox,1927
+4.0,White Sox,1928
+4.0,White Sox,1929
+4.0,White Sox,1930
+4.0,White Sox,1931
+4.0,White Sox,1932
+8.0,Senators,1932
+8.0,Senators,1933
+8.0,Senators,1934
+8.0,Senators,1935
+26.0,Phillies,1935
+2.0,Browns,1936
+2.0,Browns,1937
+3.0,Red Sox,1937

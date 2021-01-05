@@ -1,12 +1,12 @@
-ateam,aseason
-Red Sox,1908
-Red Sox,1909
-Red Sox,1910
-Red Sox,1911
-Red Sox,1912
-Red Sox,1913
-Red Sox,1914
-Red Sox,1915
-Indians,1917
-Indians,1919
-Indians,1920
+teamId,ateam,aseason
+3.0,Red Sox,1908
+3.0,Red Sox,1909
+3.0,Red Sox,1910
+3.0,Red Sox,1911
+3.0,Red Sox,1912
+3.0,Red Sox,1913
+3.0,Red Sox,1914
+3.0,Red Sox,1915
+5.0,Indians,1917
+5.0,Indians,1919
+5.0,Indians,1920

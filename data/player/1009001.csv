@@ -1,8 +1,8 @@
-ateam,aseason
-Americans,1901
-Americans,1902
-Athletics,1902
-Phillies,1903
-Phillies,1904
-Superbas,1904
-Superbas,1905
+teamId,ateam,aseason
+3.0,Americans,1901
+3.0,Americans,1902
+10.0,Athletics,1902
+26.0,Phillies,1903
+26.0,Phillies,1904
+22.0,Superbas,1904
+22.0,Superbas,1905

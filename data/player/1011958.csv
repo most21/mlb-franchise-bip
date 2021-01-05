@@ -1,8 +1,8 @@
-ateam,aseason
-Tigers,1901
-Tigers,1902
-Browns,1903
-Browns,1904
-Tigers,1906
-Tigers,1907
-Tigers,1908
+teamId,ateam,aseason
+6.0,Tigers,1901
+6.0,Tigers,1902
+2.0,Browns,1903
+2.0,Browns,1904
+6.0,Tigers,1906
+6.0,Tigers,1907
+6.0,Tigers,1908

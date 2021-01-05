@@ -1,7 +1,7 @@
-ateam,aseason
-Yankees,1997
-Yankees,1998
-Yankees,1999
-Expos,2000
-Expos,2001
-Rangers,2002
+teamId,ateam,aseason
+9.0,Yankees,1997
+9.0,Yankees,1998
+9.0,Yankees,1999
+24.0,Expos,2000
+24.0,Expos,2001
+13.0,Rangers,2002

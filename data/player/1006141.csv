@@ -1,14 +1,14 @@
-ateam,aseason
-Senators,1940
-Senators,1941
-Senators,1942
-Senators,1946
-Senators,1947
-Senators,1948
-Senators,1949
-Senators,1950
-Senators,1951
-Senators,1952
-Red Sox,1952
-Red Sox,1953
-Red Sox,1954
+teamId,ateam,aseason
+8.0,Senators,1940
+8.0,Senators,1941
+8.0,Senators,1942
+8.0,Senators,1946
+8.0,Senators,1947
+8.0,Senators,1948
+8.0,Senators,1949
+8.0,Senators,1950
+8.0,Senators,1951
+8.0,Senators,1952
+3.0,Red Sox,1952
+3.0,Red Sox,1953
+3.0,Red Sox,1954

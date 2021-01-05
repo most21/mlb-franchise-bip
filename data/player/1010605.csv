@@ -1,25 +1,25 @@
-ateam,aseason
-Highlanders,1909
-Highlanders,1910
-Highlanders,1911
-Highlanders,1912
-Braves,1913
-Terrapins,1914
-Terrapins,1915
-White Sox,1918
-Yankees,1919
-Yankees,1920
-Yankees,1921
-Red Sox,1922
-Red Sox,1923
-Red Sox,1924
-Red Sox,1925
-Athletics,1925
-Athletics,1926
-Athletics,1927
-Athletics,1928
-Athletics,1929
-Athletics,1930
-Robins,1931
-Dodgers,1932
-Reds,1933
+teamId,ateam,aseason
+9.0,Highlanders,1909
+9.0,Highlanders,1910
+9.0,Highlanders,1911
+9.0,Highlanders,1912
+16.0,Braves,1913
+1007.0,Terrapins,1914
+1007.0,Terrapins,1915
+4.0,White Sox,1918
+9.0,Yankees,1919
+9.0,Yankees,1920
+9.0,Yankees,1921
+3.0,Red Sox,1922
+3.0,Red Sox,1923
+3.0,Red Sox,1924
+3.0,Red Sox,1925
+10.0,Athletics,1925
+10.0,Athletics,1926
+10.0,Athletics,1927
+10.0,Athletics,1928
+10.0,Athletics,1929
+10.0,Athletics,1930
+22.0,Robins,1931
+22.0,Dodgers,1932
+18.0,Reds,1933

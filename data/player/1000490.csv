@@ -1,8 +1,8 @@
-ateam,aseason
-Orioles,1987
-Orioles,1988
-Orioles,1989
-Orioles,1990
-Orioles,1991
-Pirates,1993
-Pirates,1994
+teamId,ateam,aseason
+2.0,Orioles,1987
+2.0,Orioles,1988
+2.0,Orioles,1989
+2.0,Orioles,1990
+2.0,Orioles,1991
+27.0,Pirates,1993
+27.0,Pirates,1994

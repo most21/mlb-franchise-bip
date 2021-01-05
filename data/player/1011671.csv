@@ -1,9 +1,9 @@
-ateam,aseason
-Indians,1955
-Indians,1956
-Indians,1957
-Indians,1958
-Indians,1959
-White Sox,1960
-White Sox,1961
-White Sox,1962
+teamId,ateam,aseason
+5.0,Indians,1955
+5.0,Indians,1956
+5.0,Indians,1957
+5.0,Indians,1958
+5.0,Indians,1959
+4.0,White Sox,1960
+4.0,White Sox,1961
+4.0,White Sox,1962

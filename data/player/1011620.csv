@@ -1,8 +1,8 @@
-ateam,aseason
-Blue Jays,1980
-Blue Jays,1982
-Twins,1983
-Twins,1984
-Twins,1985
-Indians,1986
-Indians,1987
+teamId,ateam,aseason
+14.0,Blue Jays,1980
+14.0,Blue Jays,1982
+8.0,Twins,1983
+8.0,Twins,1984
+8.0,Twins,1985
+5.0,Indians,1986
+5.0,Indians,1987

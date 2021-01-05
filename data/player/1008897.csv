@@ -1,8 +1,8 @@
-ateam,aseason
-White Sox,1913
-Pirates,1916
-Pirates,1917
-Pirates,1918
-Pirates,1919
-Braves,1922
-Braves,1923
+teamId,ateam,aseason
+4.0,White Sox,1913
+27.0,Pirates,1916
+27.0,Pirates,1917
+27.0,Pirates,1918
+27.0,Pirates,1919
+16.0,Braves,1922
+16.0,Braves,1923

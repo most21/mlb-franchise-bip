@@ -1,16 +1,16 @@
-ateam,aseason
-Angels,2005
-Angels,2006
-Angels,2007
-Angels,2008
-Angels,2009
-Angels,2010
-Angels,2011
-Angels,2012
-Royals,2013
-Braves,2014
-Twins,2015
-Twins,2016
-Twins,2017
-Twins,2018
-White Sox,2019
+teamId,ateam,aseason
+1.0,Angels,2005
+1.0,Angels,2006
+1.0,Angels,2007
+1.0,Angels,2008
+1.0,Angels,2009
+1.0,Angels,2010
+1.0,Angels,2011
+1.0,Angels,2012
+7.0,Royals,2013
+16.0,Braves,2014
+8.0,Twins,2015
+8.0,Twins,2016
+8.0,Twins,2017
+8.0,Twins,2018
+4.0,White Sox,2019

@@ -1,6 +1,6 @@
-ateam,aseason
-Blue Jays,1943
-Blue Jays,1944
-Pirates,1945
-Pirates,1946
-Browns,1948
+teamId,ateam,aseason
+26.0,Blue Jays,1943
+26.0,Blue Jays,1944
+27.0,Pirates,1945
+27.0,Pirates,1946
+2.0,Browns,1948

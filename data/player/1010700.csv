@@ -1,12 +1,12 @@
-ateam,aseason
-Giants,1992
-Marlins,1993
-Marlins,1994
-Marlins,1995
-Marlins,1996
-Marlins,1997
-Giants,1997
-Royals,1998
-Red Sox,1999
-Orioles,2000
-Angels,2001
+teamId,ateam,aseason
+30.0,Giants,1992
+20.0,Marlins,1993
+20.0,Marlins,1994
+20.0,Marlins,1995
+20.0,Marlins,1996
+20.0,Marlins,1997
+30.0,Giants,1997
+7.0,Royals,1998
+3.0,Red Sox,1999
+2.0,Orioles,2000
+1.0,Angels,2001

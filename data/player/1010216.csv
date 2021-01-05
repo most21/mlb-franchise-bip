@@ -1,8 +1,8 @@
-ateam,aseason
-Browns,1915
-Cubs,1916
-Reds,1917
-Athletics,1918
-Athletics,1919
-Athletics,1920
-Athletics,1921
+teamId,ateam,aseason
+2.0,Browns,1915
+17.0,Cubs,1916
+18.0,Reds,1917
+10.0,Athletics,1918
+10.0,Athletics,1919
+10.0,Athletics,1920
+10.0,Athletics,1921

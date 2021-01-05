@@ -1,13 +1,13 @@
-ateam,aseason
-Twins,1990
-Twins,1991
-Twins,1992
-Indians,1993
-Mariners,1998
-Mariners,1999
-Mariners,2000
-Mariners,2001
-Mariners,2002
-Royals,2003
-Devil Rays,2004
-Phillies,2004
+teamId,ateam,aseason
+8.0,Twins,1990
+8.0,Twins,1991
+8.0,Twins,1992
+5.0,Indians,1993
+11.0,Mariners,1998
+11.0,Mariners,1999
+11.0,Mariners,2000
+11.0,Mariners,2001
+11.0,Mariners,2002
+7.0,Royals,2003
+12.0,Devil Rays,2004
+26.0,Phillies,2004

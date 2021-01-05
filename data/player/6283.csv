@@ -1,16 +1,16 @@
-ateam,aseason
-Rangers,2005
-Rangers,2006
-Rangers,2007
-Rangers,2008
-Rangers,2009
-Rangers,2010
-Rangers,2011
-Rangers,2012
-Cubs,2013
-Orioles,2013
-Astros,2014
-Astros,2015
-Astros,2016
-Blue Jays,2016
-Reds,2017
+teamId,ateam,aseason
+13.0,Rangers,2005
+13.0,Rangers,2006
+13.0,Rangers,2007
+13.0,Rangers,2008
+13.0,Rangers,2009
+13.0,Rangers,2010
+13.0,Rangers,2011
+13.0,Rangers,2012
+17.0,Cubs,2013
+2.0,Orioles,2013
+21.0,Astros,2014
+21.0,Astros,2015
+21.0,Astros,2016
+14.0,Blue Jays,2016
+18.0,Reds,2017

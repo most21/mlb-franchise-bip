@@ -1,6 +1,6 @@
-ateam,aseason
-Expos,1985
-Expos,1986
-Expos,1987
-Expos,1988
-Phillies,1989
+teamId,ateam,aseason
+24.0,Expos,1985
+24.0,Expos,1986
+24.0,Expos,1987
+24.0,Expos,1988
+26.0,Phillies,1989

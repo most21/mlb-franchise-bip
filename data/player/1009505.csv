@@ -1,8 +1,8 @@
-ateam,aseason
-Cubs,1930
-Cubs,1933
-Cubs,1934
-Athletics,1937
-Athletics,1938
-Athletics,1939
-Tigers,1940
+teamId,ateam,aseason
+17.0,Cubs,1930
+17.0,Cubs,1933
+17.0,Cubs,1934
+10.0,Athletics,1937
+10.0,Athletics,1938
+10.0,Athletics,1939
+6.0,Tigers,1940

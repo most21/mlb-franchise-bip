@@ -1,8 +1,8 @@
-ateam,aseason
-Orioles,2004
-Orioles,2005
-Orioles,2006
-Orioles,2007
-Orioles,2008
-Nationals,2009
-Diamondbacks,2009
+teamId,ateam,aseason
+2.0,Orioles,2004
+2.0,Orioles,2005
+2.0,Orioles,2006
+2.0,Orioles,2007
+2.0,Orioles,2008
+24.0,Nationals,2009
+15.0,Diamondbacks,2009

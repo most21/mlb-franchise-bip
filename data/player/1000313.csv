@@ -1,8 +1,8 @@
-ateam,aseason
-Reds,1988
-Reds,1989
-Reds,1990
-Reds,1991
-Indians,1992
-Marlins,1993
-Rangers,1994
+teamId,ateam,aseason
+18.0,Reds,1988
+18.0,Reds,1989
+18.0,Reds,1990
+18.0,Reds,1991
+5.0,Indians,1992
+20.0,Marlins,1993
+13.0,Rangers,1994

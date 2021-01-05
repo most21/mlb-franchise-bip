@@ -1,9 +1,9 @@
-ateam,aseason
-Athletics,1933
-Athletics,1934
-Athletics,1935
-Red Sox,1936
-Red Sox,1937
-Red Sox,1938
-Browns,1939
-White Sox,1939
+teamId,ateam,aseason
+10.0,Athletics,1933
+10.0,Athletics,1934
+10.0,Athletics,1935
+3.0,Red Sox,1936
+3.0,Red Sox,1937
+3.0,Red Sox,1938
+2.0,Browns,1939
+4.0,White Sox,1939

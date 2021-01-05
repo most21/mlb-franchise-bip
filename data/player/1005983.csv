@@ -1,6 +1,6 @@
-ateam,aseason
-Astros,1996
-Astros,1997
-Astros,1999
-Astros,2000
-Tigers,2001
+teamId,ateam,aseason
+21.0,Astros,1996
+21.0,Astros,1997
+21.0,Astros,1999
+21.0,Astros,2000
+6.0,Tigers,2001

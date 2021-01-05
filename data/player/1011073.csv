@@ -1,8 +1,8 @@
-ateam,aseason
-Tigers,1987
-Tigers,1988
-Tigers,1989
-Tigers,1990
-Orioles,1991
-Rangers,1992
-Pirates,1992
+teamId,ateam,aseason
+6.0,Tigers,1987
+6.0,Tigers,1988
+6.0,Tigers,1989
+6.0,Tigers,1990
+2.0,Orioles,1991
+13.0,Rangers,1992
+27.0,Pirates,1992

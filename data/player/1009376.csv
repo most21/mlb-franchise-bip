@@ -1,16 +1,16 @@
-ateam,aseason
-Angels,1968
-Angels,1969
-Angels,1970
-Angels,1971
-Angels,1972
-Royals,1972
-Cardinals,1973
-Brewers,1974
-Brewers,1975
-Brewers,1976
-Red Sox,1976
-Red Sox,1977
-Blue Jays,1977
-Blue Jays,1978
-Blue Jays,1979
+teamId,ateam,aseason
+1.0,Angels,1968
+1.0,Angels,1969
+1.0,Angels,1970
+1.0,Angels,1971
+1.0,Angels,1972
+7.0,Royals,1972
+28.0,Cardinals,1973
+23.0,Brewers,1974
+23.0,Brewers,1975
+23.0,Brewers,1976
+3.0,Red Sox,1976
+3.0,Red Sox,1977
+14.0,Blue Jays,1977
+14.0,Blue Jays,1978
+14.0,Blue Jays,1979

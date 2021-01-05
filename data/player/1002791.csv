@@ -1,7 +1,7 @@
-ateam,aseason
-Braves,1954
-Braves,1955
-Braves,1956
-Braves,1957
-Giants,1957
-Giants,1958
+teamId,ateam,aseason
+16.0,Braves,1954
+16.0,Braves,1955
+16.0,Braves,1956
+16.0,Braves,1957
+30.0,Giants,1957
+30.0,Giants,1958

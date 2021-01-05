@@ -1,14 +1,14 @@
-ateam,aseason
-Yankees,1986
-Pirates,1987
-Pirates,1988
-Pirates,1989
-Pirates,1990
-Pirates,1991
-Pirates,1992
-Astros,1993
-Astros,1994
-Astros,1995
-Astros,1996
-White Sox,1997
-Orioles,1998
+teamId,ateam,aseason
+9.0,Yankees,1986
+27.0,Pirates,1987
+27.0,Pirates,1988
+27.0,Pirates,1989
+27.0,Pirates,1990
+27.0,Pirates,1991
+27.0,Pirates,1992
+21.0,Astros,1993
+21.0,Astros,1994
+21.0,Astros,1995
+21.0,Astros,1996
+4.0,White Sox,1997
+2.0,Orioles,1998

@@ -1,10 +1,10 @@
-ateam,aseason
-Astros,1999
-Astros,2000
-Astros,2001
-Astros,2002
-Astros,2003
-Astros,2004
-Red Sox,2005
-Cubs,2006
-Cubs,2007
+teamId,ateam,aseason
+21.0,Astros,1999
+21.0,Astros,2000
+21.0,Astros,2001
+21.0,Astros,2002
+21.0,Astros,2003
+21.0,Astros,2004
+3.0,Red Sox,2005
+17.0,Cubs,2006
+17.0,Cubs,2007

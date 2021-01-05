@@ -1,13 +1,13 @@
-ateam,aseason
-Red Sox,1952
-Red Sox,1953
-Red Sox,1955
-Red Sox,1956
-Red Sox,1957
-Red Sox,1958
-Red Sox,1959
-Red Sox,1960
-Red Sox,1961
-Red Sox,1962
-Red Sox,1963
-Orioles,1963
+teamId,ateam,aseason
+3.0,Red Sox,1952
+3.0,Red Sox,1953
+3.0,Red Sox,1955
+3.0,Red Sox,1956
+3.0,Red Sox,1957
+3.0,Red Sox,1958
+3.0,Red Sox,1959
+3.0,Red Sox,1960
+3.0,Red Sox,1961
+3.0,Red Sox,1962
+3.0,Red Sox,1963
+2.0,Orioles,1963

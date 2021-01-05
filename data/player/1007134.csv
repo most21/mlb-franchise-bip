@@ -1,8 +1,8 @@
-ateam,aseason
-Senators,1937
-Senators,1938
-Senators,1939
-Senators,1940
-Indians,1941
-Indians,1942
-Indians,1946
+teamId,ateam,aseason
+8.0,Senators,1937
+8.0,Senators,1938
+8.0,Senators,1939
+8.0,Senators,1940
+5.0,Indians,1941
+5.0,Indians,1942
+5.0,Indians,1946

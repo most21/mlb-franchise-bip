@@ -1,8 +1,8 @@
-ateam,aseason
-Tigers,2002
-Tigers,2003
-Tigers,2004
-Tigers,2005
-Tigers,2006
-Tigers,2007
-Cardinals,2007
+teamId,ateam,aseason
+6.0,Tigers,2002
+6.0,Tigers,2003
+6.0,Tigers,2004
+6.0,Tigers,2005
+6.0,Tigers,2006
+6.0,Tigers,2007
+28.0,Cardinals,2007

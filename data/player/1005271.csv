@@ -1,12 +1,12 @@
-ateam,aseason
-Athletics,1972
-Athletics,1973
-Athletics,1974
-Athletics,1975
-White Sox,1975
-White Sox,1976
-White Sox,1977
-Cardinals,1978
-Pirates,1978
-Athletics,1979
-Athletics,1980
+teamId,ateam,aseason
+10.0,Athletics,1972
+10.0,Athletics,1973
+10.0,Athletics,1974
+10.0,Athletics,1975
+4.0,White Sox,1975
+4.0,White Sox,1976
+4.0,White Sox,1977
+28.0,Cardinals,1978
+27.0,Pirates,1978
+10.0,Athletics,1979
+10.0,Athletics,1980

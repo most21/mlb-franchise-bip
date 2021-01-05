@@ -1,6 +1,6 @@
-ateam,aseason
-Dodgers,1934
-Dodgers,1935
-Bees,1936
-Athletics,1940
-Athletics,1941
+teamId,ateam,aseason
+22.0,Dodgers,1934
+22.0,Dodgers,1935
+16.0,Bees,1936
+10.0,Athletics,1940
+10.0,Athletics,1941

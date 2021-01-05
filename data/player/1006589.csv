@@ -1,23 +1,23 @@
-ateam,aseason
-Naps,1914
-Indians,1915
-Red Sox,1916
-Red Sox,1917
-Red Sox,1918
-Red Sox,1919
-Red Sox,1920
-Red Sox,1921
-Yankees,1922
-Yankees,1923
-Yankees,1924
-Yankees,1925
-Yankees,1926
-Browns,1927
-Senators,1928
-Senators,1929
-Senators,1930
-Senators,1931
-White Sox,1932
-White Sox,1933
-White Sox,1934
-White Sox,1935
+teamId,ateam,aseason
+5.0,Naps,1914
+5.0,Indians,1915
+3.0,Red Sox,1916
+3.0,Red Sox,1917
+3.0,Red Sox,1918
+3.0,Red Sox,1919
+3.0,Red Sox,1920
+3.0,Red Sox,1921
+9.0,Yankees,1922
+9.0,Yankees,1923
+9.0,Yankees,1924
+9.0,Yankees,1925
+9.0,Yankees,1926
+2.0,Browns,1927
+8.0,Senators,1928
+8.0,Senators,1929
+8.0,Senators,1930
+8.0,Senators,1931
+4.0,White Sox,1932
+4.0,White Sox,1933
+4.0,White Sox,1934
+4.0,White Sox,1935

@@ -1,12 +1,12 @@
-ateam,aseason
-Athletics,1936
-Athletics,1937
-Athletics,1938
-Athletics,1939
-Athletics,1940
-Athletics,1941
-White Sox,1941
-White Sox,1942
-White Sox,1943
-White Sox,1944
-White Sox,1945
+teamId,ateam,aseason
+10.0,Athletics,1936
+10.0,Athletics,1937
+10.0,Athletics,1938
+10.0,Athletics,1939
+10.0,Athletics,1940
+10.0,Athletics,1941
+4.0,White Sox,1941
+4.0,White Sox,1942
+4.0,White Sox,1943
+4.0,White Sox,1944
+4.0,White Sox,1945

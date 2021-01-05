@@ -1,7 +1,7 @@
-ateam,aseason
-Athletics,1911
-Athletics,1912
-Athletics,1913
-Athletics,1914
-Yankees,1914
-Yankees,1915
+teamId,ateam,aseason
+10.0,Athletics,1911
+10.0,Athletics,1912
+10.0,Athletics,1913
+10.0,Athletics,1914
+9.0,Yankees,1914
+9.0,Yankees,1915

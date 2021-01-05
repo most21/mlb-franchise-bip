@@ -1,8 +1,8 @@
-ateam,aseason
-Cardinals,1940
-Cardinals,1941
-Cardinals,1942
-Cardinals,1943
-Braves,1946
-Braves,1947
-Braves,1948
+teamId,ateam,aseason
+28.0,Cardinals,1940
+28.0,Cardinals,1941
+28.0,Cardinals,1942
+28.0,Cardinals,1943
+16.0,Braves,1946
+16.0,Braves,1947
+16.0,Braves,1948

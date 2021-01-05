@@ -1,8 +1,8 @@
-ateam,aseason
-Robins,1915
-Robins,1916
-Indians,1920
-Indians,1921
-Indians,1922
-Cardinals,1925
-Cardinals,1926
+teamId,ateam,aseason
+22.0,Robins,1915
+22.0,Robins,1916
+5.0,Indians,1920
+5.0,Indians,1921
+5.0,Indians,1922
+28.0,Cardinals,1925
+28.0,Cardinals,1926

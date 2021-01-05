@@ -1,8 +1,8 @@
-ateam,aseason
-Blue Jays,2012
-Blue Jays,2014
-Blue Jays,2015
-Blue Jays,2016
-Pirates,2016
-Phillies,2018
-Rangers,2018
+teamId,ateam,aseason
+14.0,Blue Jays,2012
+14.0,Blue Jays,2014
+14.0,Blue Jays,2015
+14.0,Blue Jays,2016
+27.0,Pirates,2016
+26.0,Phillies,2018
+13.0,Rangers,2018

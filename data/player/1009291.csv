@@ -1,16 +1,16 @@
-ateam,aseason
-Wolverines,1881
-Eclipse,1882
-Browns,1883
-Blue Stockings,1884
-Red Stockings,1886
-Red Stockings,1887
-Red Stockings,1888
-Red Stockings,1889
-Reds,1890
-Reds,1891
-Reds,1892
-Reds,1893
-Orioles,1893
-Orioles,1894
-Spiders,1894
+teamId,ateam,aseason
+1031.0,Wolverines,1881
+1044.0,Eclipse,1882
+28.0,Browns,1883
+1079.0,Blue Stockings,1884
+18.0,Red Stockings,1886
+18.0,Red Stockings,1887
+18.0,Red Stockings,1888
+18.0,Red Stockings,1889
+18.0,Reds,1890
+18.0,Reds,1891
+18.0,Reds,1892
+18.0,Reds,1893
+1006.0,Orioles,1893
+1006.0,Orioles,1894
+1026.0,Spiders,1894

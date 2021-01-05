@@ -1,10 +1,10 @@
-ateam,aseason
-Marlins,2008
-Marlins,2009
-Marlins,2010
-Marlins,2011
-Cubs,2012
-Rockies,2013
-Pirates,2015
-White Sox,2017
-White Sox,2018
+teamId,ateam,aseason
+20.0,Marlins,2008
+20.0,Marlins,2009
+20.0,Marlins,2010
+20.0,Marlins,2011
+17.0,Cubs,2012
+19.0,Rockies,2013
+27.0,Pirates,2015
+4.0,White Sox,2017
+4.0,White Sox,2018

@@ -1,10 +1,10 @@
-ateam,aseason
-Padres,1998
-Padres,1999
-Padres,2000
-Marlins,2001
-Cubs,2002
-Cubs,2003
-Cubs,2004
-Red Sox,2005
-Red Sox,2006
+teamId,ateam,aseason
+29.0,Padres,1998
+29.0,Padres,1999
+29.0,Padres,2000
+20.0,Marlins,2001
+17.0,Cubs,2002
+17.0,Cubs,2003
+17.0,Cubs,2004
+3.0,Red Sox,2005
+3.0,Red Sox,2006

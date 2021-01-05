@@ -1,7 +1,7 @@
-ateam,aseason
-Giants,1940
-Giants,1941
-Giants,1942
-Giants,1946
-Giants,1947
-Cubs,1947
+teamId,ateam,aseason
+30.0,Giants,1940
+30.0,Giants,1941
+30.0,Giants,1942
+30.0,Giants,1946
+30.0,Giants,1947
+17.0,Cubs,1947

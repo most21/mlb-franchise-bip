@@ -1,11 +1,11 @@
-ateam,aseason
-Giants,1952
-White Sox,1954
-White Sox,1955
-White Sox,1956
-White Sox,1957
-Orioles,1958
-Orioles,1959
-Red Sox,1959
-Indians,1959
-Indians,1960
+teamId,ateam,aseason
+30.0,Giants,1952
+4.0,White Sox,1954
+4.0,White Sox,1955
+4.0,White Sox,1956
+4.0,White Sox,1957
+2.0,Orioles,1958
+2.0,Orioles,1959
+3.0,Red Sox,1959
+5.0,Indians,1959
+5.0,Indians,1960

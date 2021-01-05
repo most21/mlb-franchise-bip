@@ -1,16 +1,16 @@
-ateam,aseason
-Cubs,1958
-Cubs,1960
-Cubs,1961
-Cubs,1962
-Cubs,1963
-Cubs,1964
-Cubs,1965
-Cubs,1966
-Phillies,1967
-Red Sox,1968
-Red Sox,1969
-Indians,1969
-Indians,1970
-Brewers,1970
-Brewers,1971
+teamId,ateam,aseason
+17.0,Cubs,1958
+17.0,Cubs,1960
+17.0,Cubs,1961
+17.0,Cubs,1962
+17.0,Cubs,1963
+17.0,Cubs,1964
+17.0,Cubs,1965
+17.0,Cubs,1966
+26.0,Phillies,1967
+3.0,Red Sox,1968
+3.0,Red Sox,1969
+5.0,Indians,1969
+5.0,Indians,1970
+23.0,Brewers,1970
+23.0,Brewers,1971

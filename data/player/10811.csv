@@ -1,8 +1,8 @@
-ateam,aseason
-Astros,2014
-Braves,2015
-Braves,2016
-Braves,2017
-Braves,2018
-Braves,2019
-Braves,2020
+teamId,ateam,aseason
+21.0,Astros,2014
+16.0,Braves,2015
+16.0,Braves,2016
+16.0,Braves,2017
+16.0,Braves,2018
+16.0,Braves,2019
+16.0,Braves,2020

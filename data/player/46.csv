@@ -1,22 +1,22 @@
-ateam,aseason
-Pirates,1992
-Marlins,1996
-Cubs,1997
-Expos,1998
-Expos,1999
-Expos,2000
-Royals,2000
-Diamondbacks,2001
-Diamondbacks,2002
-Diamondbacks,2003
-Blue Jays,2004
-Blue Jays,2005
-Diamondbacks,2006
-Mariners,2007
-Mariners,2008
-Mariners,2009
-Nationals,2010
-Cardinals,2011
-Mets,2011
-Mets,2012
-Braves,2012
+teamId,ateam,aseason
+27.0,Pirates,1992
+20.0,Marlins,1996
+17.0,Cubs,1997
+24.0,Expos,1998
+24.0,Expos,1999
+24.0,Expos,2000
+7.0,Royals,2000
+15.0,Diamondbacks,2001
+15.0,Diamondbacks,2002
+15.0,Diamondbacks,2003
+14.0,Blue Jays,2004
+14.0,Blue Jays,2005
+15.0,Diamondbacks,2006
+11.0,Mariners,2007
+11.0,Mariners,2008
+11.0,Mariners,2009
+24.0,Nationals,2010
+28.0,Cardinals,2011
+25.0,Mets,2011
+25.0,Mets,2012
+16.0,Braves,2012

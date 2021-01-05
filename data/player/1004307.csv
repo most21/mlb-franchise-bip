@@ -1,8 +1,8 @@
-ateam,aseason
-White Sox,1931
-White Sox,1932
-White Sox,1933
-Tigers,1933
-Tigers,1934
-Bees,1937
-White Sox,1939
+teamId,ateam,aseason
+4.0,White Sox,1931
+4.0,White Sox,1932
+4.0,White Sox,1933
+6.0,Tigers,1933
+6.0,Tigers,1934
+16.0,Bees,1937
+4.0,White Sox,1939

@@ -1,11 +1,11 @@
-ateam,aseason
-Reds,1884
-Nationals,1886
-Giants,1888
-Giants,1889
-Giants,1890
-Kelly's Killers,1891
-Reds,1891
-Giants,1892
-Giants,1893
-Grooms,1893
+teamId,ateam,aseason
+1011.0,Reds,1884
+1087.0,Nationals,1886
+30.0,Giants,1888
+30.0,Giants,1889
+1054.0,Giants,1890
+1023.0,Kelly's Killers,1891
+18.0,Reds,1891
+30.0,Giants,1892
+30.0,Giants,1893
+22.0,Grooms,1893

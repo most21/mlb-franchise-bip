@@ -1,7 +1,7 @@
-ateam,aseason
-Senators,1895
-Senators,1896
-Senators,1897
-Orioles,1898
-Superbas,1899
-Superbas,1901
+teamId,ateam,aseason
+1082.0,Senators,1895
+1082.0,Senators,1896
+1082.0,Senators,1897
+1006.0,Orioles,1898
+22.0,Superbas,1899
+22.0,Superbas,1901

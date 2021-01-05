@@ -1,8 +1,8 @@
-ateam,aseason
-Giants,1982
-Giants,1983
-Giants,1984
-Giants,1985
-Expos,1985
-Giants,1986
-Indians,1988
+teamId,ateam,aseason
+30.0,Giants,1982
+30.0,Giants,1983
+30.0,Giants,1984
+30.0,Giants,1985
+24.0,Expos,1985
+30.0,Giants,1986
+5.0,Indians,1988

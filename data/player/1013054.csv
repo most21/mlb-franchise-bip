@@ -1,20 +1,20 @@
-ateam,aseason
-Indians,1964
-Indians,1965
-Indians,1966
-Indians,1967
-Indians,1968
-Indians,1969
-Twins,1970
-Red Sox,1971
-Red Sox,1972
-Red Sox,1973
-Red Sox,1974
-Red Sox,1975
-Red Sox,1976
-Red Sox,1977
-Red Sox,1978
-Yankees,1979
-Yankees,1980
-Pirates,1981
-Angels,1982
+teamId,ateam,aseason
+5.0,Indians,1964
+5.0,Indians,1965
+5.0,Indians,1966
+5.0,Indians,1967
+5.0,Indians,1968
+5.0,Indians,1969
+8.0,Twins,1970
+3.0,Red Sox,1971
+3.0,Red Sox,1972
+3.0,Red Sox,1973
+3.0,Red Sox,1974
+3.0,Red Sox,1975
+3.0,Red Sox,1976
+3.0,Red Sox,1977
+3.0,Red Sox,1978
+9.0,Yankees,1979
+9.0,Yankees,1980
+27.0,Pirates,1981
+1.0,Angels,1982

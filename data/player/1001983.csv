@@ -1,9 +1,9 @@
-ateam,aseason
-Senators,1939
-Senators,1940
-Senators,1941
-Senators,1942
-Senators,1943
-Senators,1944
-Senators,1945
-White Sox,1949
+teamId,ateam,aseason
+8.0,Senators,1939
+8.0,Senators,1940
+8.0,Senators,1941
+8.0,Senators,1942
+8.0,Senators,1943
+8.0,Senators,1944
+8.0,Senators,1945
+4.0,White Sox,1949

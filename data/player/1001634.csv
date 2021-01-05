@@ -1,12 +1,12 @@
-ateam,aseason
-Red Caps,1882
-Beaneaters,1883
-Beaneaters,1884
-Beaneaters,1885
-Beaneaters,1886
-Quakers,1887
-Quakers,1888
-Quakers,1889
-Athletics,1890
-Reds,1891
-Orioles,1892
+teamId,ateam,aseason
+16.0,Red Caps,1882
+16.0,Beaneaters,1883
+16.0,Beaneaters,1884
+16.0,Beaneaters,1885
+16.0,Beaneaters,1886
+26.0,Quakers,1887
+26.0,Quakers,1888
+26.0,Quakers,1889
+1062.0,Athletics,1890
+1013.0,Reds,1891
+1006.0,Orioles,1892

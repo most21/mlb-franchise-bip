@@ -1,10 +1,10 @@
-ateam,aseason
-Reds,1906
-Reds,1907
-Red Sox,1909
-Red Sox,1910
-Red Sox,1911
-Red Sox,1912
-Red Sox,1913
-Cardinals,1916
-Tigers,1918
+teamId,ateam,aseason
+18.0,Reds,1906
+18.0,Reds,1907
+3.0,Red Sox,1909
+3.0,Red Sox,1910
+3.0,Red Sox,1911
+3.0,Red Sox,1912
+3.0,Red Sox,1913
+28.0,Cardinals,1916
+6.0,Tigers,1918

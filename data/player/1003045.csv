@@ -1,11 +1,11 @@
-ateam,aseason
-Reds,1912
-White Sox,1915
-Phillies,1918
-Browns,1920
-Browns,1921
-Browns,1922
-Browns,1923
-Browns,1924
-Browns,1925
-Browns,1926
+teamId,ateam,aseason
+18.0,Reds,1912
+4.0,White Sox,1915
+26.0,Phillies,1918
+2.0,Browns,1920
+2.0,Browns,1921
+2.0,Browns,1922
+2.0,Browns,1923
+2.0,Browns,1924
+2.0,Browns,1925
+2.0,Browns,1926

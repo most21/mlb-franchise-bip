@@ -1,12 +1,12 @@
-ateam,aseason
-Red Sox,1913
-Red Sox,1914
-Red Sox,1915
-Red Sox,1916
-Red Sox,1917
-Red Sox,1918
-Tigers,1919
-Tigers,1920
-Tigers,1921
-Tigers,1924
-Tigers,1925
+teamId,ateam,aseason
+3.0,Red Sox,1913
+3.0,Red Sox,1914
+3.0,Red Sox,1915
+3.0,Red Sox,1916
+3.0,Red Sox,1917
+3.0,Red Sox,1918
+6.0,Tigers,1919
+6.0,Tigers,1920
+6.0,Tigers,1921
+6.0,Tigers,1924
+6.0,Tigers,1925

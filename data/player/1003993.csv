@@ -1,11 +1,11 @@
-ateam,aseason
-White Sox,1990
-White Sox,1991
-White Sox,1992
-White Sox,1993
-White Sox,1994
-White Sox,1995
-White Sox,1996
-Marlins,1997
-Marlins,1999
-Marlins,2000
+teamId,ateam,aseason
+4.0,White Sox,1990
+4.0,White Sox,1991
+4.0,White Sox,1992
+4.0,White Sox,1993
+4.0,White Sox,1994
+4.0,White Sox,1995
+4.0,White Sox,1996
+20.0,Marlins,1997
+20.0,Marlins,1999
+20.0,Marlins,2000

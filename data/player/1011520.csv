@@ -1,6 +1,6 @@
-ateam,aseason
-Blue Jays,1944
-Phillies,1945
-Phillies,1946
-Phillies,1947
-Red Sox,1950
+teamId,ateam,aseason
+26.0,Blue Jays,1944
+26.0,Phillies,1945
+26.0,Phillies,1946
+26.0,Phillies,1947
+3.0,Red Sox,1950

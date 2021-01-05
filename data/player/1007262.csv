@@ -1,8 +1,8 @@
-ateam,aseason
-Highlanders,1908
-Highlanders,1909
-Browns,1910
-Browns,1911
-Browns,1912
-Tigers,1912
-Tigers,1913
+teamId,ateam,aseason
+9.0,Highlanders,1908
+9.0,Highlanders,1909
+2.0,Browns,1910
+2.0,Browns,1911
+2.0,Browns,1912
+6.0,Tigers,1912
+6.0,Tigers,1913

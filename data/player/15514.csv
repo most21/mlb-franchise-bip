@@ -1,7 +1,7 @@
-ateam,aseason
-Blue Jays,2014
-Athletics,2015
-Athletics,2016
-Athletics,2017
-Athletics,2018
-Mariners,2020
+teamId,ateam,aseason
+14.0,Blue Jays,2014
+10.0,Athletics,2015
+10.0,Athletics,2016
+10.0,Athletics,2017
+10.0,Athletics,2018
+11.0,Mariners,2020

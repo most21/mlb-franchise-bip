@@ -1,7 +1,7 @@
-ateam,aseason
-Indians,1954
-Indians,1955
-Indians,1956
-Indians,1957
-Indians,1958
-Tigers,1959
+teamId,ateam,aseason
+5.0,Indians,1954
+5.0,Indians,1955
+5.0,Indians,1956
+5.0,Indians,1957
+5.0,Indians,1958
+6.0,Tigers,1959

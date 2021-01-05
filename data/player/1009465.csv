@@ -1,14 +1,14 @@
-ateam,aseason
-Brewers,1989
-Brewers,1990
-Brewers,1991
-Brewers,1992
-Brewers,1993
-Brewers,1994
-Cubs,1995
-Cubs,1996
-White Sox,1997
-White Sox,1998
-White Sox,1999
-Brewers,2000
-Indians,2000
+teamId,ateam,aseason
+23.0,Brewers,1989
+23.0,Brewers,1990
+23.0,Brewers,1991
+23.0,Brewers,1992
+23.0,Brewers,1993
+23.0,Brewers,1994
+17.0,Cubs,1995
+17.0,Cubs,1996
+4.0,White Sox,1997
+4.0,White Sox,1998
+4.0,White Sox,1999
+23.0,Brewers,2000
+5.0,Indians,2000

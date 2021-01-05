@@ -1,7 +1,7 @@
-ateam,aseason
-Athletics,1908
-Athletics,1909
-Athletics,1910
-Athletics,1911
-Athletics,1912
-Naps,1912
+teamId,ateam,aseason
+10.0,Athletics,1908
+10.0,Athletics,1909
+10.0,Athletics,1910
+10.0,Athletics,1911
+10.0,Athletics,1912
+5.0,Naps,1912

@@ -1,10 +1,10 @@
-ateam,aseason
-Red Sox,1914
-Naps,1914
-Indians,1915
-Indians,1916
-Indians,1917
-Indians,1918
-Indians,1919
-Reds,1920
-Reds,1921
+teamId,ateam,aseason
+3.0,Red Sox,1914
+5.0,Naps,1914
+5.0,Indians,1915
+5.0,Indians,1916
+5.0,Indians,1917
+5.0,Indians,1918
+5.0,Indians,1919
+18.0,Reds,1920
+18.0,Reds,1921

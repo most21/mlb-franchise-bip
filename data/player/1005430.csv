@@ -1,7 +1,7 @@
-ateam,aseason
-Orioles,1972
-Braves,1973
-Braves,1974
-Braves,1975
-Indians,1975
-Twins,1978
+teamId,ateam,aseason
+2.0,Orioles,1972
+16.0,Braves,1973
+16.0,Braves,1974
+16.0,Braves,1975
+5.0,Indians,1975
+8.0,Twins,1978

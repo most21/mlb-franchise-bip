@@ -1,6 +1,6 @@
-ateam,aseason
-Cardinals,1986
-Cardinals,1987
-Cardinals,1988
-Cardinals,1990
-Phillies,1992
+teamId,ateam,aseason
+28.0,Cardinals,1986
+28.0,Cardinals,1987
+28.0,Cardinals,1988
+28.0,Cardinals,1990
+26.0,Phillies,1992

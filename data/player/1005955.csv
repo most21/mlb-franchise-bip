@@ -1,15 +1,15 @@
-ateam,aseason
-Reds,1935
-Reds,1936
-Reds,1937
-Reds,1938
-Phillies,1938
-Phillies,1939
-Dodgers,1939
-Senators,1940
-Browns,1942
-Browns,1943
-Browns,1944
-Browns,1945
-Browns,1946
-White Sox,1946
+teamId,ateam,aseason
+18.0,Reds,1935
+18.0,Reds,1936
+18.0,Reds,1937
+18.0,Reds,1938
+26.0,Phillies,1938
+26.0,Phillies,1939
+22.0,Dodgers,1939
+8.0,Senators,1940
+2.0,Browns,1942
+2.0,Browns,1943
+2.0,Browns,1944
+2.0,Browns,1945
+2.0,Browns,1946
+4.0,White Sox,1946

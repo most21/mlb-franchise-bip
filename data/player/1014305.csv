@@ -1,8 +1,8 @@
-ateam,aseason
-Athletics,1913
-Athletics,1914
-Athletics,1915
-Athletics,1916
-Red Sox,1916
-Red Sox,1917
-Red Sox,1918
+teamId,ateam,aseason
+10.0,Athletics,1913
+10.0,Athletics,1914
+10.0,Athletics,1915
+10.0,Athletics,1916
+3.0,Red Sox,1916
+3.0,Red Sox,1917
+3.0,Red Sox,1918

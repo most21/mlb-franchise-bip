@@ -1,9 +1,9 @@
-ateam,aseason
-Athletics,1950
-Athletics,1952
-Athletics,1953
-Yankees,1954
-Orioles,1955
-White Sox,1955
-White Sox,1956
-Tigers,1957
+teamId,ateam,aseason
+10.0,Athletics,1950
+10.0,Athletics,1952
+10.0,Athletics,1953
+9.0,Yankees,1954
+2.0,Orioles,1955
+4.0,White Sox,1955
+4.0,White Sox,1956
+6.0,Tigers,1957

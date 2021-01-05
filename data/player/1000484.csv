@@ -1,9 +1,9 @@
-ateam,aseason
-White Stockings,1887
-White Stockings,1888
-Solons,1889
-Pirates,1890
-Pirates,1891
-Pirates,1892
-Pirates,1893
-Giants,1893
+teamId,ateam,aseason
+17.0,White Stockings,1887
+17.0,White Stockings,1888
+1025.0,Solons,1889
+1022.0,Pirates,1890
+27.0,Pirates,1891
+27.0,Pirates,1892
+27.0,Pirates,1893
+30.0,Giants,1893

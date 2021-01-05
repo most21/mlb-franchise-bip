@@ -1,15 +1,15 @@
-ateam,aseason
-Rays,2008
-Rays,2009
-Rays,2010
-Rays,2011
-Rays,2012
-Rays,2013
-Rays,2014
-Tigers,2014
-Tigers,2015
-Blue Jays,2015
-Red Sox,2016
-Red Sox,2017
-Red Sox,2018
-Red Sox,2019
+teamId,ateam,aseason
+12.0,Rays,2008
+12.0,Rays,2009
+12.0,Rays,2010
+12.0,Rays,2011
+12.0,Rays,2012
+12.0,Rays,2013
+12.0,Rays,2014
+6.0,Tigers,2014
+6.0,Tigers,2015
+14.0,Blue Jays,2015
+3.0,Red Sox,2016
+3.0,Red Sox,2017
+3.0,Red Sox,2018
+3.0,Red Sox,2019

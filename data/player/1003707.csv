@@ -1,17 +1,17 @@
-ateam,aseason
-Blues,1915
-Tigers,1916
-Tigers,1917
-Tigers,1919
-Tigers,1920
-Tigers,1921
-Tigers,1922
-Red Sox,1923
-Red Sox,1924
-Red Sox,1925
-Red Sox,1926
-Athletics,1926
-Athletics,1927
-Athletics,1928
-Athletics,1929
-Athletics,1930
+teamId,ateam,aseason
+1004.0,Blues,1915
+6.0,Tigers,1916
+6.0,Tigers,1917
+6.0,Tigers,1919
+6.0,Tigers,1920
+6.0,Tigers,1921
+6.0,Tigers,1922
+3.0,Red Sox,1923
+3.0,Red Sox,1924
+3.0,Red Sox,1925
+3.0,Red Sox,1926
+10.0,Athletics,1926
+10.0,Athletics,1927
+10.0,Athletics,1928
+10.0,Athletics,1929
+10.0,Athletics,1930

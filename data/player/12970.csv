@@ -1,6 +1,6 @@
-ateam,aseason
-Astros,2016
-Astros,2017
-Pirates,2018
-Pirates,2019
-Pirates,2020
+teamId,ateam,aseason
+21.0,Astros,2016
+21.0,Astros,2017
+27.0,Pirates,2018
+27.0,Pirates,2019
+27.0,Pirates,2020

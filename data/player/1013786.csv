@@ -1,8 +1,8 @@
-ateam,aseason
-Pirates,1949
-Pirates,1950
-Pirates,1951
-Pirates,1952
-Cardinals,1952
-Red Sox,1953
-Red Sox,1954
+teamId,ateam,aseason
+27.0,Pirates,1949
+27.0,Pirates,1950
+27.0,Pirates,1951
+27.0,Pirates,1952
+28.0,Cardinals,1952
+3.0,Red Sox,1953
+3.0,Red Sox,1954

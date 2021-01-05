@@ -1,7 +1,7 @@
-ateam,aseason
-Reds,1914
-Reds,1915
-Reds,1916
-Reds,1917
-Reds,1918
-Yankees,1919
+teamId,ateam,aseason
+18.0,Reds,1914
+18.0,Reds,1915
+18.0,Reds,1916
+18.0,Reds,1917
+18.0,Reds,1918
+9.0,Yankees,1919

@@ -1,14 +1,14 @@
-ateam,aseason
-Browns,1939
-Browns,1940
-Browns,1941
-Browns,1943
-Browns,1944
-Browns,1945
-Browns,1946
-Browns,1947
-Red Sox,1948
-Red Sox,1949
-Giants,1950
-Giants,1951
-Yankees,1951
+teamId,ateam,aseason
+2.0,Browns,1939
+2.0,Browns,1940
+2.0,Browns,1941
+2.0,Browns,1943
+2.0,Browns,1944
+2.0,Browns,1945
+2.0,Browns,1946
+2.0,Browns,1947
+3.0,Red Sox,1948
+3.0,Red Sox,1949
+30.0,Giants,1950
+30.0,Giants,1951
+9.0,Yankees,1951

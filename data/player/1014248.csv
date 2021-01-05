@@ -1,19 +1,19 @@
-ateam,aseason
-Red Sox,1961
-Red Sox,1962
-Red Sox,1963
-Red Sox,1964
-Pirates,1964
-Pirates,1965
-White Sox,1967
-White Sox,1968
-White Sox,1969
-White Sox,1970
-White Sox,1971
-White Sox,1972
-White Sox,1973
-White Sox,1974
-White Sox,1975
-White Sox,1976
-White Sox,1977
-White Sox,1978
+teamId,ateam,aseason
+3.0,Red Sox,1961
+3.0,Red Sox,1962
+3.0,Red Sox,1963
+3.0,Red Sox,1964
+27.0,Pirates,1964
+27.0,Pirates,1965
+4.0,White Sox,1967
+4.0,White Sox,1968
+4.0,White Sox,1969
+4.0,White Sox,1970
+4.0,White Sox,1971
+4.0,White Sox,1972
+4.0,White Sox,1973
+4.0,White Sox,1974
+4.0,White Sox,1975
+4.0,White Sox,1976
+4.0,White Sox,1977
+4.0,White Sox,1978

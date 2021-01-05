@@ -1,14 +1,14 @@
-ateam,aseason
-Royals,1981
-Giants,1982
-Giants,1983
-Giants,1984
-Giants,1985
-Giants,1987
-Giants,1988
-Giants,1989
-Giants,1990
-Padres,1990
-Padres,1991
-White Sox,1994
-White Sox,1995
+teamId,ateam,aseason
+7.0,Royals,1981
+30.0,Giants,1982
+30.0,Giants,1983
+30.0,Giants,1984
+30.0,Giants,1985
+30.0,Giants,1987
+30.0,Giants,1988
+30.0,Giants,1989
+30.0,Giants,1990
+29.0,Padres,1990
+29.0,Padres,1991
+4.0,White Sox,1994
+4.0,White Sox,1995

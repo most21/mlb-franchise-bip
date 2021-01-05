@@ -1,8 +1,8 @@
-ateam,aseason
-Highlanders,1909
-Highlanders,1910
-Highlanders,1911
-Highlanders,1912
-Yankees,1913
-Buffeds,1914
-Blues,1915
+teamId,ateam,aseason
+9.0,Highlanders,1909
+9.0,Highlanders,1910
+9.0,Highlanders,1911
+9.0,Highlanders,1912
+9.0,Yankees,1913
+1004.0,Buffeds,1914
+1004.0,Blues,1915

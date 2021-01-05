@@ -1,11 +1,11 @@
-ateam,aseason
-Athletics,1934
-Red Sox,1935
-Red Sox,1936
-Red Sox,1937
-Red Sox,1938
-Red Sox,1939
-Red Sox,1940
-Red Sox,1941
-Senators,1942
-Tigers,1942
+teamId,ateam,aseason
+10.0,Athletics,1934
+3.0,Red Sox,1935
+3.0,Red Sox,1936
+3.0,Red Sox,1937
+3.0,Red Sox,1938
+3.0,Red Sox,1939
+3.0,Red Sox,1940
+3.0,Red Sox,1941
+8.0,Senators,1942
+6.0,Tigers,1942

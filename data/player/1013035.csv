@@ -1,7 +1,7 @@
-ateam,aseason
-Yankees,1917
-Yankees,1918
-Yankees,1919
-Yankees,1920
-Red Sox,1921
-Robins,1925
+teamId,ateam,aseason
+9.0,Yankees,1917
+9.0,Yankees,1918
+9.0,Yankees,1919
+9.0,Yankees,1920
+3.0,Red Sox,1921
+22.0,Robins,1925

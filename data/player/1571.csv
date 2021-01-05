@@ -1,12 +1,12 @@
-ateam,aseason
-Rockies,2002
-Rockies,2003
-Rockies,2004
-Rockies,2005
-Rockies,2006
-Rockies,2007
-Rockies,2008
-Rockies,2009
-Rockies,2010
-Rockies,2011
-Red Sox,2012
+teamId,ateam,aseason
+19.0,Rockies,2002
+19.0,Rockies,2003
+19.0,Rockies,2004
+19.0,Rockies,2005
+19.0,Rockies,2006
+19.0,Rockies,2007
+19.0,Rockies,2008
+19.0,Rockies,2009
+19.0,Rockies,2010
+19.0,Rockies,2011
+3.0,Red Sox,2012

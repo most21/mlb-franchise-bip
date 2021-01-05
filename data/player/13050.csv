@@ -1,7 +1,7 @@
-ateam,aseason
-Marlins,2014
-Reds,2015
-Reds,2016
-Reds,2018
-Reds,2019
-Reds,2020
+teamId,ateam,aseason
+20.0,Marlins,2014
+18.0,Reds,2015
+18.0,Reds,2016
+18.0,Reds,2018
+18.0,Reds,2019
+18.0,Reds,2020

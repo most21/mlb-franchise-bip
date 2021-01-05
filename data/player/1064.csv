@@ -1,14 +1,14 @@
-ateam,aseason
-White Sox,1995
-White Sox,1996
-White Sox,1997
-White Sox,1998
-White Sox,1999
-White Sox,2000
-White Sox,2001
-Dodgers,2001
-Mariners,2002
-Twins,2003
-Mets,2004
-Orioles,2005
-Rangers,2005
+teamId,ateam,aseason
+4.0,White Sox,1995
+4.0,White Sox,1996
+4.0,White Sox,1997
+4.0,White Sox,1998
+4.0,White Sox,1999
+4.0,White Sox,2000
+4.0,White Sox,2001
+22.0,Dodgers,2001
+11.0,Mariners,2002
+8.0,Twins,2003
+25.0,Mets,2004
+2.0,Orioles,2005
+13.0,Rangers,2005

@@ -1,20 +1,20 @@
-ateam,aseason
-Pirates,1992
-Pirates,1993
-Red Sox,1995
-Red Sox,1996
-Red Sox,1997
-Red Sox,1998
-Red Sox,1999
-Red Sox,2000
-Red Sox,2001
-Red Sox,2002
-Red Sox,2003
-Red Sox,2004
-Red Sox,2005
-Red Sox,2006
-Red Sox,2007
-Red Sox,2008
-Red Sox,2009
-Red Sox,2010
-Red Sox,2011
+teamId,ateam,aseason
+27.0,Pirates,1992
+27.0,Pirates,1993
+3.0,Red Sox,1995
+3.0,Red Sox,1996
+3.0,Red Sox,1997
+3.0,Red Sox,1998
+3.0,Red Sox,1999
+3.0,Red Sox,2000
+3.0,Red Sox,2001
+3.0,Red Sox,2002
+3.0,Red Sox,2003
+3.0,Red Sox,2004
+3.0,Red Sox,2005
+3.0,Red Sox,2006
+3.0,Red Sox,2007
+3.0,Red Sox,2008
+3.0,Red Sox,2009
+3.0,Red Sox,2010
+3.0,Red Sox,2011

@@ -1,17 +1,17 @@
-ateam,aseason
-Red Sox,2006
-Red Sox,2007
-Red Sox,2008
-Red Sox,2009
-Red Sox,2010
-Red Sox,2011
-Red Sox,2012
-Red Sox,2013
-Red Sox,2014
-Athletics,2014
-Cubs,2015
-Cubs,2016
-Cubs,2017
-Cubs,2018
-Cubs,2019
-Cubs,2020
+teamId,ateam,aseason
+3.0,Red Sox,2006
+3.0,Red Sox,2007
+3.0,Red Sox,2008
+3.0,Red Sox,2009
+3.0,Red Sox,2010
+3.0,Red Sox,2011
+3.0,Red Sox,2012
+3.0,Red Sox,2013
+3.0,Red Sox,2014
+10.0,Athletics,2014
+17.0,Cubs,2015
+17.0,Cubs,2016
+17.0,Cubs,2017
+17.0,Cubs,2018
+17.0,Cubs,2019
+17.0,Cubs,2020

@@ -1,8 +1,8 @@
-ateam,aseason
-Cubs,1904
-Phillies,1904
-Phillies,1905
-Phillies,1907
-Phillies,1908
-Phillies,1909
-Cardinals,1910
+teamId,ateam,aseason
+17.0,Cubs,1904
+26.0,Phillies,1904
+26.0,Phillies,1905
+26.0,Phillies,1907
+26.0,Phillies,1908
+26.0,Phillies,1909
+28.0,Cardinals,1910

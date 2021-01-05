@@ -1,15 +1,15 @@
-ateam,aseason
-Athletics,2008
-Athletics,2009
-Athletics,2010
-Athletics,2011
-Nationals,2012
-Nationals,2013
-Nationals,2014
-Nationals,2015
-Nationals,2016
-Nationals,2017
-Nationals,2018
-Brewers,2018
-Brewers,2019
-White Sox,2020
+teamId,ateam,aseason
+10.0,Athletics,2008
+10.0,Athletics,2009
+10.0,Athletics,2010
+10.0,Athletics,2011
+24.0,Nationals,2012
+24.0,Nationals,2013
+24.0,Nationals,2014
+24.0,Nationals,2015
+24.0,Nationals,2016
+24.0,Nationals,2017
+24.0,Nationals,2018
+23.0,Brewers,2018
+23.0,Brewers,2019
+4.0,White Sox,2020

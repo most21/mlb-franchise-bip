@@ -1,8 +1,8 @@
-ateam,aseason
-Expos,2002
-Expos,2003
-Expos,2004
-Nationals,2005
-Rockies,2005
-Rockies,2006
-Nationals,2006
+teamId,ateam,aseason
+24.0,Expos,2002
+24.0,Expos,2003
+24.0,Expos,2004
+24.0,Nationals,2005
+19.0,Rockies,2005
+19.0,Rockies,2006
+24.0,Nationals,2006

@@ -1,19 +1,19 @@
-ateam,aseason
-Red Sox,1952
-Red Sox,1953
-Red Sox,1954
-Red Sox,1955
-Cubs,1958
-Cubs,1959
-Reds,1960
-Reds,1961
-Reds,1962
-Reds,1963
-Reds,1964
-Reds,1965
-Giants,1965
-Giants,1966
-Giants,1967
-Giants,1968
-Pirates,1968
-Astros,1969
+teamId,ateam,aseason
+3.0,Red Sox,1952
+3.0,Red Sox,1953
+3.0,Red Sox,1954
+3.0,Red Sox,1955
+17.0,Cubs,1958
+17.0,Cubs,1959
+18.0,Reds,1960
+18.0,Reds,1961
+18.0,Reds,1962
+18.0,Reds,1963
+18.0,Reds,1964
+18.0,Reds,1965
+30.0,Giants,1965
+30.0,Giants,1966
+30.0,Giants,1967
+30.0,Giants,1968
+27.0,Pirates,1968
+21.0,Astros,1969

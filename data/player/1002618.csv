@@ -1,10 +1,10 @@
-ateam,aseason
-White Stockings,1880
-White Stockings,1881
-White Stockings,1882
-White Stockings,1883
-White Stockings,1884
-White Stockings,1885
-Giants,1885
-Nationals,1886
-Hoosiers,1887
+teamId,ateam,aseason
+17.0,White Stockings,1880
+17.0,White Stockings,1881
+17.0,White Stockings,1882
+17.0,White Stockings,1883
+17.0,White Stockings,1884
+17.0,White Stockings,1885
+30.0,Giants,1885
+1087.0,Nationals,1886
+1037.0,Hoosiers,1887

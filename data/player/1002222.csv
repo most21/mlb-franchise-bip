@@ -1,8 +1,8 @@
-ateam,aseason
-Athletics,1942
-Athletics,1943
-Athletics,1944
-Athletics,1945
-Athletics,1946
-Athletics,1947
-Indians,1948
+teamId,ateam,aseason
+10.0,Athletics,1942
+10.0,Athletics,1943
+10.0,Athletics,1944
+10.0,Athletics,1945
+10.0,Athletics,1946
+10.0,Athletics,1947
+5.0,Indians,1948

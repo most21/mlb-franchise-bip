@@ -1,7 +1,7 @@
-ateam,aseason
-Giants,1906
-Giants,1907
-Doves,1908
-Doves,1909
-Doves,1910
-Rustlers,1911
+teamId,ateam,aseason
+30.0,Giants,1906
+30.0,Giants,1907
+16.0,Doves,1908
+16.0,Doves,1909
+16.0,Doves,1910
+16.0,Rustlers,1911

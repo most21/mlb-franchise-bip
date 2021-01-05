@@ -1,7 +1,7 @@
-ateam,aseason
-Angels,1976
-Angels,1977
-Angels,1978
-Twins,1979
-Orioles,1980
-Brewers,1984
+teamId,ateam,aseason
+1.0,Angels,1976
+1.0,Angels,1977
+1.0,Angels,1978
+8.0,Twins,1979
+2.0,Orioles,1980
+23.0,Brewers,1984

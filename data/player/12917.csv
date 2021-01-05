@@ -1,7 +1,7 @@
-ateam,aseason
-Orioles,2012
-Orioles,2016
-Orioles,2017
-Orioles,2018
-Orioles,2019
-Angels,2020
+teamId,ateam,aseason
+2.0,Orioles,2012
+2.0,Orioles,2016
+2.0,Orioles,2017
+2.0,Orioles,2018
+2.0,Orioles,2019
+1.0,Angels,2020

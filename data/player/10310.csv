@@ -1,7 +1,7 @@
-ateam,aseason
-Mets,2013
-Mets,2014
-Mets,2017
-Mets,2018
-Mets,2019
-Phillies,2020
+teamId,ateam,aseason
+25.0,Mets,2013
+25.0,Mets,2014
+25.0,Mets,2017
+25.0,Mets,2018
+25.0,Mets,2019
+26.0,Phillies,2020

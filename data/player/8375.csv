@@ -1,5 +1,5 @@
-ateam,aseason
-Orioles,2009
-Orioles,2010
-Orioles,2011
-Diamondbacks,2012
+teamId,ateam,aseason
+2.0,Orioles,2009
+2.0,Orioles,2010
+2.0,Orioles,2011
+15.0,Diamondbacks,2012

@@ -1,15 +1,15 @@
-ateam,aseason
-Athletics,1934
-Athletics,1935
-Tigers,1938
-Tigers,1939
-Tigers,1940
-Tigers,1941
-Tigers,1942
-Tigers,1945
-Tigers,1946
-Tigers,1947
-Tigers,1948
-Indians,1949
-Indians,1950
-Red Sox,1952
+teamId,ateam,aseason
+10.0,Athletics,1934
+10.0,Athletics,1935
+6.0,Tigers,1938
+6.0,Tigers,1939
+6.0,Tigers,1940
+6.0,Tigers,1941
+6.0,Tigers,1942
+6.0,Tigers,1945
+6.0,Tigers,1946
+6.0,Tigers,1947
+6.0,Tigers,1948
+5.0,Indians,1949
+5.0,Indians,1950
+3.0,Red Sox,1952

@@ -1,8 +1,8 @@
-ateam,aseason
-Tigers,1964
-Tigers,1965
-Tigers,1966
-Tigers,1967
-Tigers,1968
-Tigers,1969
-Expos,1970
+teamId,ateam,aseason
+6.0,Tigers,1964
+6.0,Tigers,1965
+6.0,Tigers,1966
+6.0,Tigers,1967
+6.0,Tigers,1968
+6.0,Tigers,1969
+24.0,Expos,1970

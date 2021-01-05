@@ -1,8 +1,8 @@
-ateam,aseason
-Athletics,1954
-Athletics,1955
-Athletics,1956
-Athletics,1957
-Orioles,1958
-Orioles,1959
-Orioles,1960
+teamId,ateam,aseason
+10.0,Athletics,1954
+10.0,Athletics,1955
+10.0,Athletics,1956
+10.0,Athletics,1957
+2.0,Orioles,1958
+2.0,Orioles,1959
+2.0,Orioles,1960

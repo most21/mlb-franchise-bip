@@ -1,5 +1,5 @@
-ateam,aseason
-Cardinals,1982
-Cardinals,1983
-Cardinals,1984
-Reds,1985
+teamId,ateam,aseason
+28.0,Cardinals,1982
+28.0,Cardinals,1983
+28.0,Cardinals,1984
+18.0,Reds,1985

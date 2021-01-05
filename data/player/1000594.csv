@@ -1,7 +1,7 @@
-ateam,aseason
-Athletics,1933
-Braves,1934
-Cubs,1943
-Blue Jays,1943
-Blue Jays,1944
-Phillies,1945
+teamId,ateam,aseason
+10.0,Athletics,1933
+16.0,Braves,1934
+17.0,Cubs,1943
+26.0,Blue Jays,1943
+26.0,Blue Jays,1944
+26.0,Phillies,1945

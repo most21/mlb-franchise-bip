@@ -1,13 +1,13 @@
-ateam,aseason
-Nationals,2008
-Nationals,2009
-Brewers,2010
-Brewers,2011
-Brewers,2012
-Brewers,2013
-Brewers,2014
-Blue Jays,2015
-Blue Jays,2016
-Blue Jays,2017
-Blue Jays,2018
-Athletics,2019
+teamId,ateam,aseason
+24.0,Nationals,2008
+24.0,Nationals,2009
+23.0,Brewers,2010
+23.0,Brewers,2011
+23.0,Brewers,2012
+23.0,Brewers,2013
+23.0,Brewers,2014
+14.0,Blue Jays,2015
+14.0,Blue Jays,2016
+14.0,Blue Jays,2017
+14.0,Blue Jays,2018
+10.0,Athletics,2019

@@ -1,13 +1,13 @@
-ateam,aseason
-Athletics,1932
-Giants,1934
-Phillies,1935
-Phillies,1936
-Pirates,1937
-Pirates,1938
-Pirates,1939
-Pirates,1940
-Pirates,1941
-Red Sox,1944
-Red Sox,1945
-Reds,1945
+teamId,ateam,aseason
+10.0,Athletics,1932
+30.0,Giants,1934
+26.0,Phillies,1935
+26.0,Phillies,1936
+27.0,Pirates,1937
+27.0,Pirates,1938
+27.0,Pirates,1939
+27.0,Pirates,1940
+27.0,Pirates,1941
+3.0,Red Sox,1944
+3.0,Red Sox,1945
+18.0,Reds,1945

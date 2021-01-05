@@ -1,6 +1,6 @@
-ateam,aseason
-Orioles,1977
-Mariners,1978
-Mariners,1979
-Mariners,1980
-Mariners,1981
+teamId,ateam,aseason
+2.0,Orioles,1977
+11.0,Mariners,1978
+11.0,Mariners,1979
+11.0,Mariners,1980
+11.0,Mariners,1981

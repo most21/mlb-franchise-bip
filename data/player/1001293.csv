@@ -1,6 +1,6 @@
-ateam,aseason
-Orioles,1966
-Orioles,1967
-Orioles,1968
-Pilots,1969
-Brewers,1970
+teamId,ateam,aseason
+2.0,Orioles,1966
+2.0,Orioles,1967
+2.0,Orioles,1968
+23.0,Pilots,1969
+23.0,Brewers,1970

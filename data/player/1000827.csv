@@ -1,17 +1,17 @@
-ateam,aseason
-Athletics,1903
-Athletics,1904
-Athletics,1905
-Athletics,1906
-Athletics,1907
-Athletics,1908
-Athletics,1909
-Athletics,1910
-Athletics,1911
-Athletics,1912
-Athletics,1913
-Athletics,1914
-Terrapins,1915
-Phillies,1916
-Phillies,1917
-White Sox,1925
+teamId,ateam,aseason
+10.0,Athletics,1903
+10.0,Athletics,1904
+10.0,Athletics,1905
+10.0,Athletics,1906
+10.0,Athletics,1907
+10.0,Athletics,1908
+10.0,Athletics,1909
+10.0,Athletics,1910
+10.0,Athletics,1911
+10.0,Athletics,1912
+10.0,Athletics,1913
+10.0,Athletics,1914
+1007.0,Terrapins,1915
+26.0,Phillies,1916
+26.0,Phillies,1917
+4.0,White Sox,1925

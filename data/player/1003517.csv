@@ -1,8 +1,8 @@
-ateam,aseason
-Yankees,1944
-Yankees,1945
-Phillies,1948
-Cubs,1949
-Cubs,1950
-Cubs,1951
-Cubs,1952
+teamId,ateam,aseason
+9.0,Yankees,1944
+9.0,Yankees,1945
+26.0,Phillies,1948
+17.0,Cubs,1949
+17.0,Cubs,1950
+17.0,Cubs,1951
+17.0,Cubs,1952

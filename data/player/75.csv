@@ -1,16 +1,16 @@
-ateam,aseason
-Blue Jays,1988
-Blue Jays,1989
-Blue Jays,1990
-Blue Jays,1991
-Blue Jays,1992
-Blue Jays,1993
-Blue Jays,1994
-Athletics,1995
-Cardinals,1996
-Cardinals,1997
-Cardinals,1998
-Rangers,1998
-Diamondbacks,1999
-Diamondbacks,2000
-Diamondbacks,2002
+teamId,ateam,aseason
+14.0,Blue Jays,1988
+14.0,Blue Jays,1989
+14.0,Blue Jays,1990
+14.0,Blue Jays,1991
+14.0,Blue Jays,1992
+14.0,Blue Jays,1993
+14.0,Blue Jays,1994
+10.0,Athletics,1995
+28.0,Cardinals,1996
+28.0,Cardinals,1997
+28.0,Cardinals,1998
+13.0,Rangers,1998
+15.0,Diamondbacks,1999
+15.0,Diamondbacks,2000
+15.0,Diamondbacks,2002

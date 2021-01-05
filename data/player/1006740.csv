@@ -1,6 +1,6 @@
-ateam,aseason
-Athletics,1917
-Athletics,1919
-Athletics,1920
-Athletics,1921
-Indians,1922
+teamId,ateam,aseason
+10.0,Athletics,1917
+10.0,Athletics,1919
+10.0,Athletics,1920
+10.0,Athletics,1921
+5.0,Indians,1922

@@ -1,7 +1,7 @@
-ateam,aseason
-Reds,1908
-Pirates,1911
-Pirates,1912
-Pirates,1913
-Pirates,1914
-Giants,1914
+teamId,ateam,aseason
+18.0,Reds,1908
+27.0,Pirates,1911
+27.0,Pirates,1912
+27.0,Pirates,1913
+27.0,Pirates,1914
+30.0,Giants,1914

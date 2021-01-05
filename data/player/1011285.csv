@@ -1,9 +1,9 @@
-ateam,aseason
-White Sox,1957
-White Sox,1958
-White Sox,1959
-Redlegs,1959
-Indians,1962
-Senators,1962
-Senators,1963
-Senators,1964
+teamId,ateam,aseason
+4.0,White Sox,1957
+4.0,White Sox,1958
+4.0,White Sox,1959
+18.0,Redlegs,1959
+5.0,Indians,1962
+13.0,Senators,1962
+13.0,Senators,1963
+13.0,Senators,1964

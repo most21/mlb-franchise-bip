@@ -1,8 +1,8 @@
-ateam,aseason
-Phillies,1983
-Phillies,1984
-Phillies,1985
-Phillies,1986
-Yankees,1987
-Yankees,1988
-Tigers,1989
+teamId,ateam,aseason
+26.0,Phillies,1983
+26.0,Phillies,1984
+26.0,Phillies,1985
+26.0,Phillies,1986
+9.0,Yankees,1987
+9.0,Yankees,1988
+6.0,Tigers,1989

@@ -1,8 +1,8 @@
-ateam,aseason
-Orphans,1900
-Orphans,1901
-Orphans,1902
-Beaneaters,1902
-Tigers,1903
-Superbas,1905
-Superbas,1906
+teamId,ateam,aseason
+17.0,Orphans,1900
+17.0,Orphans,1901
+17.0,Orphans,1902
+16.0,Beaneaters,1902
+6.0,Tigers,1903
+22.0,Superbas,1905
+22.0,Superbas,1906

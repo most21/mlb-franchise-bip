@@ -1,7 +1,7 @@
-ateam,aseason
-Pirates,1900
-Pirates,1901
-Pirates,1902
-Reds,1902
-Reds,1903
-Superbas,1904
+teamId,ateam,aseason
+27.0,Pirates,1900
+27.0,Pirates,1901
+27.0,Pirates,1902
+18.0,Reds,1902
+18.0,Reds,1903
+22.0,Superbas,1904

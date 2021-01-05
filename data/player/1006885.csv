@@ -1,16 +1,16 @@
-ateam,aseason
-Blue Jays,1984
-Blue Jays,1985
-Blue Jays,1986
-Blue Jays,1987
-Blue Jays,1988
-Blue Jays,1989
-Blue Jays,1990
-Blue Jays,1991
-Blue Jays,1992
-Yankees,1993
-Yankees,1994
-Yankees,1995
-Yankees,1996
-Orioles,1997
-Orioles,1998
+teamId,ateam,aseason
+14.0,Blue Jays,1984
+14.0,Blue Jays,1985
+14.0,Blue Jays,1986
+14.0,Blue Jays,1987
+14.0,Blue Jays,1988
+14.0,Blue Jays,1989
+14.0,Blue Jays,1990
+14.0,Blue Jays,1991
+14.0,Blue Jays,1992
+9.0,Yankees,1993
+9.0,Yankees,1994
+9.0,Yankees,1995
+9.0,Yankees,1996
+2.0,Orioles,1997
+2.0,Orioles,1998

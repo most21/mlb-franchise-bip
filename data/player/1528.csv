@@ -1,6 +1,6 @@
-ateam,aseason
-Royals,2002
-Royals,2003
-Royals,2005
-Royals,2006
-Astros,2008
+teamId,ateam,aseason
+7.0,Royals,2002
+7.0,Royals,2003
+7.0,Royals,2005
+7.0,Royals,2006
+21.0,Astros,2008

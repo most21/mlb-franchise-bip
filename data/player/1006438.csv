@@ -1,7 +1,7 @@
-ateam,aseason
-White Sox,1953
-White Sox,1955
-White Sox,1956
-Orioles,1956
-Orioles,1957
-Orioles,1958
+teamId,ateam,aseason
+4.0,White Sox,1953
+4.0,White Sox,1955
+4.0,White Sox,1956
+2.0,Orioles,1956
+2.0,Orioles,1957
+2.0,Orioles,1958

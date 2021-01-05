@@ -1,15 +1,15 @@
-ateam,aseason
-Dodgers,1968
-Astros,1969
-Astros,1970
-Astros,1971
-Reds,1972
-Reds,1973
-Reds,1974
-Reds,1975
-Reds,1976
-Reds,1977
-Tigers,1978
-Tigers,1979
-Tigers,1980
-Red Sox,1980
+teamId,ateam,aseason
+22.0,Dodgers,1968
+21.0,Astros,1969
+21.0,Astros,1970
+21.0,Astros,1971
+18.0,Reds,1972
+18.0,Reds,1973
+18.0,Reds,1974
+18.0,Reds,1975
+18.0,Reds,1976
+18.0,Reds,1977
+6.0,Tigers,1978
+6.0,Tigers,1979
+6.0,Tigers,1980
+3.0,Red Sox,1980

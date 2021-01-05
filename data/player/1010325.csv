@@ -1,7 +1,7 @@
-ateam,aseason
-Yankees,1917
-Yankees,1921
-Red Sox,1922
-Red Sox,1923
-Red Sox,1924
-Cubs,1926
+teamId,ateam,aseason
+9.0,Yankees,1917
+9.0,Yankees,1921
+3.0,Red Sox,1922
+3.0,Red Sox,1923
+3.0,Red Sox,1924
+17.0,Cubs,1926

@@ -1,6 +1,6 @@
-ateam,aseason
-Rangers,1975
-Rangers,1976
-Athletics,1977
-Rangers,1977
-Rangers,1978
+teamId,ateam,aseason
+13.0,Rangers,1975
+13.0,Rangers,1976
+10.0,Athletics,1977
+13.0,Rangers,1977
+13.0,Rangers,1978

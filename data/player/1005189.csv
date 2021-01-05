@@ -1,11 +1,11 @@
-ateam,aseason
-Senators,1943
-Senators,1944
-Senators,1945
-Senators,1946
-Senators,1947
-Senators,1948
-Senators,1949
-White Sox,1949
-White Sox,1950
-Braves,1950
+teamId,ateam,aseason
+8.0,Senators,1943
+8.0,Senators,1944
+8.0,Senators,1945
+8.0,Senators,1946
+8.0,Senators,1947
+8.0,Senators,1948
+8.0,Senators,1949
+4.0,White Sox,1949
+4.0,White Sox,1950
+16.0,Braves,1950

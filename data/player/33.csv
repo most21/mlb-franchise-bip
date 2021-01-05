@@ -1,15 +1,15 @@
-ateam,aseason
-Angels,1999
-Angels,2000
-Angels,2001
-Angels,2002
-Angels,2003
-White Sox,2003
-White Sox,2004
-Blue Jays,2005
-Blue Jays,2006
-Reds,2006
-Mets,2007
-Mets,2008
-Diamondbacks,2009
-Red Sox,2010
+teamId,ateam,aseason
+1.0,Angels,1999
+1.0,Angels,2000
+1.0,Angels,2001
+1.0,Angels,2002
+1.0,Angels,2003
+4.0,White Sox,2003
+4.0,White Sox,2004
+14.0,Blue Jays,2005
+14.0,Blue Jays,2006
+18.0,Reds,2006
+25.0,Mets,2007
+25.0,Mets,2008
+15.0,Diamondbacks,2009
+3.0,Red Sox,2010

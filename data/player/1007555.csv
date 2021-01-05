@@ -1,7 +1,7 @@
-ateam,aseason
-Phillies,1969
-Phillies,1970
-Phillies,1971
-Phillies,1972
-Phillies,1973
-Cardinals,1974
+teamId,ateam,aseason
+26.0,Phillies,1969
+26.0,Phillies,1970
+26.0,Phillies,1971
+26.0,Phillies,1972
+26.0,Phillies,1973
+28.0,Cardinals,1974

@@ -1,8 +1,8 @@
-ateam,aseason
-Phillies,1910
-Phillies,1911
-Reds,1911
-Reds,1912
-Cubs,1913
-Cubs,1914
-Cubs,1915
+teamId,ateam,aseason
+26.0,Phillies,1910
+26.0,Phillies,1911
+18.0,Reds,1911
+18.0,Reds,1912
+17.0,Cubs,1913
+17.0,Cubs,1914
+17.0,Cubs,1915

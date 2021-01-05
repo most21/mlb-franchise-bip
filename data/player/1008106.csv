@@ -1,17 +1,17 @@
-ateam,aseason
-Giants,1960
-Giants,1961
-Giants,1962
-Giants,1963
-Giants,1964
-Giants,1965
-Giants,1966
-Giants,1967
-Giants,1968
-Giants,1969
-Giants,1970
-Giants,1971
-Giants,1972
-Giants,1973
-Red Sox,1974
-Dodgers,1975
+teamId,ateam,aseason
+30.0,Giants,1960
+30.0,Giants,1961
+30.0,Giants,1962
+30.0,Giants,1963
+30.0,Giants,1964
+30.0,Giants,1965
+30.0,Giants,1966
+30.0,Giants,1967
+30.0,Giants,1968
+30.0,Giants,1969
+30.0,Giants,1970
+30.0,Giants,1971
+30.0,Giants,1972
+30.0,Giants,1973
+3.0,Red Sox,1974
+22.0,Dodgers,1975

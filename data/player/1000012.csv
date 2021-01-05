@@ -1,12 +1,12 @@
-ateam,aseason
-Angels,1989
-Angels,1990
-Angels,1991
-Angels,1992
-Yankees,1993
-Yankees,1994
-White Sox,1995
-Angels,1995
-Angels,1996
-White Sox,1998
-Brewers,1999
+teamId,ateam,aseason
+1.0,Angels,1989
+1.0,Angels,1990
+1.0,Angels,1991
+1.0,Angels,1992
+9.0,Yankees,1993
+9.0,Yankees,1994
+4.0,White Sox,1995
+1.0,Angels,1995
+1.0,Angels,1996
+4.0,White Sox,1998
+23.0,Brewers,1999

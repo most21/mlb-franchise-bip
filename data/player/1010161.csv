@@ -1,24 +1,24 @@
-ateam,aseason
-Athletics,1912
-Athletics,1913
-Athletics,1914
-Athletics,1915
-Red Sox,1915
-Red Sox,1916
-Red Sox,1917
-Red Sox,1919
-Red Sox,1920
-Red Sox,1921
-Red Sox,1922
-Yankees,1923
-Yankees,1924
-Yankees,1925
-Yankees,1926
-Yankees,1927
-Yankees,1928
-Yankees,1929
-Yankees,1930
-Yankees,1931
-Yankees,1932
-Yankees,1933
-Red Sox,1934
+teamId,ateam,aseason
+10.0,Athletics,1912
+10.0,Athletics,1913
+10.0,Athletics,1914
+10.0,Athletics,1915
+3.0,Red Sox,1915
+3.0,Red Sox,1916
+3.0,Red Sox,1917
+3.0,Red Sox,1919
+3.0,Red Sox,1920
+3.0,Red Sox,1921
+3.0,Red Sox,1922
+9.0,Yankees,1923
+9.0,Yankees,1924
+9.0,Yankees,1925
+9.0,Yankees,1926
+9.0,Yankees,1927
+9.0,Yankees,1928
+9.0,Yankees,1929
+9.0,Yankees,1930
+9.0,Yankees,1931
+9.0,Yankees,1932
+9.0,Yankees,1933
+3.0,Red Sox,1934

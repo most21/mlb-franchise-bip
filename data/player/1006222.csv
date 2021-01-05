@@ -1,17 +1,17 @@
-ateam,aseason
-Red Sox,1980
-Red Sox,1981
-Red Sox,1982
-Red Sox,1983
-Red Sox,1984
-Red Sox,1985
-Red Sox,1986
-Red Sox,1987
-Red Sox,1988
-Padres,1989
-Padres,1990
-Padres,1991
-Padres,1992
-Padres,1993
-Rockies,1993
-Rangers,1994
+teamId,ateam,aseason
+3.0,Red Sox,1980
+3.0,Red Sox,1981
+3.0,Red Sox,1982
+3.0,Red Sox,1983
+3.0,Red Sox,1984
+3.0,Red Sox,1985
+3.0,Red Sox,1986
+3.0,Red Sox,1987
+3.0,Red Sox,1988
+29.0,Padres,1989
+29.0,Padres,1990
+29.0,Padres,1991
+29.0,Padres,1992
+29.0,Padres,1993
+19.0,Rockies,1993
+13.0,Rangers,1994

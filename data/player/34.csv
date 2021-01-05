@@ -1,16 +1,16 @@
-ateam,aseason
-Red Sox,1993
-Red Sox,1994
-Red Sox,1995
-Red Sox,1996
-Red Sox,1997
-Rangers,1998
-Rangers,1999
-Mariners,2000
-Mariners,2001
-Angels,2002
-Angels,2003
-Angels,2004
-Mariners,2005
-Dodgers,2006
-Mets,2007
+teamId,ateam,aseason
+3.0,Red Sox,1993
+3.0,Red Sox,1994
+3.0,Red Sox,1995
+3.0,Red Sox,1996
+3.0,Red Sox,1997
+13.0,Rangers,1998
+13.0,Rangers,1999
+11.0,Mariners,2000
+11.0,Mariners,2001
+1.0,Angels,2002
+1.0,Angels,2003
+1.0,Angels,2004
+11.0,Mariners,2005
+22.0,Dodgers,2006
+25.0,Mets,2007

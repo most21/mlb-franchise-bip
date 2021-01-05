@@ -1,19 +1,19 @@
-ateam,aseason
-Pirates,2005
-Pirates,2006
-Pirates,2007
-Pirates,2008
-Pirates,2009
-Pirates,2010
-Diamondbacks,2011
-Nationals,2012
-Nationals,2013
-Reds,2013
-Brewers,2014
-White Sox,2015
-White Sox,2016
-Cardinals,2016
-Cardinals,2017
-Twins,2018
-Mariners,2018
-Reds,2019
+teamId,ateam,aseason
+27.0,Pirates,2005
+27.0,Pirates,2006
+27.0,Pirates,2007
+27.0,Pirates,2008
+27.0,Pirates,2009
+27.0,Pirates,2010
+15.0,Diamondbacks,2011
+24.0,Nationals,2012
+24.0,Nationals,2013
+18.0,Reds,2013
+23.0,Brewers,2014
+4.0,White Sox,2015
+4.0,White Sox,2016
+28.0,Cardinals,2016
+28.0,Cardinals,2017
+8.0,Twins,2018
+11.0,Mariners,2018
+18.0,Reds,2019

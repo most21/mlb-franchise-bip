@@ -1,12 +1,12 @@
-ateam,aseason
-White Sox,1963
-White Sox,1964
-Athletics,1965
-Athletics,1966
-Yankees,1966
-Yankees,1967
-Yankees,1968
-Yankees,1969
-Pilots,1969
-Athletics,1969
-Athletics,1970
+teamId,ateam,aseason
+4.0,White Sox,1963
+4.0,White Sox,1964
+10.0,Athletics,1965
+10.0,Athletics,1966
+9.0,Yankees,1966
+9.0,Yankees,1967
+9.0,Yankees,1968
+9.0,Yankees,1969
+23.0,Pilots,1969
+10.0,Athletics,1969
+10.0,Athletics,1970

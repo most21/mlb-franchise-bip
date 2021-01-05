@@ -1,7 +1,7 @@
-ateam,aseason
-Cubs,1905
-Beaneaters,1906
-Doves,1907
-Doves,1908
-Cubs,1910
-Rustlers,1911
+teamId,ateam,aseason
+17.0,Cubs,1905
+16.0,Beaneaters,1906
+16.0,Doves,1907
+16.0,Doves,1908
+17.0,Cubs,1910
+16.0,Rustlers,1911

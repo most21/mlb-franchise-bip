@@ -1,8 +1,8 @@
-ateam,aseason
-Giants,1896
-Superbas,1899
-Brewers,1901
-Browns,1902
-Browns,1903
-Superbas,1903
-Superbas,1904
+teamId,ateam,aseason
+30.0,Giants,1896
+22.0,Superbas,1899
+2.0,Brewers,1901
+2.0,Browns,1902
+2.0,Browns,1903
+22.0,Superbas,1903
+22.0,Superbas,1904

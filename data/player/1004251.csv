@@ -1,8 +1,8 @@
-ateam,aseason
-Phillies,1993
-Cubs,1994
-Cubs,1995
-Cubs,1996
-Cubs,1997
-Cubs,1998
-Rangers,2001
+teamId,ateam,aseason
+26.0,Phillies,1993
+17.0,Cubs,1994
+17.0,Cubs,1995
+17.0,Cubs,1996
+17.0,Cubs,1997
+17.0,Cubs,1998
+13.0,Rangers,2001

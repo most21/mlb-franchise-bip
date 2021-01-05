@@ -1,8 +1,8 @@
-ateam,aseason
-Tigers,1938
-Tigers,1939
-Browns,1939
-Browns,1940
-Browns,1941
-Browns,1942
-Athletics,1942
+teamId,ateam,aseason
+6.0,Tigers,1938
+6.0,Tigers,1939
+2.0,Browns,1939
+2.0,Browns,1940
+2.0,Browns,1941
+2.0,Browns,1942
+10.0,Athletics,1942

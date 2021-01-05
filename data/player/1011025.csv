@@ -1,9 +1,9 @@
-ateam,aseason
-White Sox,1919
-White Sox,1922
-White Sox,1923
-White Sox,1924
-White Sox,1925
-Browns,1926
-Braves,1927
-Braves,1928
+teamId,ateam,aseason
+4.0,White Sox,1919
+4.0,White Sox,1922
+4.0,White Sox,1923
+4.0,White Sox,1924
+4.0,White Sox,1925
+2.0,Browns,1926
+16.0,Braves,1927
+16.0,Braves,1928

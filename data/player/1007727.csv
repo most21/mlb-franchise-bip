@@ -1,8 +1,8 @@
-ateam,aseason
-White Sox,1985
-White Sox,1987
-White Sox,1988
-White Sox,1989
-White Sox,1990
-Cubs,1990
-Expos,1991
+teamId,ateam,aseason
+4.0,White Sox,1985
+4.0,White Sox,1987
+4.0,White Sox,1988
+4.0,White Sox,1989
+4.0,White Sox,1990
+17.0,Cubs,1990
+24.0,Expos,1991

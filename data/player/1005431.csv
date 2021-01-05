@@ -1,11 +1,11 @@
-ateam,aseason
-Athletics,1920
-Athletics,1921
-Athletics,1922
-Athletics,1923
-Athletics,1924
-Athletics,1925
-Athletics,1926
-Red Sox,1926
-Red Sox,1927
-Red Sox,1928
+teamId,ateam,aseason
+10.0,Athletics,1920
+10.0,Athletics,1921
+10.0,Athletics,1922
+10.0,Athletics,1923
+10.0,Athletics,1924
+10.0,Athletics,1925
+10.0,Athletics,1926
+3.0,Red Sox,1926
+3.0,Red Sox,1927
+3.0,Red Sox,1928

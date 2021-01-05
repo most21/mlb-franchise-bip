@@ -1,8 +1,8 @@
-ateam,aseason
-Dodgers,1960
-Athletics,1961
-Athletics,1962
-Athletics,1963
-Tigers,1964
-Tigers,1965
-Braves,1967
+teamId,ateam,aseason
+22.0,Dodgers,1960
+10.0,Athletics,1961
+10.0,Athletics,1962
+10.0,Athletics,1963
+6.0,Tigers,1964
+6.0,Tigers,1965
+16.0,Braves,1967

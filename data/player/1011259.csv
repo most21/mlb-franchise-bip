@@ -1,17 +1,17 @@
-ateam,aseason
-Tigers,1933
-Tigers,1934
-Tigers,1935
-Tigers,1936
-Tigers,1937
-Tigers,1938
-Tigers,1939
-Tigers,1940
-Tigers,1941
-Tigers,1942
-Dodgers,1942
-Blue Jays,1943
-Phillies,1946
-Phillies,1947
-Phillies,1948
-Phillies,1949
+teamId,ateam,aseason
+6.0,Tigers,1933
+6.0,Tigers,1934
+6.0,Tigers,1935
+6.0,Tigers,1936
+6.0,Tigers,1937
+6.0,Tigers,1938
+6.0,Tigers,1939
+6.0,Tigers,1940
+6.0,Tigers,1941
+6.0,Tigers,1942
+22.0,Dodgers,1942
+26.0,Blue Jays,1943
+26.0,Phillies,1946
+26.0,Phillies,1947
+26.0,Phillies,1948
+26.0,Phillies,1949

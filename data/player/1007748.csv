@@ -1,14 +1,14 @@
-ateam,aseason
-White Sox,1944
-White Sox,1945
-White Sox,1946
-White Sox,1947
-Yankees,1948
-Yankees,1949
-Yankees,1950
-Yankees,1951
-Yankees,1952
-Yankees,1953
-Yankees,1954
-Yankees,1955
-Orioles,1955
+teamId,ateam,aseason
+4.0,White Sox,1944
+4.0,White Sox,1945
+4.0,White Sox,1946
+4.0,White Sox,1947
+9.0,Yankees,1948
+9.0,Yankees,1949
+9.0,Yankees,1950
+9.0,Yankees,1951
+9.0,Yankees,1952
+9.0,Yankees,1953
+9.0,Yankees,1954
+9.0,Yankees,1955
+2.0,Orioles,1955

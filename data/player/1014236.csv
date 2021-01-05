@@ -1,7 +1,7 @@
-ateam,aseason
-Twins,1969
-Twins,1970
-Twins,1972
-Twins,1973
-Twins,1974
-Yankees,1974
+teamId,ateam,aseason
+8.0,Twins,1969
+8.0,Twins,1970
+8.0,Twins,1972
+8.0,Twins,1973
+8.0,Twins,1974
+9.0,Yankees,1974

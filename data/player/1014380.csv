@@ -1,8 +1,8 @@
-ateam,aseason
-Beaneaters,1905
-Beaneaters,1906
-Doves,1907
-Doves,1908
-Pirates,1908
-White Sox,1910
-White Sox,1911
+teamId,ateam,aseason
+16.0,Beaneaters,1905
+16.0,Beaneaters,1906
+16.0,Doves,1907
+16.0,Doves,1908
+27.0,Pirates,1908
+4.0,White Sox,1910
+4.0,White Sox,1911

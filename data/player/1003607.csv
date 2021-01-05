@@ -1,15 +1,15 @@
-ateam,aseason
-White Stockings,1888
-White Stockings,1889
-Pirates,1890
-Kelly's Killers,1891
-Brewers,1891
-Browns,1892
-Reds,1892
-Reds,1893
-Reds,1894
-Reds,1895
-Reds,1896
-Reds,1897
-Reds,1898
-Reds,1899
+teamId,ateam,aseason
+17.0,White Stockings,1888
+17.0,White Stockings,1889
+1022.0,Pirates,1890
+1023.0,Kelly's Killers,1891
+1047.0,Brewers,1891
+28.0,Browns,1892
+18.0,Reds,1892
+18.0,Reds,1893
+18.0,Reds,1894
+18.0,Reds,1895
+18.0,Reds,1896
+18.0,Reds,1897
+18.0,Reds,1898
+18.0,Reds,1899

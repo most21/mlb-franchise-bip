@@ -1,17 +1,17 @@
-ateam,aseason
-Cubs,1977
-Cubs,1978
-Cubs,1979
-Cubs,1980
-White Sox,1981
-White Sox,1982
-White Sox,1983
-Blue Jays,1984
-Blue Jays,1985
-Blue Jays,1986
-Athletics,1987
-Red Sox,1988
-Red Sox,1989
-Red Sox,1990
-Red Sox,1991
-Pirates,1992
+teamId,ateam,aseason
+17.0,Cubs,1977
+17.0,Cubs,1978
+17.0,Cubs,1979
+17.0,Cubs,1980
+4.0,White Sox,1981
+4.0,White Sox,1982
+4.0,White Sox,1983
+14.0,Blue Jays,1984
+14.0,Blue Jays,1985
+14.0,Blue Jays,1986
+10.0,Athletics,1987
+3.0,Red Sox,1988
+3.0,Red Sox,1989
+3.0,Red Sox,1990
+3.0,Red Sox,1991
+27.0,Pirates,1992

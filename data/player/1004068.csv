@@ -1,9 +1,9 @@
-ateam,aseason
-Braves,1962
-Braves,1963
-Braves,1964
-Braves,1965
-Braves,1966
-Reds,1966
-Red Sox,1966
-Red Sox,1967
+teamId,ateam,aseason
+16.0,Braves,1962
+16.0,Braves,1963
+16.0,Braves,1964
+16.0,Braves,1965
+16.0,Braves,1966
+18.0,Reds,1966
+3.0,Red Sox,1966
+3.0,Red Sox,1967

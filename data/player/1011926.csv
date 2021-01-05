@@ -1,7 +1,7 @@
-ateam,aseason
-Athletics,1928
-Athletics,1929
-Athletics,1930
-Athletics,1931
-Giants,1933
-White Sox,1936
+teamId,ateam,aseason
+10.0,Athletics,1928
+10.0,Athletics,1929
+10.0,Athletics,1930
+10.0,Athletics,1931
+30.0,Giants,1933
+4.0,White Sox,1936

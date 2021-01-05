@@ -1,10 +1,10 @@
-ateam,aseason
-Reds,1908
-Reds,1909
-Tigers,1912
-Tigers,1913
-Tigers,1914
-Tigers,1915
-Tigers,1916
-Red Sox,1918
-Giants,1919
+teamId,ateam,aseason
+18.0,Reds,1908
+18.0,Reds,1909
+6.0,Tigers,1912
+6.0,Tigers,1913
+6.0,Tigers,1914
+6.0,Tigers,1915
+6.0,Tigers,1916
+3.0,Red Sox,1918
+30.0,Giants,1919

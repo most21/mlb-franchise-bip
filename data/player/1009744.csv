@@ -1,7 +1,7 @@
-ateam,aseason
-Indians,1994
-Indians,1995
-Indians,1996
-Indians,1997
-Indians,1998
-Phillies,1999
+teamId,ateam,aseason
+5.0,Indians,1994
+5.0,Indians,1995
+5.0,Indians,1996
+5.0,Indians,1997
+5.0,Indians,1998
+26.0,Phillies,1999

@@ -1,11 +1,11 @@
-ateam,aseason
-Red Sox,2008
-Red Sox,2009
-Indians,2009
-Indians,2010
-Indians,2011
-Indians,2012
-Indians,2013
-Indians,2014
-Cardinals,2014
-Red Sox,2015
+teamId,ateam,aseason
+3.0,Red Sox,2008
+3.0,Red Sox,2009
+5.0,Indians,2009
+5.0,Indians,2010
+5.0,Indians,2011
+5.0,Indians,2012
+5.0,Indians,2013
+5.0,Indians,2014
+28.0,Cardinals,2014
+3.0,Red Sox,2015

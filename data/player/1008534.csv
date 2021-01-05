@@ -1,14 +1,14 @@
-ateam,aseason
-Red Sox,1972
-Red Sox,1973
-Cardinals,1974
-Cardinals,1975
-Cardinals,1976
-Giants,1977
-Giants,1978
-Cubs,1978
-Cubs,1979
-Cubs,1980
-Cubs,1981
-White Sox,1981
-Yankees,1982
+teamId,ateam,aseason
+3.0,Red Sox,1972
+3.0,Red Sox,1973
+28.0,Cardinals,1974
+28.0,Cardinals,1975
+28.0,Cardinals,1976
+30.0,Giants,1977
+30.0,Giants,1978
+17.0,Cubs,1978
+17.0,Cubs,1979
+17.0,Cubs,1980
+17.0,Cubs,1981
+4.0,White Sox,1981
+9.0,Yankees,1982

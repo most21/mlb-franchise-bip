@@ -1,9 +1,9 @@
-ateam,aseason
-Infants,1890
-Kelly's Killers,1891
-Browns,1891
-Reds,1892
-Colts,1893
-Colts,1894
-Phillies,1895
-Phillies,1896
+teamId,ateam,aseason
+1024.0,Infants,1890
+1023.0,Kelly's Killers,1891
+28.0,Browns,1891
+18.0,Reds,1892
+17.0,Colts,1893
+17.0,Colts,1894
+26.0,Phillies,1895
+26.0,Phillies,1896

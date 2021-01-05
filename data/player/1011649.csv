@@ -1,13 +1,13 @@
-ateam,aseason
-Giants,1913
-Giants,1914
-Giants,1915
-Giants,1916
-Giants,1917
-Giants,1918
-Giants,1919
-Cardinals,1919
-Cardinals,1920
-Cardinals,1921
-Robins,1921
-White Sox,1922
+teamId,ateam,aseason
+30.0,Giants,1913
+30.0,Giants,1914
+30.0,Giants,1915
+30.0,Giants,1916
+30.0,Giants,1917
+30.0,Giants,1918
+30.0,Giants,1919
+28.0,Cardinals,1919
+28.0,Cardinals,1920
+28.0,Cardinals,1921
+22.0,Robins,1921
+4.0,White Sox,1922

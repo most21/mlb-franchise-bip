@@ -1,8 +1,8 @@
-ateam,aseason
-Reds,1914
-Terriers,1914
-Terriers,1915
-Browns,1916
-Browns,1917
-Browns,1918
-Browns,1919
+teamId,ateam,aseason
+18.0,Reds,1914
+1071.0,Terriers,1914
+1071.0,Terriers,1915
+2.0,Browns,1916
+2.0,Browns,1917
+2.0,Browns,1918
+2.0,Browns,1919

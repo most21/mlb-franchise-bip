@@ -1,12 +1,12 @@
-ateam,aseason
-White Sox,1975
-White Sox,1976
-Blue Jays,1977
-Cardinals,1978
-Cardinals,1979
-Cardinals,1980
-Brewers,1981
-Brewers,1982
-Brewers,1983
-Brewers,1985
-Brewers,1986
+teamId,ateam,aseason
+4.0,White Sox,1975
+4.0,White Sox,1976
+14.0,Blue Jays,1977
+28.0,Cardinals,1978
+28.0,Cardinals,1979
+28.0,Cardinals,1980
+23.0,Brewers,1981
+23.0,Brewers,1982
+23.0,Brewers,1983
+23.0,Brewers,1985
+23.0,Brewers,1986

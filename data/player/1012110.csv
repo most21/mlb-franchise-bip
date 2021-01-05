@@ -1,13 +1,13 @@
-ateam,aseason
-Bronchos,1902
-Senators,1906
-Senators,1907
-Senators,1908
-Senators,1909
-Red Sox,1909
-Red Sox,1910
-Red Sox,1911
-Cubs,1911
-Cubs,1912
-Cubs,1913
-Cubs,1914
+teamId,ateam,aseason
+5.0,Bronchos,1902
+8.0,Senators,1906
+8.0,Senators,1907
+8.0,Senators,1908
+8.0,Senators,1909
+3.0,Red Sox,1909
+3.0,Red Sox,1910
+3.0,Red Sox,1911
+17.0,Cubs,1911
+17.0,Cubs,1912
+17.0,Cubs,1913
+17.0,Cubs,1914

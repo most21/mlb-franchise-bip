@@ -1,11 +1,11 @@
-ateam,aseason
-Colonels,1899
-Pirates,1900
-White Sox,1903
-White Sox,1904
-Pirates,1904
-Pirates,1905
-Doves,1907
-Doves,1908
-Phillies,1910
-Rustlers,1911
+teamId,ateam,aseason
+1044.0,Colonels,1899
+27.0,Pirates,1900
+4.0,White Sox,1903
+4.0,White Sox,1904
+27.0,Pirates,1904
+27.0,Pirates,1905
+16.0,Doves,1907
+16.0,Doves,1908
+26.0,Phillies,1910
+16.0,Rustlers,1911

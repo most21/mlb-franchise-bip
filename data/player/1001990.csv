@@ -1,6 +1,6 @@
-ateam,aseason
-Giants,1898
-Giants,1899
-Giants,1900
-Senators,1901
-Senators,1902
+teamId,ateam,aseason
+30.0,Giants,1898
+30.0,Giants,1899
+30.0,Giants,1900
+8.0,Senators,1901
+8.0,Senators,1902

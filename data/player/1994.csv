@@ -1,13 +1,13 @@
-ateam,aseason
-Yankees,2010
-Yankees,2011
-Yankees,2012
-Yankees,2013
-Yankees,2014
-Yankees,2015
-Yankees,2016
-Pirates,2016
-Pirates,2017
-Pirates,2018
-White Sox,2019
-Tigers,2020
+teamId,ateam,aseason
+9.0,Yankees,2010
+9.0,Yankees,2011
+9.0,Yankees,2012
+9.0,Yankees,2013
+9.0,Yankees,2014
+9.0,Yankees,2015
+9.0,Yankees,2016
+27.0,Pirates,2016
+27.0,Pirates,2017
+27.0,Pirates,2018
+4.0,White Sox,2019
+6.0,Tigers,2020

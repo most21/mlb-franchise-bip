@@ -1,8 +1,8 @@
-ateam,aseason
-Dodgers,2013
-Dodgers,2014
-Dodgers,2016
-Dodgers,2017
-Dodgers,2018
-Dodgers,2019
-Blue Jays,2020
+teamId,ateam,aseason
+22.0,Dodgers,2013
+22.0,Dodgers,2014
+22.0,Dodgers,2016
+22.0,Dodgers,2017
+22.0,Dodgers,2018
+22.0,Dodgers,2019
+14.0,Blue Jays,2020

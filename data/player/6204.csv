@@ -1,10 +1,10 @@
-ateam,aseason
-Blue Jays,2005
-Blue Jays,2006
-Blue Jays,2007
-Blue Jays,2008
-Blue Jays,2010
-Brewers,2011
-Brewers,2012
-Mets,2013
-Indians,2015
+teamId,ateam,aseason
+14.0,Blue Jays,2005
+14.0,Blue Jays,2006
+14.0,Blue Jays,2007
+14.0,Blue Jays,2008
+14.0,Blue Jays,2010
+23.0,Brewers,2011
+23.0,Brewers,2012
+25.0,Mets,2013
+5.0,Indians,2015

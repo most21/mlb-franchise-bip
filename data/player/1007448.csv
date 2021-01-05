@@ -1,15 +1,15 @@
-ateam,aseason
-Red Sox,1969
-Red Sox,1970
-Red Sox,1971
-Red Sox,1972
-Red Sox,1973
-Red Sox,1974
-Red Sox,1975
-Red Sox,1976
-Red Sox,1977
-Red Sox,1978
-Expos,1979
-Expos,1980
-Expos,1981
-Expos,1982
+teamId,ateam,aseason
+3.0,Red Sox,1969
+3.0,Red Sox,1970
+3.0,Red Sox,1971
+3.0,Red Sox,1972
+3.0,Red Sox,1973
+3.0,Red Sox,1974
+3.0,Red Sox,1975
+3.0,Red Sox,1976
+3.0,Red Sox,1977
+3.0,Red Sox,1978
+24.0,Expos,1979
+24.0,Expos,1980
+24.0,Expos,1981
+24.0,Expos,1982

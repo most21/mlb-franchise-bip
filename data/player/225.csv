@@ -1,17 +1,17 @@
-ateam,aseason
-White Sox,2000
-White Sox,2001
-White Sox,2002
-White Sox,2003
-White Sox,2004
-White Sox,2005
-White Sox,2006
-White Sox,2007
-White Sox,2008
-White Sox,2009
-White Sox,2010
-White Sox,2011
-Marlins,2012
-Blue Jays,2013
-Blue Jays,2014
-Blue Jays,2015
+teamId,ateam,aseason
+4.0,White Sox,2000
+4.0,White Sox,2001
+4.0,White Sox,2002
+4.0,White Sox,2003
+4.0,White Sox,2004
+4.0,White Sox,2005
+4.0,White Sox,2006
+4.0,White Sox,2007
+4.0,White Sox,2008
+4.0,White Sox,2009
+4.0,White Sox,2010
+4.0,White Sox,2011
+20.0,Marlins,2012
+14.0,Blue Jays,2013
+14.0,Blue Jays,2014
+14.0,Blue Jays,2015

@@ -1,10 +1,10 @@
-ateam,aseason
-Brown Stockings,1875
-Brown Stockings,1876
-White Stockings,1877
-Trojans,1879
-Grays,1880
-Blues,1881
-Blues,1882
-Athletics,1883
-Outlaw Reds,1884
+teamId,ateam,aseason
+1070.0,Brown Stockings,1875
+1070.0,Brown Stockings,1876
+17.0,White Stockings,1877
+1081.0,Trojans,1879
+1064.0,Grays,1880
+1018.0,Blues,1881
+1018.0,Blues,1882
+1060.0,Athletics,1883
+1029.0,Outlaw Reds,1884

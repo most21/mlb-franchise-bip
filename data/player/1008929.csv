@@ -1,6 +1,6 @@
-ateam,aseason
-Tigers,1901
-Tigers,1902
-Giants,1902
-Giants,1903
-Pirates,1904
+teamId,ateam,aseason
+6.0,Tigers,1901
+6.0,Tigers,1902
+30.0,Giants,1902
+30.0,Giants,1903
+27.0,Pirates,1904

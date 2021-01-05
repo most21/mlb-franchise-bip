@@ -1,10 +1,10 @@
-ateam,aseason
-Cubs,1955
-Cubs,1956
-Cubs,1957
-Cubs,1958
-Cubs,1959
-Red Sox,1960
-Red Sox,1961
-Reds,1962
-Mets,1962
+teamId,ateam,aseason
+17.0,Cubs,1955
+17.0,Cubs,1956
+17.0,Cubs,1957
+17.0,Cubs,1958
+17.0,Cubs,1959
+3.0,Red Sox,1960
+3.0,Red Sox,1961
+18.0,Reds,1962
+25.0,Mets,1962

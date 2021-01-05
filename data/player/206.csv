@@ -1,23 +1,23 @@
-ateam,aseason
-Rangers,1993
-Rangers,1994
-Rangers,1995
-Rangers,1996
-Rangers,1997
-Rangers,1998
-Cardinals,1998
-Cardinals,1999
-Rangers,2000
-Rangers,2001
-Red Sox,2002
-Rockies,2003
-Marlins,2004
-Astros,2004
-Mets,2006
-Angels,2007
-Angels,2008
-Angels,2009
-Rangers,2010
-Rangers,2011
-Blue Jays,2012
-Blue Jays,2013
+teamId,ateam,aseason
+13.0,Rangers,1993
+13.0,Rangers,1994
+13.0,Rangers,1995
+13.0,Rangers,1996
+13.0,Rangers,1997
+13.0,Rangers,1998
+28.0,Cardinals,1998
+28.0,Cardinals,1999
+13.0,Rangers,2000
+13.0,Rangers,2001
+3.0,Red Sox,2002
+19.0,Rockies,2003
+20.0,Marlins,2004
+21.0,Astros,2004
+25.0,Mets,2006
+1.0,Angels,2007
+1.0,Angels,2008
+1.0,Angels,2009
+13.0,Rangers,2010
+13.0,Rangers,2011
+14.0,Blue Jays,2012
+14.0,Blue Jays,2013

@@ -1,20 +1,20 @@
-ateam,aseason
-Yankees,1966
-Yankees,1968
-Yankees,1969
-Yankees,1970
-Yankees,1971
-White Sox,1972
-White Sox,1973
-White Sox,1974
-White Sox,1975
-Athletics,1975
-Athletics,1976
-Athletics,1977
-Expos,1977
-Expos,1978
-Expos,1979
-Expos,1980
-Expos,1981
-Angels,1982
-Phillies,1982
+teamId,ateam,aseason
+9.0,Yankees,1966
+9.0,Yankees,1968
+9.0,Yankees,1969
+9.0,Yankees,1970
+9.0,Yankees,1971
+4.0,White Sox,1972
+4.0,White Sox,1973
+4.0,White Sox,1974
+4.0,White Sox,1975
+10.0,Athletics,1975
+10.0,Athletics,1976
+10.0,Athletics,1977
+24.0,Expos,1977
+24.0,Expos,1978
+24.0,Expos,1979
+24.0,Expos,1980
+24.0,Expos,1981
+1.0,Angels,1982
+26.0,Phillies,1982

@@ -1,10 +1,10 @@
-ateam,aseason
-Senators,1901
-Senators,1902
-Senators,1903
-Senators,1904
-Senators,1905
-Senators,1906
-Senators,1907
-Senators,1908
-Red Sox,1908
+teamId,ateam,aseason
+8.0,Senators,1901
+8.0,Senators,1902
+8.0,Senators,1903
+8.0,Senators,1904
+8.0,Senators,1905
+8.0,Senators,1906
+8.0,Senators,1907
+8.0,Senators,1908
+3.0,Red Sox,1908

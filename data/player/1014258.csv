@@ -1,7 +1,7 @@
-ateam,aseason
-Tigers,1909
-Tigers,1910
-Tigers,1911
-Tigers,1912
-Reds,1912
-Reds,1913
+teamId,ateam,aseason
+6.0,Tigers,1909
+6.0,Tigers,1910
+6.0,Tigers,1911
+6.0,Tigers,1912
+18.0,Reds,1912
+18.0,Reds,1913

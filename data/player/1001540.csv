@@ -1,14 +1,14 @@
-ateam,aseason
-Robins,1925
-Senators,1928
-Senators,1929
-Senators,1930
-Senators,1931
-Senators,1932
-Browns,1933
-Red Sox,1933
-Indians,1934
-Indians,1935
-Indians,1936
-Indians,1937
-Phillies,1940
+teamId,ateam,aseason
+22.0,Robins,1925
+8.0,Senators,1928
+8.0,Senators,1929
+8.0,Senators,1930
+8.0,Senators,1931
+8.0,Senators,1932
+2.0,Browns,1933
+3.0,Red Sox,1933
+5.0,Indians,1934
+5.0,Indians,1935
+5.0,Indians,1936
+5.0,Indians,1937
+26.0,Phillies,1940

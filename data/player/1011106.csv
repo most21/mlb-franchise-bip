@@ -1,9 +1,9 @@
-ateam,aseason
-Red Sox,1995
-Twins,1995
-Twins,1996
-Twins,1997
-Twins,1998
-Mariners,1999
-Mariners,2000
-Reds,2001
+teamId,ateam,aseason
+3.0,Red Sox,1995
+8.0,Twins,1995
+8.0,Twins,1996
+8.0,Twins,1997
+8.0,Twins,1998
+11.0,Mariners,1999
+11.0,Mariners,2000
+18.0,Reds,2001

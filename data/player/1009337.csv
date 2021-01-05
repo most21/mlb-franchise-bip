@@ -1,8 +1,8 @@
-ateam,aseason
-Padres,1978
-Padres,1979
-Padres,1980
-Padres,1981
-Cardinals,1982
-White Sox,1983
-Athletics,1985
+teamId,ateam,aseason
+29.0,Padres,1978
+29.0,Padres,1979
+29.0,Padres,1980
+29.0,Padres,1981
+28.0,Cardinals,1982
+4.0,White Sox,1983
+10.0,Athletics,1985

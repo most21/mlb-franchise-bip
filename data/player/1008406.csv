@@ -1,7 +1,7 @@
-ateam,aseason
-Highlanders,1909
-Highlanders,1912
-Yankees,1913
-Cubs,1914
-Whales,1915
-Cubs,1916
+teamId,ateam,aseason
+9.0,Highlanders,1909
+9.0,Highlanders,1912
+9.0,Yankees,1913
+17.0,Cubs,1914
+1021.0,Whales,1915
+17.0,Cubs,1916

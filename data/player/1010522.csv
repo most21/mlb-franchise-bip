@@ -1,7 +1,7 @@
-ateam,aseason
-Cardinals,1951
-Cardinals,1952
-Cardinals,1953
-Cardinals,1954
-Tigers,1957
-Tigers,1958
+teamId,ateam,aseason
+28.0,Cardinals,1951
+28.0,Cardinals,1952
+28.0,Cardinals,1953
+28.0,Cardinals,1954
+6.0,Tigers,1957
+6.0,Tigers,1958

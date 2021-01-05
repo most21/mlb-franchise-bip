@@ -1,11 +1,11 @@
-ateam,aseason
-Mets,1995
-Mets,1996
-Blue Jays,1997
-Blue Jays,1998
-Blue Jays,1999
-Phillies,1999
-Phillies,2000
-Phillies,2001
-Phillies,2002
-Red Sox,2003
+teamId,ateam,aseason
+25.0,Mets,1995
+25.0,Mets,1996
+14.0,Blue Jays,1997
+14.0,Blue Jays,1998
+14.0,Blue Jays,1999
+26.0,Phillies,1999
+26.0,Phillies,2000
+26.0,Phillies,2001
+26.0,Phillies,2002
+3.0,Red Sox,2003

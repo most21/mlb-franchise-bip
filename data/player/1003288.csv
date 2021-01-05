@@ -1,15 +1,15 @@
-ateam,aseason
-Colt .45's,1964
-Astros,1965
-Astros,1966
-Astros,1967
-Astros,1968
-Astros,1969
-Astros,1970
-Astros,1971
-Astros,1972
-Astros,1973
-Astros,1974
-Astros,1975
-Astros,1976
-Cardinals,1977
+teamId,ateam,aseason
+21.0,Colt .45's,1964
+21.0,Astros,1965
+21.0,Astros,1966
+21.0,Astros,1967
+21.0,Astros,1968
+21.0,Astros,1969
+21.0,Astros,1970
+21.0,Astros,1971
+21.0,Astros,1972
+21.0,Astros,1973
+21.0,Astros,1974
+21.0,Astros,1975
+21.0,Astros,1976
+28.0,Cardinals,1977

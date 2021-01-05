@@ -1,16 +1,16 @@
-ateam,aseason
-Rangers,2001
-Rangers,2003
-Rangers,2004
-Rangers,2005
-Rangers,2006
-Mariners,2008
-Twins,2009
-Mets,2010
-Mets,2011
-Mets,2012
-Blue Jays,2013
-Blue Jays,2014
-Blue Jays,2015
-Blue Jays,2016
-Braves,2017
+teamId,ateam,aseason
+13.0,Rangers,2001
+13.0,Rangers,2003
+13.0,Rangers,2004
+13.0,Rangers,2005
+13.0,Rangers,2006
+11.0,Mariners,2008
+8.0,Twins,2009
+25.0,Mets,2010
+25.0,Mets,2011
+25.0,Mets,2012
+14.0,Blue Jays,2013
+14.0,Blue Jays,2014
+14.0,Blue Jays,2015
+14.0,Blue Jays,2016
+16.0,Braves,2017

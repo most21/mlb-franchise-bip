@@ -1,12 +1,12 @@
-ateam,aseason
-Robins,1915
-Robins,1916
-Robins,1917
-Robins,1918
-Robins,1919
-Robins,1920
-Robins,1921
-Robins,1922
-Robins,1923
-White Sox,1923
-Giants,1924
+teamId,ateam,aseason
+22.0,Robins,1915
+22.0,Robins,1916
+22.0,Robins,1917
+22.0,Robins,1918
+22.0,Robins,1919
+22.0,Robins,1920
+22.0,Robins,1921
+22.0,Robins,1922
+22.0,Robins,1923
+4.0,White Sox,1923
+30.0,Giants,1924

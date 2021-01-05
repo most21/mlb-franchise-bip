@@ -1,12 +1,12 @@
-ateam,aseason
-Diamondbacks,2011
-Diamondbacks,2012
-Diamondbacks,2013
-Diamondbacks,2014
-Red Sox,2015
-Mariners,2016
-Orioles,2016
-Orioles,2017
-Brewers,2018
-Astros,2019
-Reds,2020
+teamId,ateam,aseason
+15.0,Diamondbacks,2011
+15.0,Diamondbacks,2012
+15.0,Diamondbacks,2013
+15.0,Diamondbacks,2014
+3.0,Red Sox,2015
+11.0,Mariners,2016
+2.0,Orioles,2016
+2.0,Orioles,2017
+23.0,Brewers,2018
+21.0,Astros,2019
+18.0,Reds,2020

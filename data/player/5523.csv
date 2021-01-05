@@ -1,8 +1,8 @@
-ateam,aseason
-Dodgers,2008
-Dodgers,2009
-Dodgers,2010
-Pirates,2010
-Pirates,2011
-Pirates,2012
-Pirates,2013
+teamId,ateam,aseason
+22.0,Dodgers,2008
+22.0,Dodgers,2009
+22.0,Dodgers,2010
+27.0,Pirates,2010
+27.0,Pirates,2011
+27.0,Pirates,2012
+27.0,Pirates,2013

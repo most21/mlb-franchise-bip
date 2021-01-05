@@ -1,18 +1,18 @@
-ateam,aseason
-Royals,1984
-Royals,1985
-Royals,1986
-Royals,1987
-Royals,1988
-Royals,1989
-Royals,1990
-Royals,1991
-Mets,1992
-Mets,1993
-Mets,1994
-Mets,1995
-Rockies,1995
-Red Sox,1997
-Red Sox,1998
-Red Sox,1999
-Red Sox,2001
+teamId,ateam,aseason
+7.0,Royals,1984
+7.0,Royals,1985
+7.0,Royals,1986
+7.0,Royals,1987
+7.0,Royals,1988
+7.0,Royals,1989
+7.0,Royals,1990
+7.0,Royals,1991
+25.0,Mets,1992
+25.0,Mets,1993
+25.0,Mets,1994
+25.0,Mets,1995
+19.0,Rockies,1995
+3.0,Red Sox,1997
+3.0,Red Sox,1998
+3.0,Red Sox,1999
+3.0,Red Sox,2001

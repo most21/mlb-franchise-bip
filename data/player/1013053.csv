@@ -1,11 +1,11 @@
-ateam,aseason
-Browns,1923
-White Sox,1923
-White Sox,1924
-White Sox,1925
-White Sox,1926
-Senators,1927
-Robins,1930
-Robins,1931
-Dodgers,1932
-Dodgers,1933
+teamId,ateam,aseason
+2.0,Browns,1923
+4.0,White Sox,1923
+4.0,White Sox,1924
+4.0,White Sox,1925
+4.0,White Sox,1926
+8.0,Senators,1927
+22.0,Robins,1930
+22.0,Robins,1931
+22.0,Dodgers,1932
+22.0,Dodgers,1933

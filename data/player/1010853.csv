@@ -1,26 +1,26 @@
-ateam,aseason
-Cardinals,1969
-Cardinals,1970
-Cardinals,1971
-Astros,1972
-Astros,1973
-Pirates,1974
-Pirates,1975
-Pirates,1976
-Pirates,1977
-Pirates,1978
-Dodgers,1979
-Dodgers,1980
-Dodgers,1981
-Dodgers,1982
-Dodgers,1983
-Dodgers,1984
-Dodgers,1985
-Dodgers,1986
-Dodgers,1987
-Reds,1987
-Angels,1987
-White Sox,1988
-White Sox,1989
-Brewers,1989
-Pirates,1990
+teamId,ateam,aseason
+28.0,Cardinals,1969
+28.0,Cardinals,1970
+28.0,Cardinals,1971
+21.0,Astros,1972
+21.0,Astros,1973
+27.0,Pirates,1974
+27.0,Pirates,1975
+27.0,Pirates,1976
+27.0,Pirates,1977
+27.0,Pirates,1978
+22.0,Dodgers,1979
+22.0,Dodgers,1980
+22.0,Dodgers,1981
+22.0,Dodgers,1982
+22.0,Dodgers,1983
+22.0,Dodgers,1984
+22.0,Dodgers,1985
+22.0,Dodgers,1986
+22.0,Dodgers,1987
+18.0,Reds,1987
+1.0,Angels,1987
+4.0,White Sox,1988
+4.0,White Sox,1989
+23.0,Brewers,1989
+27.0,Pirates,1990

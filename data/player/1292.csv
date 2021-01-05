@@ -1,16 +1,16 @@
-ateam,aseason
-Blue Jays,1997
-Blue Jays,1998
-Blue Jays,1999
-Blue Jays,2000
-Blue Jays,2001
-Blue Jays,2002
-Cardinals,2004
-Cardinals,2005
-Cardinals,2006
-Cardinals,2007
-Cardinals,2008
-Cardinals,2009
-Cardinals,2010
-Cardinals,2011
-Cardinals,2012
+teamId,ateam,aseason
+14.0,Blue Jays,1997
+14.0,Blue Jays,1998
+14.0,Blue Jays,1999
+14.0,Blue Jays,2000
+14.0,Blue Jays,2001
+14.0,Blue Jays,2002
+28.0,Cardinals,2004
+28.0,Cardinals,2005
+28.0,Cardinals,2006
+28.0,Cardinals,2007
+28.0,Cardinals,2008
+28.0,Cardinals,2009
+28.0,Cardinals,2010
+28.0,Cardinals,2011
+28.0,Cardinals,2012

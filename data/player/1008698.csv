@@ -1,9 +1,9 @@
-ateam,aseason
-White Sox,1921
-White Sox,1922
-White Sox,1924
-Robins,1926
-Robins,1927
-Robins,1928
-Robins,1929
-Reds,1930
+teamId,ateam,aseason
+4.0,White Sox,1921
+4.0,White Sox,1922
+4.0,White Sox,1924
+22.0,Robins,1926
+22.0,Robins,1927
+22.0,Robins,1928
+22.0,Robins,1929
+18.0,Reds,1930

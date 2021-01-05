@@ -1,18 +1,18 @@
-ateam,aseason
-Cardinals,1988
-Cardinals,1989
-Cardinals,1990
-Cardinals,1991
-Expos,1992
-Expos,1993
-Expos,1994
-Cardinals,1995
-Indians,1995
-Rangers,1996
-Rangers,1997
-Angels,1997
-Angels,1998
-Angels,1999
-Angels,2000
-White Sox,2000
-Devil Rays,2001
+teamId,ateam,aseason
+28.0,Cardinals,1988
+28.0,Cardinals,1989
+28.0,Cardinals,1990
+28.0,Cardinals,1991
+24.0,Expos,1992
+24.0,Expos,1993
+24.0,Expos,1994
+28.0,Cardinals,1995
+5.0,Indians,1995
+13.0,Rangers,1996
+13.0,Rangers,1997
+1.0,Angels,1997
+1.0,Angels,1998
+1.0,Angels,1999
+1.0,Angels,2000
+4.0,White Sox,2000
+12.0,Devil Rays,2001

@@ -1,19 +1,19 @@
-ateam,aseason
-Tigers,1945
-Tigers,1948
-White Sox,1949
-White Sox,1950
-White Sox,1951
-White Sox,1952
-White Sox,1953
-White Sox,1954
-White Sox,1955
-White Sox,1956
-White Sox,1957
-White Sox,1958
-White Sox,1959
-White Sox,1960
-White Sox,1961
-Giants,1962
-Giants,1963
-Giants,1964
+teamId,ateam,aseason
+6.0,Tigers,1945
+6.0,Tigers,1948
+4.0,White Sox,1949
+4.0,White Sox,1950
+4.0,White Sox,1951
+4.0,White Sox,1952
+4.0,White Sox,1953
+4.0,White Sox,1954
+4.0,White Sox,1955
+4.0,White Sox,1956
+4.0,White Sox,1957
+4.0,White Sox,1958
+4.0,White Sox,1959
+4.0,White Sox,1960
+4.0,White Sox,1961
+30.0,Giants,1962
+30.0,Giants,1963
+30.0,Giants,1964

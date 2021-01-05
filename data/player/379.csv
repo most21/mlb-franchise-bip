@@ -1,8 +1,8 @@
-ateam,aseason
-Indians,2001
-Indians,2002
-Rangers,2003
-Rangers,2004
-Rangers,2005
-Nationals,2005
-Nationals,2006
+teamId,ateam,aseason
+5.0,Indians,2001
+5.0,Indians,2002
+13.0,Rangers,2003
+13.0,Rangers,2004
+13.0,Rangers,2005
+24.0,Nationals,2005
+24.0,Nationals,2006

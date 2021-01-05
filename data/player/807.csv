@@ -1,6 +1,6 @@
-ateam,aseason
-Mets,1998
-Mets,1999
-Rockies,2000
-Expos,2001
-Expos,2002
+teamId,ateam,aseason
+25.0,Mets,1998
+25.0,Mets,1999
+19.0,Rockies,2000
+24.0,Expos,2001
+24.0,Expos,2002

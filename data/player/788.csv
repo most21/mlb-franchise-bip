@@ -1,13 +1,13 @@
-ateam,aseason
-Red Sox,1999
-Red Sox,2000
-Red Sox,2001
-Expos,2001
-Expos,2002
-Expos,2003
-Expos,2004
-Nationals,2005
-Brewers,2005
-Brewers,2006
-Blue Jays,2007
-Indians,2009
+teamId,ateam,aseason
+3.0,Red Sox,1999
+3.0,Red Sox,2000
+3.0,Red Sox,2001
+24.0,Expos,2001
+24.0,Expos,2002
+24.0,Expos,2003
+24.0,Expos,2004
+24.0,Nationals,2005
+23.0,Brewers,2005
+23.0,Brewers,2006
+14.0,Blue Jays,2007
+5.0,Indians,2009

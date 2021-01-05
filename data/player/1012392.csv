@@ -1,8 +1,8 @@
-ateam,aseason
-Red Sox,1960
-Red Sox,1961
-Red Sox,1962
-Mets,1963
-Mets,1964
-Cardinals,1965
-Cardinals,1966
+teamId,ateam,aseason
+3.0,Red Sox,1960
+3.0,Red Sox,1961
+3.0,Red Sox,1962
+25.0,Mets,1963
+25.0,Mets,1964
+28.0,Cardinals,1965
+28.0,Cardinals,1966

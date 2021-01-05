@@ -1,14 +1,14 @@
-ateam,aseason
-Cubs,1958
-Cubs,1959
-Phillies,1960
-Phillies,1961
-White Sox,1962
-White Sox,1963
-White Sox,1964
-White Sox,1965
-White Sox,1966
-White Sox,1967
-Orioles,1967
-Astros,1967
-Astros,1968
+teamId,ateam,aseason
+17.0,Cubs,1958
+17.0,Cubs,1959
+26.0,Phillies,1960
+26.0,Phillies,1961
+4.0,White Sox,1962
+4.0,White Sox,1963
+4.0,White Sox,1964
+4.0,White Sox,1965
+4.0,White Sox,1966
+4.0,White Sox,1967
+2.0,Orioles,1967
+21.0,Astros,1967
+21.0,Astros,1968

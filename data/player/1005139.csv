@@ -1,11 +1,11 @@
-ateam,aseason
-White Stockings,1888
-White Stockings,1889
-Reds,1890
-Colts,1891
-Colts,1892
-Pirates,1893
-Pirates,1894
-Grooms,1895
-Bridegrooms,1896
-Phillies,1896
+teamId,ateam,aseason
+17.0,White Stockings,1888
+17.0,White Stockings,1889
+1013.0,Reds,1890
+17.0,Colts,1891
+17.0,Colts,1892
+27.0,Pirates,1893
+27.0,Pirates,1894
+22.0,Grooms,1895
+22.0,Bridegrooms,1896
+26.0,Phillies,1896

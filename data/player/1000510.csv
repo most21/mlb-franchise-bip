@@ -1,11 +1,11 @@
-ateam,aseason
-Royals,1986
-Mariners,1987
-Mariners,1988
-Mariners,1989
-Mariners,1990
-Mariners,1991
-Reds,1992
-Red Sox,1993
-Red Sox,1994
-Yankees,1995
+teamId,ateam,aseason
+7.0,Royals,1986
+11.0,Mariners,1987
+11.0,Mariners,1988
+11.0,Mariners,1989
+11.0,Mariners,1990
+11.0,Mariners,1991
+18.0,Reds,1992
+3.0,Red Sox,1993
+3.0,Red Sox,1994
+9.0,Yankees,1995

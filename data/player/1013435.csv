@@ -1,17 +1,17 @@
-ateam,aseason
-Twins,1982
-Twins,1983
-Twins,1984
-Twins,1985
-Twins,1986
-Twins,1987
-Twins,1988
-Twins,1989
-Mets,1989
-Mets,1990
-Mets,1991
-Red Sox,1992
-Red Sox,1993
-Red Sox,1994
-Reds,1995
-Blue Jays,1996
+teamId,ateam,aseason
+8.0,Twins,1982
+8.0,Twins,1983
+8.0,Twins,1984
+8.0,Twins,1985
+8.0,Twins,1986
+8.0,Twins,1987
+8.0,Twins,1988
+8.0,Twins,1989
+25.0,Mets,1989
+25.0,Mets,1990
+25.0,Mets,1991
+3.0,Red Sox,1992
+3.0,Red Sox,1993
+3.0,Red Sox,1994
+18.0,Reds,1995
+14.0,Blue Jays,1996

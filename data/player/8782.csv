@@ -1,13 +1,13 @@
-ateam,aseason
-Cubs,2010
-Cubs,2011
-Padres,2012
-Padres,2013
-Padres,2014
-Padres,2015
-Padres,2016
-Marlins,2016
-Rangers,2017
-Orioles,2018
-Orioles,2019
-Red Sox,2019
+teamId,ateam,aseason
+17.0,Cubs,2010
+17.0,Cubs,2011
+29.0,Padres,2012
+29.0,Padres,2013
+29.0,Padres,2014
+29.0,Padres,2015
+29.0,Padres,2016
+20.0,Marlins,2016
+13.0,Rangers,2017
+2.0,Orioles,2018
+2.0,Orioles,2019
+3.0,Red Sox,2019

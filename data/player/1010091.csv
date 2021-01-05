@@ -1,5 +1,5 @@
-ateam,aseason
-Red Sox,1977
-Indians,1978
-Indians,1979
-Indians,1980
+teamId,ateam,aseason
+3.0,Red Sox,1977
+5.0,Indians,1978
+5.0,Indians,1979
+5.0,Indians,1980

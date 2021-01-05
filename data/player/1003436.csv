@@ -1,13 +1,13 @@
-ateam,aseason
-White Sox,1912
-Reds,1914
-Reds,1915
-Robins,1915
-Cubs,1915
-Cubs,1917
-Cubs,1918
-Cubs,1919
-Giants,1919
-Giants,1920
-Giants,1921
-Giants,1922
+teamId,ateam,aseason
+4.0,White Sox,1912
+18.0,Reds,1914
+18.0,Reds,1915
+22.0,Robins,1915
+17.0,Cubs,1915
+17.0,Cubs,1917
+17.0,Cubs,1918
+17.0,Cubs,1919
+30.0,Giants,1919
+30.0,Giants,1920
+30.0,Giants,1921
+30.0,Giants,1922

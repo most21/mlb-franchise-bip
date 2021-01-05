@@ -1,8 +1,8 @@
-ateam,aseason
-Red Stockings,1886
-Red Stockings,1887
-Red Stockings,1888
-Red Stockings,1889
-Pirates,1892
-Pirates,1894
-Reds,1898
+teamId,ateam,aseason
+18.0,Red Stockings,1886
+18.0,Red Stockings,1887
+18.0,Red Stockings,1888
+18.0,Red Stockings,1889
+27.0,Pirates,1892
+27.0,Pirates,1894
+18.0,Reds,1898

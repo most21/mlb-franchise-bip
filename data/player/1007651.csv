@@ -1,9 +1,9 @@
-ateam,aseason
-Senators,1927
-Senators,1928
-Red Sox,1929
-Red Sox,1930
-Red Sox,1931
-Red Sox,1932
-Athletics,1936
-Reds,1945
+teamId,ateam,aseason
+8.0,Senators,1927
+8.0,Senators,1928
+3.0,Red Sox,1929
+3.0,Red Sox,1930
+3.0,Red Sox,1931
+3.0,Red Sox,1932
+10.0,Athletics,1936
+18.0,Reds,1945

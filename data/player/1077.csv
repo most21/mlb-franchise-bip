@@ -1,18 +1,18 @@
-ateam,aseason
-Mariners,1999
-Mariners,2000
-Mariners,2001
-Mariners,2002
-Mariners,2003
-Mariners,2004
-White Sox,2004
-White Sox,2005
-White Sox,2006
-Phillies,2007
-Tigers,2008
-White Sox,2009
-White Sox,2010
-Yankees,2011
-Yankees,2012
-Orioles,2013
-Braves,2013
+teamId,ateam,aseason
+11.0,Mariners,1999
+11.0,Mariners,2000
+11.0,Mariners,2001
+11.0,Mariners,2002
+11.0,Mariners,2003
+11.0,Mariners,2004
+4.0,White Sox,2004
+4.0,White Sox,2005
+4.0,White Sox,2006
+26.0,Phillies,2007
+6.0,Tigers,2008
+4.0,White Sox,2009
+4.0,White Sox,2010
+9.0,Yankees,2011
+9.0,Yankees,2012
+2.0,Orioles,2013
+16.0,Braves,2013

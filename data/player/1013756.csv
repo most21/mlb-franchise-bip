@@ -1,11 +1,11 @@
-ateam,aseason
-Cubs,1926
-Cubs,1927
-Cubs,1928
-Cubs,1931
-Red Sox,1932
-Red Sox,1933
-Red Sox,1934
-Red Sox,1935
-Red Sox,1936
-Pirates,1936
+teamId,ateam,aseason
+17.0,Cubs,1926
+17.0,Cubs,1927
+17.0,Cubs,1928
+17.0,Cubs,1931
+3.0,Red Sox,1932
+3.0,Red Sox,1933
+3.0,Red Sox,1934
+3.0,Red Sox,1935
+3.0,Red Sox,1936
+27.0,Pirates,1936

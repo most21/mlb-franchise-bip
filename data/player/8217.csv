@@ -1,6 +1,6 @@
-ateam,aseason
-Tigers,1996
-Tigers,1997
-Tigers,1998
-Tigers,1999
-Rangers,2005
+teamId,ateam,aseason
+6.0,Tigers,1996
+6.0,Tigers,1997
+6.0,Tigers,1998
+6.0,Tigers,1999
+13.0,Rangers,2005

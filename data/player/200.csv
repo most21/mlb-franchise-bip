@@ -1,19 +1,19 @@
-ateam,aseason
-Dodgers,1992
-Dodgers,1993
-Expos,1994
-Expos,1995
-Expos,1996
-Expos,1997
-Red Sox,1998
-Red Sox,1999
-Red Sox,2000
-Red Sox,2001
-Red Sox,2002
-Red Sox,2003
-Red Sox,2004
-Mets,2005
-Mets,2006
-Mets,2007
-Mets,2008
-Phillies,2009
+teamId,ateam,aseason
+22.0,Dodgers,1992
+22.0,Dodgers,1993
+24.0,Expos,1994
+24.0,Expos,1995
+24.0,Expos,1996
+24.0,Expos,1997
+3.0,Red Sox,1998
+3.0,Red Sox,1999
+3.0,Red Sox,2000
+3.0,Red Sox,2001
+3.0,Red Sox,2002
+3.0,Red Sox,2003
+3.0,Red Sox,2004
+25.0,Mets,2005
+25.0,Mets,2006
+25.0,Mets,2007
+25.0,Mets,2008
+26.0,Phillies,2009

@@ -1,8 +1,8 @@
-ateam,aseason
-Blue Jays,2014
-Blue Jays,2015
-Blue Jays,2016
-Blue Jays,2017
-Blue Jays,2018
-Blue Jays,2019
-Astros,2019
+teamId,ateam,aseason
+14.0,Blue Jays,2014
+14.0,Blue Jays,2015
+14.0,Blue Jays,2016
+14.0,Blue Jays,2017
+14.0,Blue Jays,2018
+14.0,Blue Jays,2019
+21.0,Astros,2019

@@ -1,20 +1,20 @@
-ateam,aseason
-Dodgers,1978
-Dodgers,1981
-Dodgers,1982
-Dodgers,1983
-Rangers,1983
-Rangers,1984
-Rangers,1985
-Phillies,1985
-Phillies,1986
-Athletics,1986
-Athletics,1987
-Athletics,1988
-Athletics,1989
-Athletics,1990
-Athletics,1991
-Athletics,1992
-Blue Jays,1993
-Blue Jays,1994
-Athletics,1995
+teamId,ateam,aseason
+22.0,Dodgers,1978
+22.0,Dodgers,1981
+22.0,Dodgers,1982
+22.0,Dodgers,1983
+13.0,Rangers,1983
+13.0,Rangers,1984
+13.0,Rangers,1985
+26.0,Phillies,1985
+26.0,Phillies,1986
+10.0,Athletics,1986
+10.0,Athletics,1987
+10.0,Athletics,1988
+10.0,Athletics,1989
+10.0,Athletics,1990
+10.0,Athletics,1991
+10.0,Athletics,1992
+14.0,Blue Jays,1993
+14.0,Blue Jays,1994
+10.0,Athletics,1995

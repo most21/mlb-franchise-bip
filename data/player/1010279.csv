@@ -1,6 +1,6 @@
-ateam,aseason
-Robins,1930
-Robins,1931
-Dodgers,1932
-White Sox,1935
-White Sox,1936
+teamId,ateam,aseason
+22.0,Robins,1930
+22.0,Robins,1931
+22.0,Dodgers,1932
+4.0,White Sox,1935
+4.0,White Sox,1936

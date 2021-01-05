@@ -1,7 +1,7 @@
-ateam,aseason
-Tigers,1917
-Reds,1922
-Reds,1923
-Phillies,1923
-Phillies,1924
-Phillies,1925
+teamId,ateam,aseason
+6.0,Tigers,1917
+18.0,Reds,1922
+18.0,Reds,1923
+26.0,Phillies,1923
+26.0,Phillies,1924
+26.0,Phillies,1925

@@ -1,13 +1,13 @@
-ateam,aseason
-Blue Jays,1991
-Blue Jays,1992
-Blue Jays,1993
-Blue Jays,1994
-Blue Jays,1995
-Blue Jays,1996
-Blue Jays,1997
-Blue Jays,1998
-Orioles,1998
-Orioles,1999
-Reds,1999
-Devil Rays,2000
+teamId,ateam,aseason
+14.0,Blue Jays,1991
+14.0,Blue Jays,1992
+14.0,Blue Jays,1993
+14.0,Blue Jays,1994
+14.0,Blue Jays,1995
+14.0,Blue Jays,1996
+14.0,Blue Jays,1997
+14.0,Blue Jays,1998
+2.0,Orioles,1998
+2.0,Orioles,1999
+18.0,Reds,1999
+12.0,Devil Rays,2000

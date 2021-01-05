@@ -1,6 +1,6 @@
-ateam,aseason
-Braves,1922
-Braves,1923
-Braves,1924
-Braves,1925
-Giants,1926
+teamId,ateam,aseason
+16.0,Braves,1922
+16.0,Braves,1923
+16.0,Braves,1924
+16.0,Braves,1925
+30.0,Giants,1926

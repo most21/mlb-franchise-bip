@@ -1,13 +1,13 @@
-ateam,aseason
-Mets,1991
-Mets,1992
-Mets,1993
-Reds,1994
-Reds,1995
-Reds,1996
-Reds,1997
-Astros,1998
-Red Sox,1998
-Pirates,1999
-Red Sox,2000
-Red Sox,2001
+teamId,ateam,aseason
+25.0,Mets,1991
+25.0,Mets,1992
+25.0,Mets,1993
+18.0,Reds,1994
+18.0,Reds,1995
+18.0,Reds,1996
+18.0,Reds,1997
+21.0,Astros,1998
+3.0,Red Sox,1998
+27.0,Pirates,1999
+3.0,Red Sox,2000
+3.0,Red Sox,2001

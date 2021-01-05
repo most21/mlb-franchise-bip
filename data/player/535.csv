@@ -1,17 +1,17 @@
-ateam,aseason
-Marlins,2000
-Marlins,2001
-Marlins,2002
-Marlins,2003
-Marlins,2004
-Dodgers,2004
-Dodgers,2005
-Dodgers,2006
-Dodgers,2007
-Dodgers,2008
-Red Sox,2009
-Giants,2009
-Cardinals,2010
-Tigers,2011
-Giants,2012
-Marlins,2014
+teamId,ateam,aseason
+20.0,Marlins,2000
+20.0,Marlins,2001
+20.0,Marlins,2002
+20.0,Marlins,2003
+20.0,Marlins,2004
+22.0,Dodgers,2004
+22.0,Dodgers,2005
+22.0,Dodgers,2006
+22.0,Dodgers,2007
+22.0,Dodgers,2008
+3.0,Red Sox,2009
+30.0,Giants,2009
+28.0,Cardinals,2010
+6.0,Tigers,2011
+30.0,Giants,2012
+20.0,Marlins,2014

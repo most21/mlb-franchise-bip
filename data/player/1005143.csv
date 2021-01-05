@@ -1,13 +1,13 @@
-ateam,aseason
-Athletics,1936
-Athletics,1937
-Athletics,1938
-Yankees,1946
-Yankees,1947
-Yankees,1948
-White Sox,1948
-White Sox,1949
-White Sox,1950
-White Sox,1951
-Red Sox,1952
-Senators,1952
+teamId,ateam,aseason
+10.0,Athletics,1936
+10.0,Athletics,1937
+10.0,Athletics,1938
+9.0,Yankees,1946
+9.0,Yankees,1947
+9.0,Yankees,1948
+4.0,White Sox,1948
+4.0,White Sox,1949
+4.0,White Sox,1950
+4.0,White Sox,1951
+3.0,Red Sox,1952
+8.0,Senators,1952

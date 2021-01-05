@@ -1,14 +1,14 @@
-ateam,aseason
-Rockies,2004
-Rockies,2005
-Rockies,2006
-Rockies,2007
-Rockies,2008
-Rockies,2010
-Royals,2011
-Rockies,2012
-Rockies,2013
-Reds,2014
-Athletics,2014
-Yankees,2014
-Blue Jays,2015
+teamId,ateam,aseason
+19.0,Rockies,2004
+19.0,Rockies,2005
+19.0,Rockies,2006
+19.0,Rockies,2007
+19.0,Rockies,2008
+19.0,Rockies,2010
+7.0,Royals,2011
+19.0,Rockies,2012
+19.0,Rockies,2013
+18.0,Reds,2014
+10.0,Athletics,2014
+9.0,Yankees,2014
+14.0,Blue Jays,2015

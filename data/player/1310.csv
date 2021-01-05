@@ -1,20 +1,20 @@
-ateam,aseason
-Pirates,1995
-Pirates,1996
-Pirates,1997
-Pirates,1998
-Rangers,1998
-Rangers,1999
-Rangers,2000
-Blue Jays,2000
-Blue Jays,2001
-Blue Jays,2002
-White Sox,2003
-White Sox,2004
-Yankees,2004
-Nationals,2005
-Athletics,2006
-Athletics,2007
-Dodgers,2007
-Dodgers,2008
-White Sox,2008
+teamId,ateam,aseason
+27.0,Pirates,1995
+27.0,Pirates,1996
+27.0,Pirates,1997
+27.0,Pirates,1998
+13.0,Rangers,1998
+13.0,Rangers,1999
+13.0,Rangers,2000
+14.0,Blue Jays,2000
+14.0,Blue Jays,2001
+14.0,Blue Jays,2002
+4.0,White Sox,2003
+4.0,White Sox,2004
+9.0,Yankees,2004
+24.0,Nationals,2005
+10.0,Athletics,2006
+10.0,Athletics,2007
+22.0,Dodgers,2007
+22.0,Dodgers,2008
+4.0,White Sox,2008

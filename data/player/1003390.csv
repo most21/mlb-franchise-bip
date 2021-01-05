@@ -1,15 +1,15 @@
-ateam,aseason
-Reds,1921
-Reds,1922
-Reds,1923
-Reds,1924
-Reds,1925
-Reds,1926
-Reds,1927
-Reds,1928
-Reds,1929
-Reds,1930
-Giants,1930
-Giants,1931
-Indians,1931
-Red Sox,1932
+teamId,ateam,aseason
+18.0,Reds,1921
+18.0,Reds,1922
+18.0,Reds,1923
+18.0,Reds,1924
+18.0,Reds,1925
+18.0,Reds,1926
+18.0,Reds,1927
+18.0,Reds,1928
+18.0,Reds,1929
+18.0,Reds,1930
+30.0,Giants,1930
+30.0,Giants,1931
+5.0,Indians,1931
+3.0,Red Sox,1932

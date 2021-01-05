@@ -1,9 +1,9 @@
-ateam,aseason
-Phillies,1962
-Phillies,1963
-Phillies,1964
-Red Sox,1965
-Red Sox,1966
-Red Sox,1967
-Mets,1967
-Angels,1968
+teamId,ateam,aseason
+26.0,Phillies,1962
+26.0,Phillies,1963
+26.0,Phillies,1964
+3.0,Red Sox,1965
+3.0,Red Sox,1966
+3.0,Red Sox,1967
+25.0,Mets,1967
+1.0,Angels,1968

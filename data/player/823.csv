@@ -1,11 +1,11 @@
-ateam,aseason
-Yankees,1998
-Yankees,1999
-Yankees,2000
-Yankees,2001
-Yankees,2002
-Yankees,2004
-White Sox,2005
-Diamondbacks,2006
-Mets,2006
-Mets,2007
+teamId,ateam,aseason
+9.0,Yankees,1998
+9.0,Yankees,1999
+9.0,Yankees,2000
+9.0,Yankees,2001
+9.0,Yankees,2002
+9.0,Yankees,2004
+4.0,White Sox,2005
+15.0,Diamondbacks,2006
+25.0,Mets,2006
+25.0,Mets,2007

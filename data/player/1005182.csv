@@ -1,14 +1,14 @@
-ateam,aseason
-Cubs,1948
-Cubs,1949
-Cubs,1950
-Cubs,1951
-Cubs,1952
-Cubs,1953
-Cubs,1954
-Cubs,1955
-Cubs,1956
-Redlegs,1957
-Phillies,1957
-Phillies,1958
-White Sox,1961
+teamId,ateam,aseason
+17.0,Cubs,1948
+17.0,Cubs,1949
+17.0,Cubs,1950
+17.0,Cubs,1951
+17.0,Cubs,1952
+17.0,Cubs,1953
+17.0,Cubs,1954
+17.0,Cubs,1955
+17.0,Cubs,1956
+18.0,Redlegs,1957
+26.0,Phillies,1957
+26.0,Phillies,1958
+4.0,White Sox,1961

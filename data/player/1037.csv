@@ -1,17 +1,17 @@
-ateam,aseason
-Reds,1994
-Reds,1995
-Reds,1996
-Reds,1997
-Twins,1997
-Tigers,1997
-Athletics,1999
-Rockies,2000
-Padres,2001
-Padres,2002
-Padres,2003
-Mariners,2004
-Rockies,2004
-Cardinals,2005
-Diamondbacks,2006
-Red Sox,2006
+teamId,ateam,aseason
+18.0,Reds,1994
+18.0,Reds,1995
+18.0,Reds,1996
+18.0,Reds,1997
+8.0,Twins,1997
+6.0,Tigers,1997
+10.0,Athletics,1999
+19.0,Rockies,2000
+29.0,Padres,2001
+29.0,Padres,2002
+29.0,Padres,2003
+11.0,Mariners,2004
+19.0,Rockies,2004
+28.0,Cardinals,2005
+15.0,Diamondbacks,2006
+3.0,Red Sox,2006

@@ -1,8 +1,8 @@
-ateam,aseason
-Brewers,1995
-Brewers,1996
-Brewers,1997
-Brewers,1998
-Brewers,1999
-Rockies,2000
-Angels,2000
+teamId,ateam,aseason
+23.0,Brewers,1995
+23.0,Brewers,1996
+23.0,Brewers,1997
+23.0,Brewers,1998
+23.0,Brewers,1999
+19.0,Rockies,2000
+1.0,Angels,2000

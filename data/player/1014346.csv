@@ -1,6 +1,6 @@
-ateam,aseason
-Naps,1911
-Dodgers,1912
-Superbas,1913
-Reds,1914
-Senators,1918
+teamId,ateam,aseason
+5.0,Naps,1911
+22.0,Dodgers,1912
+22.0,Superbas,1913
+18.0,Reds,1914
+8.0,Senators,1918

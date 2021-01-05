@@ -1,7 +1,7 @@
-ateam,aseason
-Pirates,1987
-Pirates,1988
-Pirates,1989
-Mariners,1989
-Padres,1990
-White Sox,1992
+teamId,ateam,aseason
+27.0,Pirates,1987
+27.0,Pirates,1988
+27.0,Pirates,1989
+11.0,Mariners,1989
+29.0,Padres,1990
+4.0,White Sox,1992

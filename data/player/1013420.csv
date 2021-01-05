@@ -1,9 +1,9 @@
-ateam,aseason
-Red Stockings,1888
-Red Stockings,1889
-Reds,1890
-Spiders,1890
-Spiders,1891
-Spiders,1892
-Colonels,1892
-Beaneaters,1892
+teamId,ateam,aseason
+18.0,Red Stockings,1888
+18.0,Red Stockings,1889
+18.0,Reds,1890
+1026.0,Spiders,1890
+1026.0,Spiders,1891
+1026.0,Spiders,1892
+1044.0,Colonels,1892
+16.0,Beaneaters,1892

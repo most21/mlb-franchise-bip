@@ -1,5 +1,5 @@
-ateam,aseason
-Yankees,2003
-Reds,2004
-Reds,2005
-Reds,2006
+teamId,ateam,aseason
+9.0,Yankees,2003
+18.0,Reds,2004
+18.0,Reds,2005
+18.0,Reds,2006

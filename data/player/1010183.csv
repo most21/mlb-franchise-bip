@@ -1,10 +1,10 @@
-ateam,aseason
-Royals,1987
-White Sox,1988
-White Sox,1989
-White Sox,1990
-White Sox,1991
-Yankees,1992
-Yankees,1993
-Yankees,1994
-Yankees,1995
+teamId,ateam,aseason
+7.0,Royals,1987
+4.0,White Sox,1988
+4.0,White Sox,1989
+4.0,White Sox,1990
+4.0,White Sox,1991
+9.0,Yankees,1992
+9.0,Yankees,1993
+9.0,Yankees,1994
+9.0,Yankees,1995

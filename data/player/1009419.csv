@@ -1,10 +1,10 @@
-ateam,aseason
-Athletics,1915
-Athletics,1916
-Athletics,1917
-Athletics,1918
-Indians,1919
-Indians,1920
-Red Sox,1920
-Red Sox,1921
-Red Sox,1922
+teamId,ateam,aseason
+10.0,Athletics,1915
+10.0,Athletics,1916
+10.0,Athletics,1917
+10.0,Athletics,1918
+5.0,Indians,1919
+5.0,Indians,1920
+3.0,Red Sox,1920
+3.0,Red Sox,1921
+3.0,Red Sox,1922

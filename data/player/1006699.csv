@@ -1,9 +1,9 @@
-ateam,aseason
-Pirates,1906
-Cardinals,1906
-Cardinals,1907
-Cardinals,1908
-Reds,1909
-Red Sox,1909
-Red Sox,1910
-Red Sox,1911
+teamId,ateam,aseason
+27.0,Pirates,1906
+28.0,Cardinals,1906
+28.0,Cardinals,1907
+28.0,Cardinals,1908
+18.0,Reds,1909
+3.0,Red Sox,1909
+3.0,Red Sox,1910
+3.0,Red Sox,1911

@@ -1,11 +1,11 @@
-ateam,aseason
-Braves,1960
-Braves,1961
-Braves,1962
-Colt .45's,1963
-Colt .45's,1964
-Astros,1965
-Reds,1966
-Reds,1967
-Yankees,1969
-Cubs,1969
+teamId,ateam,aseason
+16.0,Braves,1960
+16.0,Braves,1961
+16.0,Braves,1962
+21.0,Colt .45's,1963
+21.0,Colt .45's,1964
+21.0,Astros,1965
+18.0,Reds,1966
+18.0,Reds,1967
+9.0,Yankees,1969
+17.0,Cubs,1969

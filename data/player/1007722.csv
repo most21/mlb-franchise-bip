@@ -1,7 +1,7 @@
-ateam,aseason
-Dodgers,1945
-Dodgers,1946
-Dodgers,1947
-Pirates,1948
-Pirates,1949
-Pirates,1950
+teamId,ateam,aseason
+22.0,Dodgers,1945
+22.0,Dodgers,1946
+22.0,Dodgers,1947
+27.0,Pirates,1948
+27.0,Pirates,1949
+27.0,Pirates,1950

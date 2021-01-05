@@ -1,6 +1,6 @@
-ateam,aseason
-Athletics,1912
-Athletics,1913
-Athletics,1914
-Tip-Tops,1914
-Browns,1918
+teamId,ateam,aseason
+10.0,Athletics,1912
+10.0,Athletics,1913
+10.0,Athletics,1914
+1014.0,Tip-Tops,1914
+2.0,Browns,1918

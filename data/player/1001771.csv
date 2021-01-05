@@ -1,8 +1,8 @@
-ateam,aseason
-Royals,1969
-Royals,1970
-Royals,1971
-Indians,1972
-Twins,1974
-Twins,1975
-Twins,1977
+teamId,ateam,aseason
+7.0,Royals,1969
+7.0,Royals,1970
+7.0,Royals,1971
+5.0,Indians,1972
+8.0,Twins,1974
+8.0,Twins,1975
+8.0,Twins,1977

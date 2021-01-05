@@ -1,6 +1,6 @@
-ateam,aseason
-Colts,1893
-Reds,1893
-Reds,1894
-Reds,1895
-Browns,1896
+teamId,ateam,aseason
+17.0,Colts,1893
+18.0,Reds,1893
+18.0,Reds,1894
+18.0,Reds,1895
+28.0,Browns,1896

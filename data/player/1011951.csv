@@ -1,16 +1,16 @@
-ateam,aseason
-Indians,1964
-Indians,1965
-Indians,1966
-Indians,1967
-Indians,1968
-Indians,1969
-Red Sox,1969
-Red Sox,1970
-Red Sox,1971
-Red Sox,1972
-Red Sox,1973
-Rangers,1973
-Cardinals,1974
-Padres,1975
-Athletics,1975
+teamId,ateam,aseason
+5.0,Indians,1964
+5.0,Indians,1965
+5.0,Indians,1966
+5.0,Indians,1967
+5.0,Indians,1968
+5.0,Indians,1969
+3.0,Red Sox,1969
+3.0,Red Sox,1970
+3.0,Red Sox,1971
+3.0,Red Sox,1972
+3.0,Red Sox,1973
+13.0,Rangers,1973
+28.0,Cardinals,1974
+29.0,Padres,1975
+10.0,Athletics,1975

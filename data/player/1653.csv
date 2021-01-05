@@ -1,15 +1,15 @@
-ateam,aseason
-Brewers,1991
-Brewers,1992
-Brewers,1993
-Brewers,1994
-Brewers,1995
-Brewers,1996
-Brewers,1997
-Brewers,1998
-Brewers,1999
-White Sox,2000
-White Sox,2001
-Cardinals,2003
-Cardinals,2004
-Cardinals,2005
+teamId,ateam,aseason
+23.0,Brewers,1991
+23.0,Brewers,1992
+23.0,Brewers,1993
+23.0,Brewers,1994
+23.0,Brewers,1995
+23.0,Brewers,1996
+23.0,Brewers,1997
+23.0,Brewers,1998
+23.0,Brewers,1999
+4.0,White Sox,2000
+4.0,White Sox,2001
+28.0,Cardinals,2003
+28.0,Cardinals,2004
+28.0,Cardinals,2005

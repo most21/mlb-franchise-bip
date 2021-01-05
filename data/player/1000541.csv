@@ -1,8 +1,8 @@
-ateam,aseason
-Highlanders,1906
-Highlanders,1907
-Superbas,1910
-Dodgers,1911
-Dodgers,1912
-Rebels,1914
-Rebels,1915
+teamId,ateam,aseason
+9.0,Highlanders,1906
+9.0,Highlanders,1907
+22.0,Superbas,1910
+22.0,Dodgers,1911
+22.0,Dodgers,1912
+1059.0,Rebels,1914
+1059.0,Rebels,1915

@@ -1,7 +1,7 @@
-ateam,aseason
-Cubs,1966
-Cubs,1967
-Cubs,1968
-Cubs,1969
-Cardinals,1970
-Expos,1970
+teamId,ateam,aseason
+17.0,Cubs,1966
+17.0,Cubs,1967
+17.0,Cubs,1968
+17.0,Cubs,1969
+28.0,Cardinals,1970
+24.0,Expos,1970

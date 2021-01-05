@@ -1,8 +1,8 @@
-ateam,aseason
-Senators,1925
-Senators,1926
-Athletics,1936
-Athletics,1937
-Athletics,1938
-Senators,1938
-Senators,1939
+teamId,ateam,aseason
+8.0,Senators,1925
+8.0,Senators,1926
+10.0,Athletics,1936
+10.0,Athletics,1937
+10.0,Athletics,1938
+8.0,Senators,1938
+8.0,Senators,1939

@@ -1,13 +1,13 @@
-ateam,aseason
-Orioles,2002
-Orioles,2004
-Orioles,2005
-Orioles,2006
-Orioles,2007
-Mariners,2008
-Mariners,2009
-Mariners,2011
-Red Sox,2011
-Pirates,2012
-Astros,2013
-Rays,2014
+teamId,ateam,aseason
+2.0,Orioles,2002
+2.0,Orioles,2004
+2.0,Orioles,2005
+2.0,Orioles,2006
+2.0,Orioles,2007
+11.0,Mariners,2008
+11.0,Mariners,2009
+11.0,Mariners,2011
+3.0,Red Sox,2011
+27.0,Pirates,2012
+21.0,Astros,2013
+12.0,Rays,2014

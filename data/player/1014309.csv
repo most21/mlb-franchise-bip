@@ -1,24 +1,24 @@
-ateam,aseason
-Senators,1939
-Senators,1941
-Senators,1942
-Senators,1943
-Senators,1944
-Senators,1946
-Senators,1947
-Senators,1948
-Indians,1949
-Indians,1950
-Indians,1951
-Indians,1952
-Indians,1953
-Indians,1954
-Indians,1955
-Indians,1956
-Indians,1957
-White Sox,1958
-White Sox,1959
-White Sox,1960
-White Sox,1961
-White Sox,1962
-Indians,1963
+teamId,ateam,aseason
+8.0,Senators,1939
+8.0,Senators,1941
+8.0,Senators,1942
+8.0,Senators,1943
+8.0,Senators,1944
+8.0,Senators,1946
+8.0,Senators,1947
+8.0,Senators,1948
+5.0,Indians,1949
+5.0,Indians,1950
+5.0,Indians,1951
+5.0,Indians,1952
+5.0,Indians,1953
+5.0,Indians,1954
+5.0,Indians,1955
+5.0,Indians,1956
+5.0,Indians,1957
+4.0,White Sox,1958
+4.0,White Sox,1959
+4.0,White Sox,1960
+4.0,White Sox,1961
+4.0,White Sox,1962
+5.0,Indians,1963

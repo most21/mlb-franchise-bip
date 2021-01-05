@@ -1,14 +1,14 @@
-ateam,aseason
-Red Sox,1959
-Red Sox,1960
-Red Sox,1962
-Red Sox,1963
-Red Sox,1964
-Red Sox,1965
-Red Sox,1966
-Tigers,1966
-Tigers,1967
-Tigers,1968
-Tigers,1969
-Tigers,1970
-Padres,1970
+teamId,ateam,aseason
+3.0,Red Sox,1959
+3.0,Red Sox,1960
+3.0,Red Sox,1962
+3.0,Red Sox,1963
+3.0,Red Sox,1964
+3.0,Red Sox,1965
+3.0,Red Sox,1966
+6.0,Tigers,1966
+6.0,Tigers,1967
+6.0,Tigers,1968
+6.0,Tigers,1969
+6.0,Tigers,1970
+29.0,Padres,1970

@@ -1,6 +1,6 @@
-ateam,aseason
-Athletics,1941
-Athletics,1942
-Browns,1944
-Browns,1945
-Browns,1946
+teamId,ateam,aseason
+10.0,Athletics,1941
+10.0,Athletics,1942
+2.0,Browns,1944
+2.0,Browns,1945
+2.0,Browns,1946

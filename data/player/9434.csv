@@ -1,10 +1,10 @@
-ateam,aseason
-Astros,2012
-Astros,2013
-Astros,2014
-Astros,2015
-Astros,2016
-Astros,2017
-Astros,2018
-Braves,2019
-White Sox,2020
+teamId,ateam,aseason
+21.0,Astros,2012
+21.0,Astros,2013
+21.0,Astros,2014
+21.0,Astros,2015
+21.0,Astros,2016
+21.0,Astros,2017
+21.0,Astros,2018
+16.0,Braves,2019
+4.0,White Sox,2020

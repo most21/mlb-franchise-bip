@@ -1,9 +1,9 @@
-ateam,aseason
-Brewers,1997
-Brewers,1998
-Brewers,1999
-Brewers,2000
-Indians,2000
-Indians,2001
-Rangers,2002
-Red Sox,2003
+teamId,ateam,aseason
+23.0,Brewers,1997
+23.0,Brewers,1998
+23.0,Brewers,1999
+23.0,Brewers,2000
+5.0,Indians,2000
+5.0,Indians,2001
+13.0,Rangers,2002
+3.0,Red Sox,2003

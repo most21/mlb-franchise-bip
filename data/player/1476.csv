@@ -1,8 +1,8 @@
-ateam,aseason
-Marlins,1998
-Marlins,1999
-Marlins,2000
-Marlins,2001
-Cubs,2002
-Rockies,2003
-Reds,2004
+teamId,ateam,aseason
+20.0,Marlins,1998
+20.0,Marlins,1999
+20.0,Marlins,2000
+20.0,Marlins,2001
+17.0,Cubs,2002
+19.0,Rockies,2003
+18.0,Reds,2004

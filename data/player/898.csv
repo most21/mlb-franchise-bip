@@ -1,19 +1,19 @@
-ateam,aseason
-Cubs,1993
-Cubs,1994
-Cubs,1995
-Cubs,1996
-Cubs,1997
-Cubs,1998
-Cubs,1999
-Devil Rays,2000
-Blue Jays,2000
-Mets,2001
-Mets,2002
-Mets,2003
-Mets,2004
-Mets,2005
-Mets,2006
-Orioles,2007
-Cubs,2007
-Orioles,2008
+teamId,ateam,aseason
+17.0,Cubs,1993
+17.0,Cubs,1994
+17.0,Cubs,1995
+17.0,Cubs,1996
+17.0,Cubs,1997
+17.0,Cubs,1998
+17.0,Cubs,1999
+12.0,Devil Rays,2000
+14.0,Blue Jays,2000
+25.0,Mets,2001
+25.0,Mets,2002
+25.0,Mets,2003
+25.0,Mets,2004
+25.0,Mets,2005
+25.0,Mets,2006
+2.0,Orioles,2007
+17.0,Cubs,2007
+2.0,Orioles,2008

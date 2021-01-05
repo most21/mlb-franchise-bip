@@ -1,20 +1,20 @@
-ateam,aseason
-Athletics,1956
-Athletics,1957
-Athletics,1959
-Athletics,1960
-Braves,1960
-Braves,1961
-Colt .45's,1962
-Colt .45's,1963
-Orioles,1963
-Angels,1964
-Angels,1965
-Angels,1966
-Angels,1967
-Angels,1968
-Angels,1969
-Pilots,1969
-Senators,1970
-Pirates,1970
-Cardinals,1971
+teamId,ateam,aseason
+10.0,Athletics,1956
+10.0,Athletics,1957
+10.0,Athletics,1959
+10.0,Athletics,1960
+16.0,Braves,1960
+16.0,Braves,1961
+21.0,Colt .45's,1962
+21.0,Colt .45's,1963
+2.0,Orioles,1963
+1.0,Angels,1964
+1.0,Angels,1965
+1.0,Angels,1966
+1.0,Angels,1967
+1.0,Angels,1968
+1.0,Angels,1969
+23.0,Pilots,1969
+13.0,Senators,1970
+27.0,Pirates,1970
+28.0,Cardinals,1971

@@ -1,6 +1,6 @@
-ateam,aseason
-Giants,1910
-Braves,1912
-Braves,1913
-Rebels,1914
-Rebels,1915
+teamId,ateam,aseason
+30.0,Giants,1910
+16.0,Braves,1912
+16.0,Braves,1913
+1059.0,Rebels,1914
+1059.0,Rebels,1915

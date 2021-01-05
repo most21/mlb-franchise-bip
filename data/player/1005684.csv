@@ -1,16 +1,16 @@
-ateam,aseason
-Tigers,1950
-Tigers,1951
-Tigers,1953
-Tigers,1954
-Athletics,1955
-Athletics,1958
-Athletics,1959
-Athletics,1960
-Athletics,1961
-White Sox,1961
-White Sox,1962
-White Sox,1963
-White Sox,1964
-Phillies,1965
-Phillies,1966
+teamId,ateam,aseason
+6.0,Tigers,1950
+6.0,Tigers,1951
+6.0,Tigers,1953
+6.0,Tigers,1954
+10.0,Athletics,1955
+10.0,Athletics,1958
+10.0,Athletics,1959
+10.0,Athletics,1960
+10.0,Athletics,1961
+4.0,White Sox,1961
+4.0,White Sox,1962
+4.0,White Sox,1963
+4.0,White Sox,1964
+26.0,Phillies,1965
+26.0,Phillies,1966

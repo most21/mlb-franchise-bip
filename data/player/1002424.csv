@@ -1,8 +1,8 @@
-ateam,aseason
-Quakers,1883
-Quakers,1884
-Athletics,1884
-Athletics,1885
-Athletics,1886
-Athletics,1889
-Alleghenys,1890
+teamId,ateam,aseason
+26.0,Quakers,1883
+26.0,Quakers,1884
+1060.0,Athletics,1884
+1060.0,Athletics,1885
+1060.0,Athletics,1886
+1060.0,Athletics,1889
+27.0,Alleghenys,1890

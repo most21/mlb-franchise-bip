@@ -1,11 +1,11 @@
-ateam,aseason
-Dodgers,2006
-Dodgers,2007
-Dodgers,2008
-Dodgers,2009
-Rockies,2011
-White Sox,2012
-Padres,2012
-Padres,2013
-Padres,2014
-Braves,2015
+teamId,ateam,aseason
+22.0,Dodgers,2006
+22.0,Dodgers,2007
+22.0,Dodgers,2008
+22.0,Dodgers,2009
+19.0,Rockies,2011
+4.0,White Sox,2012
+29.0,Padres,2012
+29.0,Padres,2013
+29.0,Padres,2014
+16.0,Braves,2015

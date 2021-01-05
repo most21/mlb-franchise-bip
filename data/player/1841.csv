@@ -1,24 +1,24 @@
-ateam,aseason
-Dodgers,2003
-Dodgers,2004
-Dodgers,2005
-Devil Rays,2006
-Devil Rays,2007
-Rays,2008
-Tigers,2009
-Diamondbacks,2010
-White Sox,2010
-White Sox,2011
-Cardinals,2011
-Nationals,2012
-Cubs,2013
-Cubs,2014
-Cubs,2015
-Braves,2015
-Marlins,2016
-Padres,2016
-Orioles,2017
-Nationals,2017
-Athletics,2018
-Blue Jays,2019
-Tigers,2019
+teamId,ateam,aseason
+22.0,Dodgers,2003
+22.0,Dodgers,2004
+22.0,Dodgers,2005
+12.0,Devil Rays,2006
+12.0,Devil Rays,2007
+12.0,Rays,2008
+6.0,Tigers,2009
+15.0,Diamondbacks,2010
+4.0,White Sox,2010
+4.0,White Sox,2011
+28.0,Cardinals,2011
+24.0,Nationals,2012
+17.0,Cubs,2013
+17.0,Cubs,2014
+17.0,Cubs,2015
+16.0,Braves,2015
+20.0,Marlins,2016
+29.0,Padres,2016
+2.0,Orioles,2017
+24.0,Nationals,2017
+10.0,Athletics,2018
+14.0,Blue Jays,2019
+6.0,Tigers,2019

@@ -1,8 +1,8 @@
-ateam,aseason
-Bronchos,1902
-Naps,1903
-Reds,1906
-Beaneaters,1906
-Doves,1907
-Doves,1908
-Doves,1909
+teamId,ateam,aseason
+5.0,Bronchos,1902
+5.0,Naps,1903
+18.0,Reds,1906
+16.0,Beaneaters,1906
+16.0,Doves,1907
+16.0,Doves,1908
+16.0,Doves,1909

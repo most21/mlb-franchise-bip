@@ -1,14 +1,14 @@
-ateam,aseason
-Padres,1995
-Padres,1996
-Expos,1997
-Expos,1998
-Expos,1999
-Expos,2000
-Cardinals,2001
-Red Sox,2002
-Cardinals,2003
-Giants,2003
-Giants,2004
-White Sox,2005
-White Sox,2006
+teamId,ateam,aseason
+29.0,Padres,1995
+29.0,Padres,1996
+24.0,Expos,1997
+24.0,Expos,1998
+24.0,Expos,1999
+24.0,Expos,2000
+28.0,Cardinals,2001
+3.0,Red Sox,2002
+28.0,Cardinals,2003
+30.0,Giants,2003
+30.0,Giants,2004
+4.0,White Sox,2005
+4.0,White Sox,2006

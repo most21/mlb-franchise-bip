@@ -1,8 +1,8 @@
-ateam,aseason
-Browns,1934
-Browns,1935
-Browns,1936
-Browns,1937
-Browns,1938
-Browns,1939
-Tigers,1939
+teamId,ateam,aseason
+2.0,Browns,1934
+2.0,Browns,1935
+2.0,Browns,1936
+2.0,Browns,1937
+2.0,Browns,1938
+2.0,Browns,1939
+6.0,Tigers,1939

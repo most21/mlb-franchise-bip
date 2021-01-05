@@ -1,10 +1,10 @@
-ateam,aseason
-Braves,1951
-Braves,1954
-Braves,1955
-Braves,1956
-Red Sox,1960
-Red Sox,1961
-Red Sox,1962
-Red Sox,1963
-Reds,1964
+teamId,ateam,aseason
+16.0,Braves,1951
+16.0,Braves,1954
+16.0,Braves,1955
+16.0,Braves,1956
+3.0,Red Sox,1960
+3.0,Red Sox,1961
+3.0,Red Sox,1962
+3.0,Red Sox,1963
+18.0,Reds,1964

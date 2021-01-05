@@ -1,13 +1,13 @@
-ateam,aseason
-Cardinals,1909
-Cardinals,1911
-Cubs,1912
-Browns,1915
-Tigers,1915
-Tigers,1916
-Indians,1916
-Browns,1917
-Browns,1918
-Browns,1919
-White Sox,1919
-White Sox,1920
+teamId,ateam,aseason
+28.0,Cardinals,1909
+28.0,Cardinals,1911
+17.0,Cubs,1912
+2.0,Browns,1915
+6.0,Tigers,1915
+6.0,Tigers,1916
+5.0,Indians,1916
+2.0,Browns,1917
+2.0,Browns,1918
+2.0,Browns,1919
+4.0,White Sox,1919
+4.0,White Sox,1920

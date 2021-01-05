@@ -1,5 +1,5 @@
-ateam,aseason
-Twins,2011
-Twins,2012
-Twins,2013
-Blue Jays,2016
+teamId,ateam,aseason
+8.0,Twins,2011
+8.0,Twins,2012
+8.0,Twins,2013
+14.0,Blue Jays,2016

@@ -1,8 +1,8 @@
-ateam,aseason
-Cardinals,2014
-Cardinals,2015
-Cardinals,2017
-Mariners,2017
-Mariners,2018
-Mariners,2019
-Mariners,2020
+teamId,ateam,aseason
+28.0,Cardinals,2014
+28.0,Cardinals,2015
+28.0,Cardinals,2017
+11.0,Mariners,2017
+11.0,Mariners,2018
+11.0,Mariners,2019
+11.0,Mariners,2020

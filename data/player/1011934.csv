@@ -1,18 +1,18 @@
-ateam,aseason
-Cubs,1935
-Cubs,1936
-Cubs,1937
-Cardinals,1938
-Cardinals,1939
-Cardinals,1940
-Cardinals,1941
-Cardinals,1942
-Reds,1942
-Reds,1943
-Reds,1944
-Reds,1946
-Reds,1947
-Braves,1947
-Braves,1948
-Braves,1949
-White Sox,1949
+teamId,ateam,aseason
+17.0,Cubs,1935
+17.0,Cubs,1936
+17.0,Cubs,1937
+28.0,Cardinals,1938
+28.0,Cardinals,1939
+28.0,Cardinals,1940
+28.0,Cardinals,1941
+28.0,Cardinals,1942
+18.0,Reds,1942
+18.0,Reds,1943
+18.0,Reds,1944
+18.0,Reds,1946
+18.0,Reds,1947
+16.0,Braves,1947
+16.0,Braves,1948
+16.0,Braves,1949
+4.0,White Sox,1949

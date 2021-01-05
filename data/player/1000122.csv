@@ -1,24 +1,24 @@
-ateam,aseason
-Dodgers,1971
-Orioles,1972
-Orioles,1973
-Orioles,1974
-Orioles,1975
-Orioles,1976
-Yankees,1976
-Rangers,1977
-Rangers,1978
-Rangers,1979
-Braves,1980
-Giants,1981
-Yankees,1982
-Yankees,1983
-Blue Jays,1983
-Blue Jays,1984
-Blue Jays,1985
-Blue Jays,1986
-Braves,1986
-Braves,1987
-Tigers,1987
-Tigers,1988
-Tigers,1989
+teamId,ateam,aseason
+22.0,Dodgers,1971
+2.0,Orioles,1972
+2.0,Orioles,1973
+2.0,Orioles,1974
+2.0,Orioles,1975
+2.0,Orioles,1976
+9.0,Yankees,1976
+13.0,Rangers,1977
+13.0,Rangers,1978
+13.0,Rangers,1979
+16.0,Braves,1980
+30.0,Giants,1981
+9.0,Yankees,1982
+9.0,Yankees,1983
+14.0,Blue Jays,1983
+14.0,Blue Jays,1984
+14.0,Blue Jays,1985
+14.0,Blue Jays,1986
+16.0,Braves,1986
+16.0,Braves,1987
+6.0,Tigers,1987
+6.0,Tigers,1988
+6.0,Tigers,1989

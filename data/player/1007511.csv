@@ -1,10 +1,10 @@
-ateam,aseason
-Tigers,1973
-Tigers,1974
-Tigers,1975
-Tigers,1976
-Blue Jays,1977
-Blue Jays,1978
-Blue Jays,1979
-Blue Jays,1980
-Angels,1980
+teamId,ateam,aseason
+6.0,Tigers,1973
+6.0,Tigers,1974
+6.0,Tigers,1975
+6.0,Tigers,1976
+14.0,Blue Jays,1977
+14.0,Blue Jays,1978
+14.0,Blue Jays,1979
+14.0,Blue Jays,1980
+1.0,Angels,1980

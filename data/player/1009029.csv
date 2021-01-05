@@ -1,17 +1,17 @@
-ateam,aseason
-White Sox,1911
-White Sox,1912
-Yankees,1915
-Yankees,1916
-Yankees,1917
-Yankees,1918
-Yankees,1919
-Yankees,1920
-Senators,1921
-Senators,1922
-Senators,1923
-Senators,1924
-Senators,1925
-Browns,1925
-Braves,1926
-Braves,1927
+teamId,ateam,aseason
+4.0,White Sox,1911
+4.0,White Sox,1912
+9.0,Yankees,1915
+9.0,Yankees,1916
+9.0,Yankees,1917
+9.0,Yankees,1918
+9.0,Yankees,1919
+9.0,Yankees,1920
+8.0,Senators,1921
+8.0,Senators,1922
+8.0,Senators,1923
+8.0,Senators,1924
+8.0,Senators,1925
+2.0,Browns,1925
+16.0,Braves,1926
+16.0,Braves,1927

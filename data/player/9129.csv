@@ -1,6 +1,6 @@
-ateam,aseason
-Braves,2009
-Braves,2010
-Braves,2011
-Braves,2012
-Angels,2013
+teamId,ateam,aseason
+16.0,Braves,2009
+16.0,Braves,2010
+16.0,Braves,2011
+16.0,Braves,2012
+1.0,Angels,2013

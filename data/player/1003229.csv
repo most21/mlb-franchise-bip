@@ -1,8 +1,8 @@
-ateam,aseason
-Athletics,1932
-Yankees,1934
-Yankees,1935
-Senators,1936
-Senators,1937
-Senators,1938
-Senators,1939
+teamId,ateam,aseason
+10.0,Athletics,1932
+9.0,Yankees,1934
+9.0,Yankees,1935
+8.0,Senators,1936
+8.0,Senators,1937
+8.0,Senators,1938
+8.0,Senators,1939

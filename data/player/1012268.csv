@@ -1,12 +1,12 @@
-ateam,aseason
-Dodgers,1973
-Dodgers,1974
-Cubs,1975
-Cardinals,1976
-Braves,1977
-Braves,1978
-Braves,1979
-Pirates,1980
-Pirates,1981
-Pirates,1982
-White Sox,1982
+teamId,ateam,aseason
+22.0,Dodgers,1973
+22.0,Dodgers,1974
+17.0,Cubs,1975
+28.0,Cardinals,1976
+16.0,Braves,1977
+16.0,Braves,1978
+16.0,Braves,1979
+27.0,Pirates,1980
+27.0,Pirates,1981
+27.0,Pirates,1982
+4.0,White Sox,1982

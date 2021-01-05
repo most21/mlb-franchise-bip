@@ -1,18 +1,18 @@
-ateam,aseason
-Athletics,1958
-Athletics,1959
-Athletics,1960
-Athletics,1961
-Reds,1961
-Colt .45's,1962
-Colt .45's,1963
-Colt .45's,1964
-Astros,1965
-Braves,1965
-Braves,1966
-Braves,1967
-Braves,1968
-Braves,1969
-Yankees,1969
-Cubs,1969
-Expos,1970
+teamId,ateam,aseason
+10.0,Athletics,1958
+10.0,Athletics,1959
+10.0,Athletics,1960
+10.0,Athletics,1961
+18.0,Reds,1961
+21.0,Colt .45's,1962
+21.0,Colt .45's,1963
+21.0,Colt .45's,1964
+21.0,Astros,1965
+16.0,Braves,1965
+16.0,Braves,1966
+16.0,Braves,1967
+16.0,Braves,1968
+16.0,Braves,1969
+9.0,Yankees,1969
+17.0,Cubs,1969
+24.0,Expos,1970

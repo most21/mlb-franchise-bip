@@ -1,8 +1,8 @@
-ateam,aseason
-Dodgers,1912
-Superbas,1913
-Robins,1914
-Rebels,1914
-Rebels,1915
-Braves,1916
-Braves,1917
+teamId,ateam,aseason
+22.0,Dodgers,1912
+22.0,Superbas,1913
+22.0,Robins,1914
+1059.0,Rebels,1914
+1059.0,Rebels,1915
+16.0,Braves,1916
+16.0,Braves,1917

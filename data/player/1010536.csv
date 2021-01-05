@@ -1,7 +1,7 @@
-ateam,aseason
-Athletics,1995
-Athletics,1996
-Athletics,1997
-Athletics,1998
-Athletics,2000
-Devil Rays,2001
+teamId,ateam,aseason
+10.0,Athletics,1995
+10.0,Athletics,1996
+10.0,Athletics,1997
+10.0,Athletics,1998
+10.0,Athletics,2000
+12.0,Devil Rays,2001

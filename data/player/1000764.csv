@@ -1,5 +1,5 @@
-ateam,aseason
-Red Sox,1912
-Red Sox,1913
-Red Sox,1914
-Blues,1915
+teamId,ateam,aseason
+3.0,Red Sox,1912
+3.0,Red Sox,1913
+3.0,Red Sox,1914
+1004.0,Blues,1915

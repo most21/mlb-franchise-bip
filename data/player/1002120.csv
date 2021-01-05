@@ -1,8 +1,8 @@
-ateam,aseason
-Cubs,1948
-Pirates,1949
-Pirates,1950
-Pirates,1951
-Cardinals,1951
-Cardinals,1952
-Cardinals,1953
+teamId,ateam,aseason
+17.0,Cubs,1948
+27.0,Pirates,1949
+27.0,Pirates,1950
+27.0,Pirates,1951
+28.0,Cardinals,1951
+28.0,Cardinals,1952
+28.0,Cardinals,1953

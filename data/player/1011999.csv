@@ -1,7 +1,7 @@
-ateam,aseason
-Reds,1970
-Reds,1971
-Reds,1972
-Royals,1973
-Phillies,1975
-Angels,1977
+teamId,ateam,aseason
+18.0,Reds,1970
+18.0,Reds,1971
+18.0,Reds,1972
+7.0,Royals,1973
+26.0,Phillies,1975
+1.0,Angels,1977

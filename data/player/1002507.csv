@@ -1,12 +1,12 @@
-ateam,aseason
-Braves,1952
-Braves,1954
-Braves,1955
-Braves,1956
-Braves,1957
-Braves,1958
-Phillies,1959
-Phillies,1960
-Red Sox,1961
-Red Sox,1962
-Red Sox,1963
+teamId,ateam,aseason
+16.0,Braves,1952
+16.0,Braves,1954
+16.0,Braves,1955
+16.0,Braves,1956
+16.0,Braves,1957
+16.0,Braves,1958
+26.0,Phillies,1959
+26.0,Phillies,1960
+3.0,Red Sox,1961
+3.0,Red Sox,1962
+3.0,Red Sox,1963

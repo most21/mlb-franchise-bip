@@ -1,14 +1,14 @@
-ateam,aseason
-Expos,1991
-Expos,1992
-Royals,1992
-Royals,1993
-Royals,1994
-Royals,1995
-Royals,1996
-Royals,1997
-Royals,1998
-Cubs,1998
-Indians,1999
-Indians,2000
-Red Sox,2002
+teamId,ateam,aseason
+24.0,Expos,1991
+24.0,Expos,1992
+7.0,Royals,1992
+7.0,Royals,1993
+7.0,Royals,1994
+7.0,Royals,1995
+7.0,Royals,1996
+7.0,Royals,1997
+7.0,Royals,1998
+17.0,Cubs,1998
+5.0,Indians,1999
+5.0,Indians,2000
+3.0,Red Sox,2002

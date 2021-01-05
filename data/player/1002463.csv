@@ -1,12 +1,12 @@
-ateam,aseason
-Yankees,1920
-Yankees,1921
-Red Sox,1922
-Tigers,1923
-Tigers,1924
-Tigers,1925
-Tigers,1926
-Tigers,1927
-Browns,1929
-Browns,1930
-Browns,1931
+teamId,ateam,aseason
+9.0,Yankees,1920
+9.0,Yankees,1921
+3.0,Red Sox,1922
+6.0,Tigers,1923
+6.0,Tigers,1924
+6.0,Tigers,1925
+6.0,Tigers,1926
+6.0,Tigers,1927
+2.0,Browns,1929
+2.0,Browns,1930
+2.0,Browns,1931

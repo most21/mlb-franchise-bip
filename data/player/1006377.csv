@@ -1,8 +1,8 @@
-ateam,aseason
-Cubs,1954
-Cubs,1955
-Redlegs,1956
-Redlegs,1957
-Redlegs,1958
-Redlegs,1959
-Cardinals,1959
+teamId,ateam,aseason
+17.0,Cubs,1954
+17.0,Cubs,1955
+18.0,Redlegs,1956
+18.0,Redlegs,1957
+18.0,Redlegs,1958
+18.0,Redlegs,1959
+28.0,Cardinals,1959

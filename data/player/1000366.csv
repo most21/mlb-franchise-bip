@@ -1,11 +1,11 @@
-ateam,aseason
-Tigers,1933
-Tigers,1934
-Tigers,1935
-Tigers,1936
-Tigers,1937
-Tigers,1938
-Red Sox,1939
-Browns,1940
-Browns,1941
-Browns,1942
+teamId,ateam,aseason
+6.0,Tigers,1933
+6.0,Tigers,1934
+6.0,Tigers,1935
+6.0,Tigers,1936
+6.0,Tigers,1937
+6.0,Tigers,1938
+3.0,Red Sox,1939
+2.0,Browns,1940
+2.0,Browns,1941
+2.0,Browns,1942

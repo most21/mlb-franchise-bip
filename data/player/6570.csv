@@ -1,8 +1,8 @@
-ateam,aseason
-Marlins,2012
-Marlins,2013
-Marlins,2014
-Marlins,2015
-Marlins,2016
-Marlins,2017
-Blue Jays,2017
+teamId,ateam,aseason
+20.0,Marlins,2012
+20.0,Marlins,2013
+20.0,Marlins,2014
+20.0,Marlins,2015
+20.0,Marlins,2016
+20.0,Marlins,2017
+14.0,Blue Jays,2017

@@ -1,6 +1,6 @@
-ateam,aseason
-Expos,1988
-Expos,1989
-Mariners,1989
-Mariners,1990
-Mariners,1991
+teamId,ateam,aseason
+24.0,Expos,1988
+24.0,Expos,1989
+11.0,Mariners,1989
+11.0,Mariners,1990
+11.0,Mariners,1991

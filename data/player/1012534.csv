@@ -1,8 +1,8 @@
-ateam,aseason
-Indians,1960
-Indians,1961
-Twins,1962
-Twins,1963
-Twins,1964
-Twins,1965
-Red Sox,1966
+teamId,ateam,aseason
+5.0,Indians,1960
+5.0,Indians,1961
+8.0,Twins,1962
+8.0,Twins,1963
+8.0,Twins,1964
+8.0,Twins,1965
+3.0,Red Sox,1966

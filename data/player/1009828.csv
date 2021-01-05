@@ -1,8 +1,8 @@
-ateam,aseason
-Orioles,1993
-Orioles,1994
-Orioles,1995
-Padres,1996
-Athletics,1997
-Athletics,1998
-Athletics,1999
+teamId,ateam,aseason
+2.0,Orioles,1993
+2.0,Orioles,1994
+2.0,Orioles,1995
+29.0,Padres,1996
+10.0,Athletics,1997
+10.0,Athletics,1998
+10.0,Athletics,1999

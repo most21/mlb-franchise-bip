@@ -1,13 +1,13 @@
-ateam,aseason
-Blues,1878
-Blues,1879
-Blues,1880
-Blues,1881
-Blues,1882
-Blues,1883
-Blues,1884
-Outlaw Reds,1884
-Grays,1885
-White Stockings,1885
-White Stockings,1886
-Alleghenys,1887
+teamId,ateam,aseason
+1035.0,Blues,1878
+1018.0,Blues,1879
+1018.0,Blues,1880
+1018.0,Blues,1881
+1018.0,Blues,1882
+1018.0,Blues,1883
+1018.0,Blues,1884
+1029.0,Outlaw Reds,1884
+1064.0,Grays,1885
+17.0,White Stockings,1885
+17.0,White Stockings,1886
+27.0,Alleghenys,1887

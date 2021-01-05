@@ -1,15 +1,15 @@
-ateam,aseason
-Cubs,1948
-Cubs,1949
-Cubs,1950
-Cubs,1951
-Cubs,1952
-Cubs,1953
-Cubs,1954
-Cubs,1955
-Cubs,1956
-Cubs,1957
-Braves,1958
-Braves,1959
-Braves,1960
-White Sox,1960
+teamId,ateam,aseason
+17.0,Cubs,1948
+17.0,Cubs,1949
+17.0,Cubs,1950
+17.0,Cubs,1951
+17.0,Cubs,1952
+17.0,Cubs,1953
+17.0,Cubs,1954
+17.0,Cubs,1955
+17.0,Cubs,1956
+17.0,Cubs,1957
+16.0,Braves,1958
+16.0,Braves,1959
+16.0,Braves,1960
+4.0,White Sox,1960

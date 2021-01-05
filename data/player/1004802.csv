@@ -1,7 +1,7 @@
-ateam,aseason
-Senators,1970
-Senators,1971
-Rangers,1972
-Rangers,1973
-Indians,1974
-White Sox,1975
+teamId,ateam,aseason
+13.0,Senators,1970
+13.0,Senators,1971
+13.0,Rangers,1972
+13.0,Rangers,1973
+5.0,Indians,1974
+4.0,White Sox,1975

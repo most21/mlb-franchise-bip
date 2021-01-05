@@ -1,6 +1,6 @@
-ateam,aseason
-Senators,1904
-Senators,1905
-Browns,1906
-Browns,1907
-Americans,1907
+teamId,ateam,aseason
+8.0,Senators,1904
+8.0,Senators,1905
+2.0,Browns,1906
+2.0,Browns,1907
+3.0,Americans,1907

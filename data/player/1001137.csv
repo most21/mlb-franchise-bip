@@ -1,8 +1,8 @@
-ateam,aseason
-Tigers,1915
-Tigers,1916
-Tigers,1917
-Tigers,1918
-Tigers,1919
-Tigers,1920
-Browns,1921
+teamId,ateam,aseason
+6.0,Tigers,1915
+6.0,Tigers,1916
+6.0,Tigers,1917
+6.0,Tigers,1918
+6.0,Tigers,1919
+6.0,Tigers,1920
+2.0,Browns,1921

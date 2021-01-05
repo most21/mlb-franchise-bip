@@ -1,13 +1,13 @@
-ateam,aseason
-Pirates,1967
-Pirates,1968
-Pirates,1969
-Pirates,1970
-Royals,1971
-Royals,1972
-Royals,1973
-Royals,1974
-Royals,1975
-Braves,1975
-Braves,1976
-White Sox,1977
+teamId,ateam,aseason
+27.0,Pirates,1967
+27.0,Pirates,1968
+27.0,Pirates,1969
+27.0,Pirates,1970
+7.0,Royals,1971
+7.0,Royals,1972
+7.0,Royals,1973
+7.0,Royals,1974
+7.0,Royals,1975
+16.0,Braves,1975
+16.0,Braves,1976
+4.0,White Sox,1977

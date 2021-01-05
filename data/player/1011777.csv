@@ -1,7 +1,7 @@
-ateam,aseason
-Giants,1896
-Giants,1897
-Giants,1898
-Giants,1899
-Giants,1900
-Reds,1902
+teamId,ateam,aseason
+30.0,Giants,1896
+30.0,Giants,1897
+30.0,Giants,1898
+30.0,Giants,1899
+30.0,Giants,1900
+18.0,Reds,1902

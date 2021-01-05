@@ -1,8 +1,8 @@
-ateam,aseason
-Angels,1969
-Angels,1970
-White Sox,1971
-White Sox,1972
-Giants,1973
-Giants,1974
-Giants,1975
+teamId,ateam,aseason
+1.0,Angels,1969
+1.0,Angels,1970
+4.0,White Sox,1971
+4.0,White Sox,1972
+30.0,Giants,1973
+30.0,Giants,1974
+30.0,Giants,1975

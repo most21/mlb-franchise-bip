@@ -1,6 +1,6 @@
-ateam,aseason
-Rockies,2016
-Rockies,2017
-Rockies,2018
-Rockies,2019
-Giants,2020
+teamId,ateam,aseason
+19.0,Rockies,2016
+19.0,Rockies,2017
+19.0,Rockies,2018
+19.0,Rockies,2019
+30.0,Giants,2020

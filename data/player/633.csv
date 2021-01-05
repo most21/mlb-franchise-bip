@@ -1,21 +1,21 @@
-ateam,aseason
-Red Sox,1995
-Red Sox,1996
-Red Sox,1997
-Diamondbacks,1998
-Royals,1998
-Royals,1999
-Royals,2000
-Royals,2001
-Royals,2002
-Pirates,2003
-Red Sox,2003
-Cardinals,2004
-Cardinals,2005
-Cardinals,2006
-Brewers,2007
-Brewers,2008
-Brewers,2009
-Brewers,2010
-Cardinals,2010
-Padres,2012
+teamId,ateam,aseason
+3.0,Red Sox,1995
+3.0,Red Sox,1996
+3.0,Red Sox,1997
+15.0,Diamondbacks,1998
+7.0,Royals,1998
+7.0,Royals,1999
+7.0,Royals,2000
+7.0,Royals,2001
+7.0,Royals,2002
+27.0,Pirates,2003
+3.0,Red Sox,2003
+28.0,Cardinals,2004
+28.0,Cardinals,2005
+28.0,Cardinals,2006
+23.0,Brewers,2007
+23.0,Brewers,2008
+23.0,Brewers,2009
+23.0,Brewers,2010
+28.0,Cardinals,2010
+29.0,Padres,2012

@@ -1,14 +1,14 @@
-ateam,aseason
-Yankees,2003
-Yankees,2004
-White Sox,2004
-White Sox,2005
-White Sox,2006
-White Sox,2007
-White Sox,2008
-White Sox,2009
-Rockies,2009
-Phillies,2010
-Phillies,2011
-Phillies,2012
-Pirates,2013
+teamId,ateam,aseason
+9.0,Yankees,2003
+9.0,Yankees,2004
+4.0,White Sox,2004
+4.0,White Sox,2005
+4.0,White Sox,2006
+4.0,White Sox,2007
+4.0,White Sox,2008
+4.0,White Sox,2009
+19.0,Rockies,2009
+26.0,Phillies,2010
+26.0,Phillies,2011
+26.0,Phillies,2012
+27.0,Pirates,2013

@@ -1,17 +1,17 @@
-ateam,aseason
-White Sox,1934
-White Sox,1935
-White Sox,1936
-White Sox,1937
-Tigers,1938
-Tigers,1939
-Browns,1939
-Browns,1940
-Browns,1941
-Senators,1941
-Indians,1942
-Indians,1943
-Indians,1944
-Blue Jays,1944
-Phillies,1945
-Reds,1945
+teamId,ateam,aseason
+4.0,White Sox,1934
+4.0,White Sox,1935
+4.0,White Sox,1936
+4.0,White Sox,1937
+6.0,Tigers,1938
+6.0,Tigers,1939
+2.0,Browns,1939
+2.0,Browns,1940
+2.0,Browns,1941
+8.0,Senators,1941
+5.0,Indians,1942
+5.0,Indians,1943
+5.0,Indians,1944
+26.0,Blue Jays,1944
+26.0,Phillies,1945
+18.0,Reds,1945

@@ -1,5 +1,5 @@
-ateam,aseason
-Reds,1905
-Reds,1906
-Naps,1908
-Red Sox,1909
+teamId,ateam,aseason
+18.0,Reds,1905
+18.0,Reds,1906
+5.0,Naps,1908
+3.0,Red Sox,1909

@@ -1,20 +1,20 @@
-ateam,aseason
-Royals,1986
-Mets,1987
-Mets,1988
-Mets,1989
-Mets,1990
-Mets,1991
-Mets,1992
-Blue Jays,1992
-Royals,1993
-Royals,1994
-Blue Jays,1995
-Yankees,1995
-Yankees,1996
-Yankees,1997
-Yankees,1998
-Yankees,1999
-Yankees,2000
-Red Sox,2001
-Mets,2003
+teamId,ateam,aseason
+7.0,Royals,1986
+25.0,Mets,1987
+25.0,Mets,1988
+25.0,Mets,1989
+25.0,Mets,1990
+25.0,Mets,1991
+25.0,Mets,1992
+14.0,Blue Jays,1992
+7.0,Royals,1993
+7.0,Royals,1994
+14.0,Blue Jays,1995
+9.0,Yankees,1995
+9.0,Yankees,1996
+9.0,Yankees,1997
+9.0,Yankees,1998
+9.0,Yankees,1999
+9.0,Yankees,2000
+3.0,Red Sox,2001
+25.0,Mets,2003

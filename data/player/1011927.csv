@@ -1,8 +1,8 @@
-ateam,aseason
-Giants,1912
-Red Sox,1914
-Red Sox,1915
-Red Sox,1916
-Red Sox,1917
-Yankees,1919
-Yankees,1920
+teamId,ateam,aseason
+30.0,Giants,1912
+3.0,Red Sox,1914
+3.0,Red Sox,1915
+3.0,Red Sox,1916
+3.0,Red Sox,1917
+9.0,Yankees,1919
+9.0,Yankees,1920

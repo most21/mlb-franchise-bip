@@ -1,13 +1,13 @@
-ateam,aseason
-Dodgers,1952
-Dodgers,1953
-Orioles,1955
-Orioles,1956
-Orioles,1957
-White Sox,1958
-White Sox,1959
-White Sox,1960
-Senators,1960
-Twins,1961
-Twins,1962
-Twins,1963
+teamId,ateam,aseason
+22.0,Dodgers,1952
+22.0,Dodgers,1953
+2.0,Orioles,1955
+2.0,Orioles,1956
+2.0,Orioles,1957
+4.0,White Sox,1958
+4.0,White Sox,1959
+4.0,White Sox,1960
+8.0,Senators,1960
+8.0,Twins,1961
+8.0,Twins,1962
+8.0,Twins,1963

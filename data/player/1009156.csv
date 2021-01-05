@@ -1,9 +1,9 @@
-ateam,aseason
-Red Sox,1963
-Red Sox,1964
-Red Sox,1965
-Red Sox,1966
-Red Sox,1967
-Red Sox,1968
-Royals,1969
-Royals,1970
+teamId,ateam,aseason
+3.0,Red Sox,1963
+3.0,Red Sox,1964
+3.0,Red Sox,1965
+3.0,Red Sox,1966
+3.0,Red Sox,1967
+3.0,Red Sox,1968
+7.0,Royals,1969
+7.0,Royals,1970

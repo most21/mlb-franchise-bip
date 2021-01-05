@@ -1,10 +1,10 @@
-ateam,aseason
-Tigers,1959
-Tigers,1960
-Tigers,1961
-Colt .45's,1962
-Colt .45's,1963
-Colt .45's,1964
-Astros,1965
-Astros,1966
-Braves,1967
+teamId,ateam,aseason
+6.0,Tigers,1959
+6.0,Tigers,1960
+6.0,Tigers,1961
+21.0,Colt .45's,1962
+21.0,Colt .45's,1963
+21.0,Colt .45's,1964
+21.0,Astros,1965
+21.0,Astros,1966
+16.0,Braves,1967

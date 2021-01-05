@@ -1,6 +1,6 @@
-ateam,aseason
-Red Sox,1929
-Red Sox,1930
-Red Sox,1931
-Red Sox,1932
-White Sox,1933
+teamId,ateam,aseason
+3.0,Red Sox,1929
+3.0,Red Sox,1930
+3.0,Red Sox,1931
+3.0,Red Sox,1932
+4.0,White Sox,1933

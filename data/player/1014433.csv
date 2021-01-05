@@ -1,9 +1,9 @@
-ateam,aseason
-White Stockings,1871
-Haymakers,1872
-Eckfords,1872
-Whites,1873
-White Stockings,1874
-White Stockings,1875
-Whites,1875
-Athletics,1876
+teamId,ateam,aseason
+17.0,White Stockings,1871
+1080.0,Haymakers,1872
+1032.0,Eckfords,1872
+1065.0,Whites,1873
+17.0,White Stockings,1874
+17.0,White Stockings,1875
+1065.0,Whites,1875
+1002.0,Athletics,1876

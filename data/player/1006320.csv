@@ -1,12 +1,12 @@
-ateam,aseason
-Phillies,1914
-Pirates,1916
-Pirates,1917
-Pirates,1918
-Phillies,1918
-Phillies,1919
-Cardinals,1919
-Cardinals,1920
-Cubs,1924
-Cubs,1925
-White Sox,1927
+teamId,ateam,aseason
+26.0,Phillies,1914
+27.0,Pirates,1916
+27.0,Pirates,1917
+27.0,Pirates,1918
+26.0,Phillies,1918
+26.0,Phillies,1919
+28.0,Cardinals,1919
+28.0,Cardinals,1920
+17.0,Cubs,1924
+17.0,Cubs,1925
+4.0,White Sox,1927

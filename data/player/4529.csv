@@ -1,7 +1,7 @@
-ateam,aseason
-Marlins,2005
-Marlins,2006
-Marlins,2007
-Marlins,2008
-Nationals,2009
-Nationals,2010
+teamId,ateam,aseason
+20.0,Marlins,2005
+20.0,Marlins,2006
+20.0,Marlins,2007
+20.0,Marlins,2008
+24.0,Nationals,2009
+24.0,Nationals,2010

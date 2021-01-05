@@ -1,15 +1,15 @@
-ateam,aseason
-Cardinals,1969
-Cardinals,1970
-Cardinals,1971
-Cardinals,1972
-Cardinals,1973
-Red Sox,1974
-Red Sox,1975
-Red Sox,1976
-Red Sox,1977
-Red Sox,1978
-Rangers,1978
-Brewers,1979
-Brewers,1980
-Brewers,1981
+teamId,ateam,aseason
+28.0,Cardinals,1969
+28.0,Cardinals,1970
+28.0,Cardinals,1971
+28.0,Cardinals,1972
+28.0,Cardinals,1973
+3.0,Red Sox,1974
+3.0,Red Sox,1975
+3.0,Red Sox,1976
+3.0,Red Sox,1977
+3.0,Red Sox,1978
+13.0,Rangers,1978
+23.0,Brewers,1979
+23.0,Brewers,1980
+23.0,Brewers,1981

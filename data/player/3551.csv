@@ -1,14 +1,14 @@
-ateam,aseason
-White Sox,2008
-White Sox,2009
-Padres,2009
-Padres,2010
-Padres,2011
-Padres,2012
-Padres,2013
-Cubs,2015
-Cubs,2016
-Padres,2016
-Padres,2017
-Padres,2018
-Blue Jays,2019
+teamId,ateam,aseason
+4.0,White Sox,2008
+4.0,White Sox,2009
+29.0,Padres,2009
+29.0,Padres,2010
+29.0,Padres,2011
+29.0,Padres,2012
+29.0,Padres,2013
+17.0,Cubs,2015
+17.0,Cubs,2016
+29.0,Padres,2016
+29.0,Padres,2017
+29.0,Padres,2018
+14.0,Blue Jays,2019

@@ -1,19 +1,19 @@
-ateam,aseason
-Padres,2002
-Padres,2003
-Padres,2004
-Padres,2005
-Padres,2006
-Padres,2007
-Padres,2008
-Padres,2009
-White Sox,2009
-White Sox,2010
-White Sox,2011
-White Sox,2012
-White Sox,2013
-Red Sox,2013
-Red Sox,2014
-Giants,2014
-Giants,2015
-Giants,2016
+teamId,ateam,aseason
+29.0,Padres,2002
+29.0,Padres,2003
+29.0,Padres,2004
+29.0,Padres,2005
+29.0,Padres,2006
+29.0,Padres,2007
+29.0,Padres,2008
+29.0,Padres,2009
+4.0,White Sox,2009
+4.0,White Sox,2010
+4.0,White Sox,2011
+4.0,White Sox,2012
+4.0,White Sox,2013
+3.0,Red Sox,2013
+3.0,Red Sox,2014
+30.0,Giants,2014
+30.0,Giants,2015
+30.0,Giants,2016

@@ -1,15 +1,15 @@
-ateam,aseason
-Indians,1948
-Indians,1949
-Indians,1950
-Indians,1951
-Indians,1952
-Indians,1953
-Indians,1954
-Indians,1955
-Indians,1956
-Indians,1957
-Indians,1958
-Indians,1959
-White Sox,1960
-Senators,1961
+teamId,ateam,aseason
+5.0,Indians,1948
+5.0,Indians,1949
+5.0,Indians,1950
+5.0,Indians,1951
+5.0,Indians,1952
+5.0,Indians,1953
+5.0,Indians,1954
+5.0,Indians,1955
+5.0,Indians,1956
+5.0,Indians,1957
+5.0,Indians,1958
+5.0,Indians,1959
+4.0,White Sox,1960
+13.0,Senators,1961

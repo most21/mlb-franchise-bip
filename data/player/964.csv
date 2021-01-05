@@ -1,17 +1,17 @@
-ateam,aseason
-Diamondbacks,1999
-Diamondbacks,2000
-Phillies,2000
-Phillies,2001
-Phillies,2002
-Phillies,2003
-Phillies,2004
-Phillies,2005
-Rangers,2006
-Rangers,2007
-Rangers,2008
-Rangers,2009
-Dodgers,2009
-Dodgers,2010
-Dodgers,2011
-Red Sox,2012
+teamId,ateam,aseason
+15.0,Diamondbacks,1999
+15.0,Diamondbacks,2000
+26.0,Phillies,2000
+26.0,Phillies,2001
+26.0,Phillies,2002
+26.0,Phillies,2003
+26.0,Phillies,2004
+26.0,Phillies,2005
+13.0,Rangers,2006
+13.0,Rangers,2007
+13.0,Rangers,2008
+13.0,Rangers,2009
+22.0,Dodgers,2009
+22.0,Dodgers,2010
+22.0,Dodgers,2011
+3.0,Red Sox,2012

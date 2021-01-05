@@ -1,8 +1,8 @@
-ateam,aseason
-Expos,1980
-Expos,1981
-Expos,1982
-Expos,1983
-Expos,1984
-Expos,1987
-Twins,1988
+teamId,ateam,aseason
+24.0,Expos,1980
+24.0,Expos,1981
+24.0,Expos,1982
+24.0,Expos,1983
+24.0,Expos,1984
+24.0,Expos,1987
+8.0,Twins,1988

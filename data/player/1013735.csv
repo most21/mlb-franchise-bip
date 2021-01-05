@@ -1,14 +1,14 @@
-ateam,aseason
-White Sox,1928
-White Sox,1929
-White Sox,1930
-White Sox,1931
-Red Sox,1932
-Red Sox,1933
-Red Sox,1934
-Indians,1934
-Browns,1935
-Cardinals,1937
-Cardinals,1938
-Cardinals,1939
-Cardinals,1940
+teamId,ateam,aseason
+4.0,White Sox,1928
+4.0,White Sox,1929
+4.0,White Sox,1930
+4.0,White Sox,1931
+3.0,Red Sox,1932
+3.0,Red Sox,1933
+3.0,Red Sox,1934
+5.0,Indians,1934
+2.0,Browns,1935
+28.0,Cardinals,1937
+28.0,Cardinals,1938
+28.0,Cardinals,1939
+28.0,Cardinals,1940

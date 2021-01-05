@@ -1,9 +1,9 @@
-ateam,aseason
-White Sox,1935
-White Sox,1936
-White Sox,1937
-White Sox,1938
-White Sox,1939
-Browns,1939
-Browns,1940
-Browns,1942
+teamId,ateam,aseason
+4.0,White Sox,1935
+4.0,White Sox,1936
+4.0,White Sox,1937
+4.0,White Sox,1938
+4.0,White Sox,1939
+2.0,Browns,1939
+2.0,Browns,1940
+2.0,Browns,1942

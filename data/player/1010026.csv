@@ -1,5 +1,5 @@
-ateam,aseason
-Brewers,1971
-Brewers,1972
-Brewers,1973
-Athletics,1974
+teamId,ateam,aseason
+23.0,Brewers,1971
+23.0,Brewers,1972
+23.0,Brewers,1973
+10.0,Athletics,1974

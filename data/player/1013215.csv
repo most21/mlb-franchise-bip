@@ -1,14 +1,14 @@
-ateam,aseason
-Red Sox,1979
-Red Sox,1980
-Red Sox,1981
-Red Sox,1982
-Red Sox,1983
-Pirates,1984
-Cardinals,1985
-Cardinals,1986
-Cardinals,1987
-Cardinals,1988
-Dodgers,1988
-Dodgers,1989
-Cardinals,1990
+teamId,ateam,aseason
+3.0,Red Sox,1979
+3.0,Red Sox,1980
+3.0,Red Sox,1981
+3.0,Red Sox,1982
+3.0,Red Sox,1983
+27.0,Pirates,1984
+28.0,Cardinals,1985
+28.0,Cardinals,1986
+28.0,Cardinals,1987
+28.0,Cardinals,1988
+22.0,Dodgers,1988
+22.0,Dodgers,1989
+28.0,Cardinals,1990

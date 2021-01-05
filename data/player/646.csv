@@ -1,14 +1,14 @@
-ateam,aseason
-Dodgers,1993
-Dodgers,1994
-Dodgers,1995
-Expos,1996
-Expos,1997
-Blue Jays,1997
-Diamondbacks,1998
-Diamondbacks,1999
-Diamondbacks,2000
-Phillies,2000
-Phillies,2001
-Dodgers,2002
-Orioles,2003
+teamId,ateam,aseason
+22.0,Dodgers,1993
+22.0,Dodgers,1994
+22.0,Dodgers,1995
+24.0,Expos,1996
+24.0,Expos,1997
+14.0,Blue Jays,1997
+15.0,Diamondbacks,1998
+15.0,Diamondbacks,1999
+15.0,Diamondbacks,2000
+26.0,Phillies,2000
+26.0,Phillies,2001
+22.0,Dodgers,2002
+2.0,Orioles,2003

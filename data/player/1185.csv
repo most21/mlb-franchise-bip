@@ -1,8 +1,8 @@
-ateam,aseason
-Orioles,1996
-Phillies,1997
-Phillies,1998
-Cardinals,1999
-Cardinals,2000
-Cardinals,2002
-Cardinals,2003
+teamId,ateam,aseason
+2.0,Orioles,1996
+26.0,Phillies,1997
+26.0,Phillies,1998
+28.0,Cardinals,1999
+28.0,Cardinals,2000
+28.0,Cardinals,2002
+28.0,Cardinals,2003

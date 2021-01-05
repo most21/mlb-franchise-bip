@@ -1,7 +1,7 @@
-ateam,aseason
-Phillies,1901
-Senators,1902
-Senators,1903
-Senators,1904
-Senators,1905
-Naps,1906
+teamId,ateam,aseason
+26.0,Phillies,1901
+8.0,Senators,1902
+8.0,Senators,1903
+8.0,Senators,1904
+8.0,Senators,1905
+5.0,Naps,1906

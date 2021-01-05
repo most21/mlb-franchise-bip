@@ -1,8 +1,8 @@
-ateam,aseason
-Brewers,1891
-Colts,1893
-Pirates,1896
-Pirates,1897
-Browns,1898
-Spiders,1899
-Cardinals,1900
+teamId,ateam,aseason
+1047.0,Brewers,1891
+17.0,Colts,1893
+27.0,Pirates,1896
+27.0,Pirates,1897
+28.0,Browns,1898
+1026.0,Spiders,1899
+28.0,Cardinals,1900

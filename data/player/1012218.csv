@@ -1,16 +1,16 @@
-ateam,aseason
-Braves,1984
-Braves,1985
-Braves,1986
-Braves,1987
-Braves,1988
-Braves,1989
-Expos,1989
-Expos,1990
-Pirates,1990
-Pirates,1991
-Pirates,1992
-Pirates,1993
-Pirates,1994
-Red Sox,1995
-Pirates,1996
+teamId,ateam,aseason
+16.0,Braves,1984
+16.0,Braves,1985
+16.0,Braves,1986
+16.0,Braves,1987
+16.0,Braves,1988
+16.0,Braves,1989
+24.0,Expos,1989
+24.0,Expos,1990
+27.0,Pirates,1990
+27.0,Pirates,1991
+27.0,Pirates,1992
+27.0,Pirates,1993
+27.0,Pirates,1994
+3.0,Red Sox,1995
+27.0,Pirates,1996

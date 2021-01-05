@@ -1,14 +1,14 @@
-ateam,aseason
-Browns,1924
-Browns,1927
-Browns,1928
-Dodgers,1933
-Dodgers,1934
-Phillies,1939
-Phillies,1940
-Phillies,1941
-Phillies,1942
-Blue Jays,1943
-Tigers,1944
-Reds,1945
-Pirates,1945
+teamId,ateam,aseason
+2.0,Browns,1924
+2.0,Browns,1927
+2.0,Browns,1928
+22.0,Dodgers,1933
+22.0,Dodgers,1934
+26.0,Phillies,1939
+26.0,Phillies,1940
+26.0,Phillies,1941
+26.0,Phillies,1942
+26.0,Blue Jays,1943
+6.0,Tigers,1944
+18.0,Reds,1945
+27.0,Pirates,1945

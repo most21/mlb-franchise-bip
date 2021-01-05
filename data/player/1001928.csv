@@ -1,8 +1,8 @@
-ateam,aseason
-Mets,1971
-Mets,1972
-Mets,1973
-Braves,1974
-Braves,1975
-Braves,1976
-Braves,1977
+teamId,ateam,aseason
+25.0,Mets,1971
+25.0,Mets,1972
+25.0,Mets,1973
+16.0,Braves,1974
+16.0,Braves,1975
+16.0,Braves,1976
+16.0,Braves,1977

@@ -1,26 +1,26 @@
-ateam,aseason
-Rangers,1978
-Rangers,1979
-Rangers,1980
-Rangers,1981
-Rangers,1982
-Rangers,1983
-Rangers,1984
-Brewers,1985
-Brewers,1986
-Astros,1986
-Astros,1987
-Astros,1988
-Astros,1989
-Astros,1990
-Red Sox,1991
-Red Sox,1992
-Red Sox,1993
-Red Sox,1994
-Blue Jays,1995
-Rangers,1995
-Pirates,1996
-Astros,1996
-White Sox,1997
-Giants,1997
-Giants,1998
+teamId,ateam,aseason
+13.0,Rangers,1978
+13.0,Rangers,1979
+13.0,Rangers,1980
+13.0,Rangers,1981
+13.0,Rangers,1982
+13.0,Rangers,1983
+13.0,Rangers,1984
+23.0,Brewers,1985
+23.0,Brewers,1986
+21.0,Astros,1986
+21.0,Astros,1987
+21.0,Astros,1988
+21.0,Astros,1989
+21.0,Astros,1990
+3.0,Red Sox,1991
+3.0,Red Sox,1992
+3.0,Red Sox,1993
+3.0,Red Sox,1994
+14.0,Blue Jays,1995
+13.0,Rangers,1995
+27.0,Pirates,1996
+21.0,Astros,1996
+4.0,White Sox,1997
+30.0,Giants,1997
+30.0,Giants,1998

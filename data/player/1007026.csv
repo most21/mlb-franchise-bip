@@ -1,7 +1,7 @@
-ateam,aseason
-White Sox,1975
-White Sox,1976
-White Sox,1977
-Angels,1978
-Angels,1979
-Angels,1980
+teamId,ateam,aseason
+4.0,White Sox,1975
+4.0,White Sox,1976
+4.0,White Sox,1977
+1.0,Angels,1978
+1.0,Angels,1979
+1.0,Angels,1980

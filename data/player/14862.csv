@@ -1,8 +1,8 @@
-ateam,aseason
-Diamondbacks,2015
-Diamondbacks,2016
-Diamondbacks,2017
-Diamondbacks,2018
-Diamondbacks,2019
-Blue Jays,2019
-Red Sox,2020
+teamId,ateam,aseason
+15.0,Diamondbacks,2015
+15.0,Diamondbacks,2016
+15.0,Diamondbacks,2017
+15.0,Diamondbacks,2018
+15.0,Diamondbacks,2019
+14.0,Blue Jays,2019
+3.0,Red Sox,2020

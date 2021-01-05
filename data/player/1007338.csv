@@ -1,16 +1,16 @@
-ateam,aseason
-Brewers,1980
-Cardinals,1981
-Cardinals,1982
-Cardinals,1983
-Cardinals,1984
-Giants,1985
-Tigers,1986
-Padres,1986
-Cardinals,1987
-White Sox,1987
-White Sox,1988
-Pirates,1988
-Yankees,1989
-Yankees,1990
-Phillies,1991
+teamId,ateam,aseason
+23.0,Brewers,1980
+28.0,Cardinals,1981
+28.0,Cardinals,1982
+28.0,Cardinals,1983
+28.0,Cardinals,1984
+30.0,Giants,1985
+6.0,Tigers,1986
+29.0,Padres,1986
+28.0,Cardinals,1987
+4.0,White Sox,1987
+4.0,White Sox,1988
+27.0,Pirates,1988
+9.0,Yankees,1989
+9.0,Yankees,1990
+26.0,Phillies,1991

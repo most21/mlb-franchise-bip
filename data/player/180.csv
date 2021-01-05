@@ -1,15 +1,15 @@
-ateam,aseason
-Cubs,1991
-Cubs,1992
-Cubs,1993
-Cubs,1994
-Cubs,1995
-Cubs,1996
-Cubs,1997
-Rockies,1997
-Tigers,1998
-Blue Jays,2000
-Red Sox,2001
-Red Sox,2002
-Red Sox,2004
-Marlins,2005
+teamId,ateam,aseason
+17.0,Cubs,1991
+17.0,Cubs,1992
+17.0,Cubs,1993
+17.0,Cubs,1994
+17.0,Cubs,1995
+17.0,Cubs,1996
+17.0,Cubs,1997
+19.0,Rockies,1997
+6.0,Tigers,1998
+14.0,Blue Jays,2000
+3.0,Red Sox,2001
+3.0,Red Sox,2002
+3.0,Red Sox,2004
+20.0,Marlins,2005

@@ -1,10 +1,10 @@
-ateam,aseason
-Pirates,1962
-Pirates,1963
-Pirates,1964
-Pirates,1965
-Pirates,1966
-Pirates,1967
-Pirates,1968
-Padres,1969
-White Sox,1970
+teamId,ateam,aseason
+27.0,Pirates,1962
+27.0,Pirates,1963
+27.0,Pirates,1964
+27.0,Pirates,1965
+27.0,Pirates,1966
+27.0,Pirates,1967
+27.0,Pirates,1968
+29.0,Padres,1969
+4.0,White Sox,1970

@@ -1,7 +1,7 @@
-ateam,aseason
-Diamondbacks,2002
-Diamondbacks,2003
-Expos,2004
-Nationals,2005
-Nationals,2006
-Nationals,2007
+teamId,ateam,aseason
+15.0,Diamondbacks,2002
+15.0,Diamondbacks,2003
+24.0,Expos,2004
+24.0,Nationals,2005
+24.0,Nationals,2006
+24.0,Nationals,2007

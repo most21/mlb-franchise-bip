@@ -1,13 +1,13 @@
-ateam,aseason
-Phillies,1986
-Phillies,1988
-Phillies,1989
-Phillies,1990
-Braves,1990
-Braves,1991
-Braves,1992
-Braves,1993
-Rockies,1994
-Rockies,1995
-Rockies,1996
-White Sox,1996
+teamId,ateam,aseason
+26.0,Phillies,1986
+26.0,Phillies,1988
+26.0,Phillies,1989
+26.0,Phillies,1990
+16.0,Braves,1990
+16.0,Braves,1991
+16.0,Braves,1992
+16.0,Braves,1993
+19.0,Rockies,1994
+19.0,Rockies,1995
+19.0,Rockies,1996
+4.0,White Sox,1996

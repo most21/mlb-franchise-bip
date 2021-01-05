@@ -1,17 +1,17 @@
-ateam,aseason
-Blue Jays,1998
-Blue Jays,1999
-Blue Jays,2000
-Blue Jays,2001
-Blue Jays,2002
-Blue Jays,2003
-Blue Jays,2004
-Blue Jays,2005
-Blue Jays,2006
-Blue Jays,2007
-Blue Jays,2008
-Blue Jays,2009
-Phillies,2010
-Phillies,2011
-Phillies,2012
-Phillies,2013
+teamId,ateam,aseason
+14.0,Blue Jays,1998
+14.0,Blue Jays,1999
+14.0,Blue Jays,2000
+14.0,Blue Jays,2001
+14.0,Blue Jays,2002
+14.0,Blue Jays,2003
+14.0,Blue Jays,2004
+14.0,Blue Jays,2005
+14.0,Blue Jays,2006
+14.0,Blue Jays,2007
+14.0,Blue Jays,2008
+14.0,Blue Jays,2009
+26.0,Phillies,2010
+26.0,Phillies,2011
+26.0,Phillies,2012
+26.0,Phillies,2013

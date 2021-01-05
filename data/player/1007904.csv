@@ -1,20 +1,20 @@
-ateam,aseason
-Red Sox,1926
-Red Sox,1927
-Red Sox,1928
-Red Sox,1929
-Red Sox,1930
-Red Sox,1931
-Red Sox,1932
-Yankees,1932
-Yankees,1933
-Yankees,1934
-Reds,1935
-Braves,1935
-Bees,1936
-Bees,1937
-Bees,1938
-Bees,1939
-Pirates,1940
-Senators,1941
-Braves,1943
+teamId,ateam,aseason
+3.0,Red Sox,1926
+3.0,Red Sox,1927
+3.0,Red Sox,1928
+3.0,Red Sox,1929
+3.0,Red Sox,1930
+3.0,Red Sox,1931
+3.0,Red Sox,1932
+9.0,Yankees,1932
+9.0,Yankees,1933
+9.0,Yankees,1934
+18.0,Reds,1935
+16.0,Braves,1935
+16.0,Bees,1936
+16.0,Bees,1937
+16.0,Bees,1938
+16.0,Bees,1939
+27.0,Pirates,1940
+8.0,Senators,1941
+16.0,Braves,1943

@@ -1,14 +1,14 @@
-ateam,aseason
-White Sox,2009
-White Sox,2010
-Diamondbacks,2010
-Diamondbacks,2011
-Diamondbacks,2012
-Diamondbacks,2014
-Diamondbacks,2015
-Diamondbacks,2016
-Pirates,2017
-Dodgers,2018
-Blue Jays,2019
-Nationals,2019
-Nationals,2020
+teamId,ateam,aseason
+4.0,White Sox,2009
+4.0,White Sox,2010
+15.0,Diamondbacks,2010
+15.0,Diamondbacks,2011
+15.0,Diamondbacks,2012
+15.0,Diamondbacks,2014
+15.0,Diamondbacks,2015
+15.0,Diamondbacks,2016
+27.0,Pirates,2017
+22.0,Dodgers,2018
+14.0,Blue Jays,2019
+24.0,Nationals,2019
+24.0,Nationals,2020

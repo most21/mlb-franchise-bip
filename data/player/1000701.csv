@@ -1,10 +1,10 @@
-ateam,aseason
-Browns,1919
-Browns,1920
-Browns,1921
-Browns,1922
-Browns,1923
-Browns,1924
-Indians,1928
-Red Sox,1929
-Red Sox,1930
+teamId,ateam,aseason
+2.0,Browns,1919
+2.0,Browns,1920
+2.0,Browns,1921
+2.0,Browns,1922
+2.0,Browns,1923
+2.0,Browns,1924
+5.0,Indians,1928
+3.0,Red Sox,1929
+3.0,Red Sox,1930

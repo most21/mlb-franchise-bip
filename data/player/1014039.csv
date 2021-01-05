@@ -1,16 +1,16 @@
-ateam,aseason
-Dodgers,1958
-Dodgers,1959
-Dodgers,1960
-Dodgers,1961
-Dodgers,1962
-Yankees,1963
-Yankees,1964
-Indians,1965
-Indians,1967
-Indians,1968
-Indians,1969
-Twins,1970
-Twins,1971
-Cardinals,1971
-Red Sox,1972
+teamId,ateam,aseason
+22.0,Dodgers,1958
+22.0,Dodgers,1959
+22.0,Dodgers,1960
+22.0,Dodgers,1961
+22.0,Dodgers,1962
+9.0,Yankees,1963
+9.0,Yankees,1964
+5.0,Indians,1965
+5.0,Indians,1967
+5.0,Indians,1968
+5.0,Indians,1969
+8.0,Twins,1970
+8.0,Twins,1971
+28.0,Cardinals,1971
+3.0,Red Sox,1972

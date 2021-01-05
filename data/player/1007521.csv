@@ -1,5 +1,5 @@
-ateam,aseason
-Astros,1976
-Astros,1977
-Astros,1978
-Blue Jays,1979
+teamId,ateam,aseason
+21.0,Astros,1976
+21.0,Astros,1977
+21.0,Astros,1978
+14.0,Blue Jays,1979

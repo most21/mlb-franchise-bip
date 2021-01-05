@@ -1,12 +1,12 @@
-ateam,aseason
-Padres,1994
-Padres,1995
-Padres,1996
-Padres,1997
-Padres,1998
-Blue Jays,1999
-Blue Jays,2000
-Blue Jays,2001
-Reds,2001
-Reds,2002
-Reds,2003
+teamId,ateam,aseason
+29.0,Padres,1994
+29.0,Padres,1995
+29.0,Padres,1996
+29.0,Padres,1997
+29.0,Padres,1998
+14.0,Blue Jays,1999
+14.0,Blue Jays,2000
+14.0,Blue Jays,2001
+18.0,Reds,2001
+18.0,Reds,2002
+18.0,Reds,2003

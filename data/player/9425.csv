@@ -1,12 +1,12 @@
-ateam,aseason
-Mariners,2009
-Mariners,2010
-Mariners,2011
-Tigers,2011
-Tigers,2012
-Tigers,2013
-Nationals,2014
-Nationals,2015
-Astros,2016
-Red Sox,2017
-Rangers,2018
+teamId,ateam,aseason
+11.0,Mariners,2009
+11.0,Mariners,2010
+11.0,Mariners,2011
+6.0,Tigers,2011
+6.0,Tigers,2012
+6.0,Tigers,2013
+24.0,Nationals,2014
+24.0,Nationals,2015
+21.0,Astros,2016
+3.0,Red Sox,2017
+13.0,Rangers,2018

@@ -1,16 +1,16 @@
-ateam,aseason
-Dodgers,1944
-Dodgers,1946
-Pirates,1947
-Pirates,1948
-Cubs,1949
-Cubs,1951
-Indians,1956
-Indians,1957
-Indians,1958
-Indians,1959
-Reds,1960
-White Sox,1961
-Phillies,1962
-Phillies,1963
-Phillies,1964
+teamId,ateam,aseason
+22.0,Dodgers,1944
+22.0,Dodgers,1946
+27.0,Pirates,1947
+27.0,Pirates,1948
+17.0,Cubs,1949
+17.0,Cubs,1951
+5.0,Indians,1956
+5.0,Indians,1957
+5.0,Indians,1958
+5.0,Indians,1959
+18.0,Reds,1960
+4.0,White Sox,1961
+26.0,Phillies,1962
+26.0,Phillies,1963
+26.0,Phillies,1964

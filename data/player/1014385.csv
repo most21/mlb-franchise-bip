@@ -1,11 +1,11 @@
-ateam,aseason
-Mariners,1983
-Mariners,1984
-Mariners,1985
-Mariners,1986
-Dodgers,1987
-Athletics,1989
-Mariners,1990
-Red Sox,1991
-Red Sox,1992
-Indians,1993
+teamId,ateam,aseason
+11.0,Mariners,1983
+11.0,Mariners,1984
+11.0,Mariners,1985
+11.0,Mariners,1986
+22.0,Dodgers,1987
+10.0,Athletics,1989
+11.0,Mariners,1990
+3.0,Red Sox,1991
+3.0,Red Sox,1992
+5.0,Indians,1993

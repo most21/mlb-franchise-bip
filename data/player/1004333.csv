@@ -1,8 +1,8 @@
-ateam,aseason
-Padres,1974
-Padres,1975
-Padres,1976
-Padres,1977
-Padres,1978
-Indians,1978
-Blue Jays,1979
+teamId,ateam,aseason
+29.0,Padres,1974
+29.0,Padres,1975
+29.0,Padres,1976
+29.0,Padres,1977
+29.0,Padres,1978
+5.0,Indians,1978
+14.0,Blue Jays,1979

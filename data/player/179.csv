@@ -1,17 +1,17 @@
-ateam,aseason
-Giants,1987
-Giants,1990
-Giants,1991
-Giants,1992
-Giants,1993
-Giants,1994
-Marlins,1995
-Marlins,1996
-Rangers,1996
-Rangers,1997
-Rangers,1998
-Rangers,1999
-Braves,2000
-Braves,2001
-Red Sox,2002
-Red Sox,2003
+teamId,ateam,aseason
+30.0,Giants,1987
+30.0,Giants,1990
+30.0,Giants,1991
+30.0,Giants,1992
+30.0,Giants,1993
+30.0,Giants,1994
+20.0,Marlins,1995
+20.0,Marlins,1996
+13.0,Rangers,1996
+13.0,Rangers,1997
+13.0,Rangers,1998
+13.0,Rangers,1999
+16.0,Braves,2000
+16.0,Braves,2001
+3.0,Red Sox,2002
+3.0,Red Sox,2003

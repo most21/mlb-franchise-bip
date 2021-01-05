@@ -1,18 +1,18 @@
-ateam,aseason
-Reds,1927
-Reds,1928
-Indians,1930
-Indians,1931
-Indians,1932
-Red Sox,1932
-Yankees,1933
-Senators,1936
-Senators,1937
-Senators,1938
-Senators,1939
-White Sox,1940
-White Sox,1941
-White Sox,1942
-Browns,1942
-Browns,1945
-Senators,1945
+teamId,ateam,aseason
+18.0,Reds,1927
+18.0,Reds,1928
+5.0,Indians,1930
+5.0,Indians,1931
+5.0,Indians,1932
+3.0,Red Sox,1932
+9.0,Yankees,1933
+8.0,Senators,1936
+8.0,Senators,1937
+8.0,Senators,1938
+8.0,Senators,1939
+4.0,White Sox,1940
+4.0,White Sox,1941
+4.0,White Sox,1942
+2.0,Browns,1942
+2.0,Browns,1945
+8.0,Senators,1945

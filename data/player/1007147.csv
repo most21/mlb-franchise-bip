@@ -1,9 +1,9 @@
-ateam,aseason
-White Sox,1975
-White Sox,1976
-White Sox,1977
-White Sox,1978
-White Sox,1979
-White Sox,1980
-Cubs,1981
-Cubs,1982
+teamId,ateam,aseason
+4.0,White Sox,1975
+4.0,White Sox,1976
+4.0,White Sox,1977
+4.0,White Sox,1978
+4.0,White Sox,1979
+4.0,White Sox,1980
+17.0,Cubs,1981
+17.0,Cubs,1982

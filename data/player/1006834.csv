@@ -1,10 +1,10 @@
-ateam,aseason
-Indians,1948
-Browns,1948
-Browns,1949
-Browns,1950
-Browns,1951
-White Sox,1952
-Red Sox,1953
-Redlegs,1956
-Redlegs,1957
+teamId,ateam,aseason
+5.0,Indians,1948
+2.0,Browns,1948
+2.0,Browns,1949
+2.0,Browns,1950
+2.0,Browns,1951
+4.0,White Sox,1952
+3.0,Red Sox,1953
+18.0,Redlegs,1956
+18.0,Redlegs,1957

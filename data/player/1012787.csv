@@ -1,12 +1,12 @@
-ateam,aseason
-Pirates,1932
-Pirates,1933
-Pirates,1934
-Pirates,1935
-Pirates,1936
-Pirates,1937
-Pirates,1938
-Pirates,1939
-Bees,1940
-Dodgers,1941
-White Sox,1943
+teamId,ateam,aseason
+27.0,Pirates,1932
+27.0,Pirates,1933
+27.0,Pirates,1934
+27.0,Pirates,1935
+27.0,Pirates,1936
+27.0,Pirates,1937
+27.0,Pirates,1938
+27.0,Pirates,1939
+16.0,Bees,1940
+22.0,Dodgers,1941
+4.0,White Sox,1943

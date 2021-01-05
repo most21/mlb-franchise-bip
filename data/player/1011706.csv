@@ -1,8 +1,8 @@
-ateam,aseason
-Phillies,1912
-Phillies,1913
-Tip-Tops,1914
-Tip-Tops,1915
-Pepper,1915
-Cubs,1916
-Cubs,1917
+teamId,ateam,aseason
+26.0,Phillies,1912
+26.0,Phillies,1913
+1014.0,Tip-Tops,1914
+1014.0,Tip-Tops,1915
+1051.0,Pepper,1915
+17.0,Cubs,1916
+17.0,Cubs,1917

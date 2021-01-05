@@ -1,9 +1,9 @@
-ateam,aseason
-Orioles,2012
-Orioles,2013
-Orioles,2014
-Orioles,2015
-White Sox,2016
-White Sox,2017
-Rangers,2017
-White Sox,2018
+teamId,ateam,aseason
+2.0,Orioles,2012
+2.0,Orioles,2013
+2.0,Orioles,2014
+2.0,Orioles,2015
+4.0,White Sox,2016
+4.0,White Sox,2017
+13.0,Rangers,2017
+4.0,White Sox,2018

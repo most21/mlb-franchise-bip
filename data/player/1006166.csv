@@ -1,6 +1,6 @@
-ateam,aseason
-Phillies,1941
-Phillies,1942
-Phillies,1946
-Phillies,1947
-Reds,1948
+teamId,ateam,aseason
+26.0,Phillies,1941
+26.0,Phillies,1942
+26.0,Phillies,1946
+26.0,Phillies,1947
+18.0,Reds,1948

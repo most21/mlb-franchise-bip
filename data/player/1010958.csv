@@ -1,18 +1,18 @@
-ateam,aseason
-Yankees,1979
-Yankees,1981
-Yankees,1982
-Yankees,1983
-Yankees,1984
-Yankees,1985
-Yankees,1986
-Yankees,1987
-Yankees,1988
-Yankees,1989
-Yankees,1990
-Giants,1991
-Giants,1992
-Giants,1993
-Athletics,1994
-Blue Jays,1994
-White Sox,1995
+teamId,ateam,aseason
+9.0,Yankees,1979
+9.0,Yankees,1981
+9.0,Yankees,1982
+9.0,Yankees,1983
+9.0,Yankees,1984
+9.0,Yankees,1985
+9.0,Yankees,1986
+9.0,Yankees,1987
+9.0,Yankees,1988
+9.0,Yankees,1989
+9.0,Yankees,1990
+30.0,Giants,1991
+30.0,Giants,1992
+30.0,Giants,1993
+10.0,Athletics,1994
+14.0,Blue Jays,1994
+4.0,White Sox,1995

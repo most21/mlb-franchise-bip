@@ -1,8 +1,8 @@
-ateam,aseason
-Royals,1978
-Royals,1979
-Royals,1980
-Royals,1981
-Giants,1982
-Reds,1983
-Red Sox,1984
+teamId,ateam,aseason
+7.0,Royals,1978
+7.0,Royals,1979
+7.0,Royals,1980
+7.0,Royals,1981
+30.0,Giants,1982
+18.0,Reds,1983
+3.0,Red Sox,1984

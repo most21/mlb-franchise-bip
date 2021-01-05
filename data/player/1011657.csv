@@ -1,9 +1,9 @@
-ateam,aseason
-Red Sox,1961
-Red Sox,1962
-Pirates,1963
-Pirates,1964
-Pirates,1965
-Pirates,1966
-Braves,1966
-Braves,1967
+teamId,ateam,aseason
+3.0,Red Sox,1961
+3.0,Red Sox,1962
+27.0,Pirates,1963
+27.0,Pirates,1964
+27.0,Pirates,1965
+27.0,Pirates,1966
+16.0,Braves,1966
+16.0,Braves,1967

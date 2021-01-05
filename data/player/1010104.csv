@@ -1,7 +1,7 @@
-ateam,aseason
-Cubs,1912
-Cubs,1913
-Cubs,1914
-Cubs,1915
-Cubs,1916
-Cardinals,1917
+teamId,ateam,aseason
+17.0,Cubs,1912
+17.0,Cubs,1913
+17.0,Cubs,1914
+17.0,Cubs,1915
+17.0,Cubs,1916
+28.0,Cardinals,1917

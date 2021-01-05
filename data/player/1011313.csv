@@ -1,18 +1,18 @@
-ateam,aseason
-Red Sox,1926
-Red Sox,1927
-Red Sox,1928
-Red Sox,1929
-Red Sox,1930
-Red Sox,1931
-Red Sox,1932
-Indians,1932
-Senators,1933
-Senators,1934
-Senators,1935
-Senators,1936
-Red Sox,1936
-Tigers,1937
-Cubs,1938
-Cubs,1939
-Cardinals,1940
+teamId,ateam,aseason
+3.0,Red Sox,1926
+3.0,Red Sox,1927
+3.0,Red Sox,1928
+3.0,Red Sox,1929
+3.0,Red Sox,1930
+3.0,Red Sox,1931
+3.0,Red Sox,1932
+5.0,Indians,1932
+8.0,Senators,1933
+8.0,Senators,1934
+8.0,Senators,1935
+8.0,Senators,1936
+3.0,Red Sox,1936
+6.0,Tigers,1937
+17.0,Cubs,1938
+17.0,Cubs,1939
+28.0,Cardinals,1940

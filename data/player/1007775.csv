@@ -1,7 +1,7 @@
-ateam,aseason
-Senators,1913
-Yankees,1916
-Yankees,1917
-Yankees,1918
-Tigers,1919
-Tigers,1920
+teamId,ateam,aseason
+8.0,Senators,1913
+9.0,Yankees,1916
+9.0,Yankees,1917
+9.0,Yankees,1918
+6.0,Tigers,1919
+6.0,Tigers,1920

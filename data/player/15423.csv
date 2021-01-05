@@ -1,8 +1,8 @@
-ateam,aseason
-Marlins,2014
-Angels,2015
-Angels,2016
-Angels,2017
-Angels,2018
-Angels,2019
-Angels,2020
+teamId,ateam,aseason
+20.0,Marlins,2014
+1.0,Angels,2015
+1.0,Angels,2016
+1.0,Angels,2017
+1.0,Angels,2018
+1.0,Angels,2019
+1.0,Angels,2020

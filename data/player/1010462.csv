@@ -1,6 +1,6 @@
-ateam,aseason
-Dodgers,1938
-Bees,1939
-Bees,1940
-Braves,1941
-Braves,1946
+teamId,ateam,aseason
+22.0,Dodgers,1938
+16.0,Bees,1939
+16.0,Bees,1940
+16.0,Braves,1941
+16.0,Braves,1946

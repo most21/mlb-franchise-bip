@@ -1,7 +1,7 @@
-ateam,aseason
-Expos,1995
-Expos,1997
-Expos,1998
-Dodgers,1998
-Dodgers,1999
-Dodgers,2000
+teamId,ateam,aseason
+24.0,Expos,1995
+24.0,Expos,1997
+24.0,Expos,1998
+22.0,Dodgers,1998
+22.0,Dodgers,1999
+22.0,Dodgers,2000

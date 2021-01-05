@@ -1,10 +1,10 @@
-ateam,aseason
-Athletics,1940
-Athletics,1941
-Athletics,1942
-Athletics,1945
-Athletics,1946
-Athletics,1947
-Athletics,1948
-Athletics,1949
-Red Sox,1950
+teamId,ateam,aseason
+10.0,Athletics,1940
+10.0,Athletics,1941
+10.0,Athletics,1942
+10.0,Athletics,1945
+10.0,Athletics,1946
+10.0,Athletics,1947
+10.0,Athletics,1948
+10.0,Athletics,1949
+3.0,Red Sox,1950

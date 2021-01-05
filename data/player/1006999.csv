@@ -1,10 +1,10 @@
-ateam,aseason
-Indians,1943
-Indians,1944
-Indians,1945
-Indians,1946
-Indians,1947
-Indians,1948
-Senators,1949
-White Sox,1949
-Athletics,1950
+teamId,ateam,aseason
+5.0,Indians,1943
+5.0,Indians,1944
+5.0,Indians,1945
+5.0,Indians,1946
+5.0,Indians,1947
+5.0,Indians,1948
+8.0,Senators,1949
+4.0,White Sox,1949
+10.0,Athletics,1950

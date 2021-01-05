@@ -1,7 +1,7 @@
-ateam,aseason
-Cubs,1925
-Cubs,1926
-Cubs,1927
-Cubs,1929
-Cubs,1930
-Pirates,1931
+teamId,ateam,aseason
+17.0,Cubs,1925
+17.0,Cubs,1926
+17.0,Cubs,1927
+17.0,Cubs,1929
+17.0,Cubs,1930
+27.0,Pirates,1931

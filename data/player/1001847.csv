@@ -1,9 +1,9 @@
-ateam,aseason
-Phillies,1894
-Colts,1897
-Orphans,1898
-Orphans,1899
-Orphans,1900
-White Sox,1901
-White Sox,1902
-White Sox,1903
+teamId,ateam,aseason
+26.0,Phillies,1894
+17.0,Colts,1897
+17.0,Orphans,1898
+17.0,Orphans,1899
+17.0,Orphans,1900
+4.0,White Sox,1901
+4.0,White Sox,1902
+4.0,White Sox,1903

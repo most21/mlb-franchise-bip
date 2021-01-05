@@ -1,10 +1,10 @@
-ateam,aseason
-Yankees,2005
-Yankees,2006
-Yankees,2007
-Yankees,2008
-Yankees,2009
-Nationals,2011
-Nationals,2012
-Blue Jays,2013
-Royals,2016
+teamId,ateam,aseason
+9.0,Yankees,2005
+9.0,Yankees,2006
+9.0,Yankees,2007
+9.0,Yankees,2008
+9.0,Yankees,2009
+24.0,Nationals,2011
+24.0,Nationals,2012
+14.0,Blue Jays,2013
+7.0,Royals,2016

@@ -1,15 +1,15 @@
-ateam,aseason
-Indians,1965
-Indians,1966
-Indians,1967
-Indians,1968
-Indians,1969
-Indians,1970
-Indians,1971
-Indians,1972
-Rangers,1974
-Rangers,1975
-Rangers,1976
-Blue Jays,1977
-Rangers,1977
-Braves,1977
+teamId,ateam,aseason
+5.0,Indians,1965
+5.0,Indians,1966
+5.0,Indians,1967
+5.0,Indians,1968
+5.0,Indians,1969
+5.0,Indians,1970
+5.0,Indians,1971
+5.0,Indians,1972
+13.0,Rangers,1974
+13.0,Rangers,1975
+13.0,Rangers,1976
+14.0,Blue Jays,1977
+13.0,Rangers,1977
+16.0,Braves,1977

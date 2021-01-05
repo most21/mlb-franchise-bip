@@ -1,11 +1,11 @@
-ateam,aseason
-Athletics,1911
-Athletics,1912
-White Sox,1916
-White Sox,1917
-White Sox,1918
-White Sox,1919
-Browns,1922
-Browns,1923
-Browns,1924
-Browns,1925
+teamId,ateam,aseason
+10.0,Athletics,1911
+10.0,Athletics,1912
+4.0,White Sox,1916
+4.0,White Sox,1917
+4.0,White Sox,1918
+4.0,White Sox,1919
+2.0,Browns,1922
+2.0,Browns,1923
+2.0,Browns,1924
+2.0,Browns,1925

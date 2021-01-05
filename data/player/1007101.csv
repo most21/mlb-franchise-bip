@@ -1,13 +1,13 @@
-ateam,aseason
-Cubs,1962
-Cubs,1963
-Cubs,1964
-Cubs,1965
-Cubs,1966
-Cubs,1967
-Mets,1967
-Mets,1968
-Mets,1969
-Mets,1970
-Red Sox,1970
-Red Sox,1971
+teamId,ateam,aseason
+17.0,Cubs,1962
+17.0,Cubs,1963
+17.0,Cubs,1964
+17.0,Cubs,1965
+17.0,Cubs,1966
+17.0,Cubs,1967
+25.0,Mets,1967
+25.0,Mets,1968
+25.0,Mets,1969
+25.0,Mets,1970
+3.0,Red Sox,1970
+3.0,Red Sox,1971

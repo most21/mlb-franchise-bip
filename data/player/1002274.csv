@@ -1,8 +1,8 @@
-ateam,aseason
-Giants,1891
-Beaneaters,1892
-Browns,1893
-Browns,1894
-Browns,1895
-Orioles,1895
-Orioles,1896
+teamId,ateam,aseason
+30.0,Giants,1891
+16.0,Beaneaters,1892
+28.0,Browns,1893
+28.0,Browns,1894
+28.0,Browns,1895
+1006.0,Orioles,1895
+1006.0,Orioles,1896

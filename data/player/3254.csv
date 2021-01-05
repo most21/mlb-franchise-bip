@@ -1,15 +1,15 @@
-ateam,aseason
-Cubs,2008
-Cubs,2009
-Cubs,2010
-Cubs,2011
-Cubs,2012
-Cubs,2013
-Cubs,2014
-Athletics,2014
-White Sox,2015
-Giants,2016
-Giants,2017
-Giants,2018
-Giants,2019
-Giants,2020
+teamId,ateam,aseason
+17.0,Cubs,2008
+17.0,Cubs,2009
+17.0,Cubs,2010
+17.0,Cubs,2011
+17.0,Cubs,2012
+17.0,Cubs,2013
+17.0,Cubs,2014
+10.0,Athletics,2014
+4.0,White Sox,2015
+30.0,Giants,2016
+30.0,Giants,2017
+30.0,Giants,2018
+30.0,Giants,2019
+30.0,Giants,2020

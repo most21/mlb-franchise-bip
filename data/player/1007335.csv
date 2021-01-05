@@ -1,10 +1,10 @@
-ateam,aseason
-Pirates,1951
-Pirates,1952
-Pirates,1953
-Pirates,1954
-Cardinals,1955
-Cardinals,1956
-Redlegs,1956
-White Sox,1956
-White Sox,1957
+teamId,ateam,aseason
+27.0,Pirates,1951
+27.0,Pirates,1952
+27.0,Pirates,1953
+27.0,Pirates,1954
+28.0,Cardinals,1955
+28.0,Cardinals,1956
+18.0,Redlegs,1956
+4.0,White Sox,1956
+4.0,White Sox,1957

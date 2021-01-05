@@ -1,15 +1,15 @@
-ateam,aseason
-Padres,1974
-Padres,1975
-Padres,1976
-Padres,1977
-Padres,1978
-Indians,1978
-Indians,1979
-Indians,1980
-Indians,1981
-Indians,1982
-Indians,1983
-Indians,1984
-White Sox,1984
-White Sox,1985
+teamId,ateam,aseason
+29.0,Padres,1974
+29.0,Padres,1975
+29.0,Padres,1976
+29.0,Padres,1977
+29.0,Padres,1978
+5.0,Indians,1978
+5.0,Indians,1979
+5.0,Indians,1980
+5.0,Indians,1981
+5.0,Indians,1982
+5.0,Indians,1983
+5.0,Indians,1984
+4.0,White Sox,1984
+4.0,White Sox,1985

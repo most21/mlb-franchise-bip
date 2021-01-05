@@ -1,12 +1,12 @@
-ateam,aseason
-Giants,1971
-Giants,1972
-White Sox,1973
-Cubs,1974
-Cubs,1975
-Cubs,1976
-White Sox,1977
-White Sox,1978
-Orioles,1979
-Orioles,1980
-Orioles,1981
+teamId,ateam,aseason
+30.0,Giants,1971
+30.0,Giants,1972
+4.0,White Sox,1973
+17.0,Cubs,1974
+17.0,Cubs,1975
+17.0,Cubs,1976
+4.0,White Sox,1977
+4.0,White Sox,1978
+2.0,Orioles,1979
+2.0,Orioles,1980
+2.0,Orioles,1981

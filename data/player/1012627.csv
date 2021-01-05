@@ -1,6 +1,6 @@
-ateam,aseason
-Mets,1972
-Indians,1973
-Padres,1975
-Padres,1976
-Padres,1977
+teamId,ateam,aseason
+25.0,Mets,1972
+5.0,Indians,1973
+29.0,Padres,1975
+29.0,Padres,1976
+29.0,Padres,1977

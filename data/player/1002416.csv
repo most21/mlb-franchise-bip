@@ -1,8 +1,8 @@
-ateam,aseason
-Cubs,1909
-Cubs,1910
-Cubs,1911
-Cubs,1912
-Pirates,1912
-Yankees,1914
-Yankees,1915
+teamId,ateam,aseason
+17.0,Cubs,1909
+17.0,Cubs,1910
+17.0,Cubs,1911
+17.0,Cubs,1912
+27.0,Pirates,1912
+9.0,Yankees,1914
+9.0,Yankees,1915

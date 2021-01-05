@@ -1,6 +1,6 @@
-ateam,aseason
-Dodgers,2016
-Dodgers,2017
-Dodgers,2018
-Dodgers,2019
-Twins,2020
+teamId,ateam,aseason
+22.0,Dodgers,2016
+22.0,Dodgers,2017
+22.0,Dodgers,2018
+22.0,Dodgers,2019
+8.0,Twins,2020

@@ -1,14 +1,14 @@
-ateam,aseason
-Browns,1946
-Browns,1947
-Red Sox,1948
-Red Sox,1949
-Red Sox,1950
-Red Sox,1951
-Red Sox,1952
-Red Sox,1953
-Red Sox,1954
-Red Sox,1955
-Cardinals,1956
-White Sox,1956
-White Sox,1957
+teamId,ateam,aseason
+2.0,Browns,1946
+2.0,Browns,1947
+3.0,Red Sox,1948
+3.0,Red Sox,1949
+3.0,Red Sox,1950
+3.0,Red Sox,1951
+3.0,Red Sox,1952
+3.0,Red Sox,1953
+3.0,Red Sox,1954
+3.0,Red Sox,1955
+28.0,Cardinals,1956
+4.0,White Sox,1956
+4.0,White Sox,1957

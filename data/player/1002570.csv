@@ -1,7 +1,7 @@
-ateam,aseason
-Pirates,1992
-Pirates,1993
-Pirates,1994
-Pirates,1996
-Pirates,1997
-Reds,1998
+teamId,ateam,aseason
+27.0,Pirates,1992
+27.0,Pirates,1993
+27.0,Pirates,1994
+27.0,Pirates,1996
+27.0,Pirates,1997
+18.0,Reds,1998

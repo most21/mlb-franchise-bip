@@ -1,6 +1,6 @@
-ateam,aseason
-Athletics,1920
-Athletics,1921
-Athletics,1922
-Tigers,1922
-Tigers,1923
+teamId,ateam,aseason
+10.0,Athletics,1920
+10.0,Athletics,1921
+10.0,Athletics,1922
+6.0,Tigers,1922
+6.0,Tigers,1923

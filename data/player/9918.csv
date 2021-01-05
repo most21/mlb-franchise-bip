@@ -1,8 +1,8 @@
-ateam,aseason
-Twins,2007
-Twins,2008
-Twins,2009
-Twins,2010
-Twins,2011
-Marlins,2013
-Marlins,2014
+teamId,ateam,aseason
+8.0,Twins,2007
+8.0,Twins,2008
+8.0,Twins,2009
+8.0,Twins,2010
+8.0,Twins,2011
+20.0,Marlins,2013
+20.0,Marlins,2014

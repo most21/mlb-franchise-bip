@@ -1,15 +1,15 @@
-ateam,aseason
-White Sox,1904
-White Sox,1905
-White Sox,1906
-White Sox,1907
-White Sox,1908
-White Sox,1909
-White Sox,1910
-Red Sox,1910
-Red Sox,1911
-Reds,1911
-Reds,1912
-Terrapins,1914
-Terrapins,1915
-Tip-Tops,1915
+teamId,ateam,aseason
+4.0,White Sox,1904
+4.0,White Sox,1905
+4.0,White Sox,1906
+4.0,White Sox,1907
+4.0,White Sox,1908
+4.0,White Sox,1909
+4.0,White Sox,1910
+3.0,Red Sox,1910
+3.0,Red Sox,1911
+18.0,Reds,1911
+18.0,Reds,1912
+1007.0,Terrapins,1914
+1007.0,Terrapins,1915
+1014.0,Tip-Tops,1915

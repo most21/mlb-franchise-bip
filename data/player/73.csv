@@ -1,22 +1,22 @@
-ateam,aseason
-Orioles,1988
-Orioles,1989
-Orioles,1990
-Astros,1991
-Phillies,1992
-Phillies,1993
-Phillies,1994
-Phillies,1995
-Phillies,1996
-Phillies,1997
-Phillies,1998
-Phillies,1999
-Phillies,2000
-Diamondbacks,2000
-Diamondbacks,2001
-Diamondbacks,2002
-Diamondbacks,2003
-Red Sox,2004
-Red Sox,2005
-Red Sox,2006
-Red Sox,2007
+teamId,ateam,aseason
+2.0,Orioles,1988
+2.0,Orioles,1989
+2.0,Orioles,1990
+21.0,Astros,1991
+26.0,Phillies,1992
+26.0,Phillies,1993
+26.0,Phillies,1994
+26.0,Phillies,1995
+26.0,Phillies,1996
+26.0,Phillies,1997
+26.0,Phillies,1998
+26.0,Phillies,1999
+26.0,Phillies,2000
+15.0,Diamondbacks,2000
+15.0,Diamondbacks,2001
+15.0,Diamondbacks,2002
+15.0,Diamondbacks,2003
+3.0,Red Sox,2004
+3.0,Red Sox,2005
+3.0,Red Sox,2006
+3.0,Red Sox,2007

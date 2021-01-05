@@ -1,7 +1,7 @@
-ateam,aseason
-Indians,1965
-Indians,1968
-Royals,1969
-Royals,1970
-Royals,1971
-Royals,1972
+teamId,ateam,aseason
+5.0,Indians,1965
+5.0,Indians,1968
+7.0,Royals,1969
+7.0,Royals,1970
+7.0,Royals,1971
+7.0,Royals,1972

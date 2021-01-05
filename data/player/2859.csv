@@ -1,15 +1,15 @@
-ateam,aseason
-Nationals,2007
-Nationals,2009
-Nationals,2010
-Nationals,2011
-Nationals,2012
-Nationals,2013
-Nationals,2014
-Rangers,2015
-Braves,2015
-Indians,2016
-Athletics,2016
-Mariners,2018
-White Sox,2019
-White Sox,2020
+teamId,ateam,aseason
+24.0,Nationals,2007
+24.0,Nationals,2009
+24.0,Nationals,2010
+24.0,Nationals,2011
+24.0,Nationals,2012
+24.0,Nationals,2013
+24.0,Nationals,2014
+13.0,Rangers,2015
+16.0,Braves,2015
+5.0,Indians,2016
+10.0,Athletics,2016
+11.0,Mariners,2018
+4.0,White Sox,2019
+4.0,White Sox,2020

@@ -1,8 +1,8 @@
-ateam,aseason
-Red Sox,1979
-Red Sox,1980
-Red Sox,1981
-Red Sox,1982
-Cubs,1983
-Cubs,1984
-Athletics,1984
+teamId,ateam,aseason
+3.0,Red Sox,1979
+3.0,Red Sox,1980
+3.0,Red Sox,1981
+3.0,Red Sox,1982
+17.0,Cubs,1983
+17.0,Cubs,1984
+10.0,Athletics,1984

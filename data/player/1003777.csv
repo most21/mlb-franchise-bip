@@ -1,8 +1,8 @@
-ateam,aseason
-Senators,1912
-Senators,1913
-Senators,1914
-Senators,1915
-Reds,1917
-Indians,1919
-Senators,1920
+teamId,ateam,aseason
+8.0,Senators,1912
+8.0,Senators,1913
+8.0,Senators,1914
+8.0,Senators,1915
+18.0,Reds,1917
+5.0,Indians,1919
+8.0,Senators,1920

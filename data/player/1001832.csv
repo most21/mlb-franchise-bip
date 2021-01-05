@@ -1,14 +1,14 @@
-ateam,aseason
-Highlanders,1910
-Highlanders,1911
-Highlanders,1912
-Yankees,1913
-Yankees,1914
-Yankees,1915
-Yankees,1916
-Yankees,1917
-Yankees,1918
-Red Sox,1919
-Indians,1919
-Indians,1920
-Indians,1921
+teamId,ateam,aseason
+9.0,Highlanders,1910
+9.0,Highlanders,1911
+9.0,Highlanders,1912
+9.0,Yankees,1913
+9.0,Yankees,1914
+9.0,Yankees,1915
+9.0,Yankees,1916
+9.0,Yankees,1917
+9.0,Yankees,1918
+3.0,Red Sox,1919
+5.0,Indians,1919
+5.0,Indians,1920
+5.0,Indians,1921

@@ -1,8 +1,8 @@
-ateam,aseason
-Yankees,1961
-Yankees,1962
-Yankees,1964
-Yankees,1965
-Athletics,1965
-Athletics,1966
-Red Sox,1966
+teamId,ateam,aseason
+9.0,Yankees,1961
+9.0,Yankees,1962
+9.0,Yankees,1964
+9.0,Yankees,1965
+10.0,Athletics,1965
+10.0,Athletics,1966
+3.0,Red Sox,1966

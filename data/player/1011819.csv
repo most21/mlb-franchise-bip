@@ -1,16 +1,16 @@
-ateam,aseason
-Tigers,1957
-Tigers,1958
-White Sox,1958
-White Sox,1959
-White Sox,1960
-White Sox,1961
-Athletics,1961
-Braves,1962
-Braves,1963
-Giants,1964
-Giants,1965
-Giants,1966
-Mets,1966
-Mets,1967
-Cubs,1967
+teamId,ateam,aseason
+6.0,Tigers,1957
+6.0,Tigers,1958
+4.0,White Sox,1958
+4.0,White Sox,1959
+4.0,White Sox,1960
+4.0,White Sox,1961
+10.0,Athletics,1961
+16.0,Braves,1962
+16.0,Braves,1963
+30.0,Giants,1964
+30.0,Giants,1965
+30.0,Giants,1966
+25.0,Mets,1966
+25.0,Mets,1967
+17.0,Cubs,1967

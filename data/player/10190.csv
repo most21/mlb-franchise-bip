@@ -1,8 +1,8 @@
-ateam,aseason
-Diamondbacks,2012
-Diamondbacks,2013
-Angels,2014
-Angels,2016
-Angels,2017
-Angels,2018
-Angels,2019
+teamId,ateam,aseason
+15.0,Diamondbacks,2012
+15.0,Diamondbacks,2013
+1.0,Angels,2014
+1.0,Angels,2016
+1.0,Angels,2017
+1.0,Angels,2018
+1.0,Angels,2019

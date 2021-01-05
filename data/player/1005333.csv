@@ -1,12 +1,12 @@
-ateam,aseason
-Mariners,1988
-Mariners,1989
-Mariners,1990
-Mariners,1991
-Mariners,1992
-Mariners,1993
-Reds,1994
-Red Sox,1995
-Blue Jays,1996
-Blue Jays,1997
-Blue Jays,1998
+teamId,ateam,aseason
+11.0,Mariners,1988
+11.0,Mariners,1989
+11.0,Mariners,1990
+11.0,Mariners,1991
+11.0,Mariners,1992
+11.0,Mariners,1993
+18.0,Reds,1994
+3.0,Red Sox,1995
+14.0,Blue Jays,1996
+14.0,Blue Jays,1997
+14.0,Blue Jays,1998

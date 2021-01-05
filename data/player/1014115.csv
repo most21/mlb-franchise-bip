@@ -1,6 +1,6 @@
-ateam,aseason
-Red Sox,1926
-Red Sox,1927
-Red Sox,1928
-Browns,1928
-Phillies,1931
+teamId,ateam,aseason
+3.0,Red Sox,1926
+3.0,Red Sox,1927
+3.0,Red Sox,1928
+2.0,Browns,1928
+26.0,Phillies,1931

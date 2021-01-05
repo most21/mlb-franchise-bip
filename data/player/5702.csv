@@ -1,7 +1,7 @@
-ateam,aseason
-White Sox,2015
-Brewers,2016
-Brewers,2017
-Brewers,2018
-Brewers,2019
-Diamondbacks,2020
+teamId,ateam,aseason
+4.0,White Sox,2015
+23.0,Brewers,2016
+23.0,Brewers,2017
+23.0,Brewers,2018
+23.0,Brewers,2019
+15.0,Diamondbacks,2020

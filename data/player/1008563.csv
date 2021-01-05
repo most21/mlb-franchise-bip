@@ -1,8 +1,8 @@
-ateam,aseason
-Red Sox,1910
-Red Sox,1911
-Yankees,1913
-Yankees,1914
-Yankees,1915
-Red Sox,1916
-Indians,1916
+teamId,ateam,aseason
+3.0,Red Sox,1910
+3.0,Red Sox,1911
+9.0,Yankees,1913
+9.0,Yankees,1914
+9.0,Yankees,1915
+3.0,Red Sox,1916
+5.0,Indians,1916

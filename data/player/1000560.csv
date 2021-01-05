@@ -1,7 +1,7 @@
-ateam,aseason
-Expos,1990
-Expos,1991
-Expos,1992
-Expos,1993
-Indians,1994
-Dodgers,1994
+teamId,ateam,aseason
+24.0,Expos,1990
+24.0,Expos,1991
+24.0,Expos,1992
+24.0,Expos,1993
+5.0,Indians,1994
+22.0,Dodgers,1994

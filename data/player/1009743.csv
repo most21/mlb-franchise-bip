@@ -1,6 +1,6 @@
-ateam,aseason
-Giants,1918
-Browns,1928
-Browns,1929
-Reds,1931
-Reds,1932
+teamId,ateam,aseason
+30.0,Giants,1918
+2.0,Browns,1928
+2.0,Browns,1929
+18.0,Reds,1931
+18.0,Reds,1932

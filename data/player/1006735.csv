@@ -1,8 +1,8 @@
-ateam,aseason
-Highlanders,1912
-Yankees,1913
-Yankees,1914
-Yankees,1915
-Yankees,1916
-Yankees,1918
-Braves,1919
+teamId,ateam,aseason
+9.0,Highlanders,1912
+9.0,Yankees,1913
+9.0,Yankees,1914
+9.0,Yankees,1915
+9.0,Yankees,1916
+9.0,Yankees,1918
+16.0,Braves,1919

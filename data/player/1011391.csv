@@ -1,8 +1,8 @@
-ateam,aseason
-Giants,1939
-Bees,1940
-Braves,1941
-Braves,1942
-Braves,1943
-Blue Jays,1943
-Braves,1943
+teamId,ateam,aseason
+30.0,Giants,1939
+16.0,Bees,1940
+16.0,Braves,1941
+16.0,Braves,1942
+16.0,Braves,1943
+26.0,Blue Jays,1943
+16.0,Braves,1943

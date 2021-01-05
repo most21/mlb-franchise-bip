@@ -1,11 +1,11 @@
-ateam,aseason
-Astros,1998
-Mariners,1999
-Mariners,2000
-Mariners,2001
-Mariners,2002
-Athletics,2003
-Devil Rays,2004
-Red Sox,2005
-Nationals,2005
-Orioles,2006
+teamId,ateam,aseason
+21.0,Astros,1998
+11.0,Mariners,1999
+11.0,Mariners,2000
+11.0,Mariners,2001
+11.0,Mariners,2002
+10.0,Athletics,2003
+12.0,Devil Rays,2004
+3.0,Red Sox,2005
+24.0,Nationals,2005
+2.0,Orioles,2006

@@ -1,18 +1,18 @@
-ateam,aseason
-Mets,1978
-Mets,1979
-Mets,1980
-Royals,1981
-Blue Jays,1981
-Tigers,1982
-Tigers,1983
-Tigers,1984
-Tigers,1985
-Giants,1986
-Twins,1987
-Twins,1988
-Twins,1989
-Twins,1990
-Braves,1991
-Braves,1992
-Royals,1992
+teamId,ateam,aseason
+25.0,Mets,1978
+25.0,Mets,1979
+25.0,Mets,1980
+7.0,Royals,1981
+14.0,Blue Jays,1981
+6.0,Tigers,1982
+6.0,Tigers,1983
+6.0,Tigers,1984
+6.0,Tigers,1985
+30.0,Giants,1986
+8.0,Twins,1987
+8.0,Twins,1988
+8.0,Twins,1989
+8.0,Twins,1990
+16.0,Braves,1991
+16.0,Braves,1992
+7.0,Royals,1992

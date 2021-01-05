@@ -1,14 +1,14 @@
-ateam,aseason
-Cubs,1995
-Cubs,1996
-Rangers,1997
-White Sox,1999
-White Sox,2000
-Devil Rays,2000
-Devil Rays,2001
-Devil Rays,2002
-Blue Jays,2003
-Yankees,2004
-Yankees,2005
-Yankees,2006
-Dodgers,2008
+teamId,ateam,aseason
+17.0,Cubs,1995
+17.0,Cubs,1996
+13.0,Rangers,1997
+4.0,White Sox,1999
+4.0,White Sox,2000
+12.0,Devil Rays,2000
+12.0,Devil Rays,2001
+12.0,Devil Rays,2002
+14.0,Blue Jays,2003
+9.0,Yankees,2004
+9.0,Yankees,2005
+9.0,Yankees,2006
+22.0,Dodgers,2008

@@ -1,10 +1,10 @@
-ateam,aseason
-Cowboys,1884
-White Stockings,1889
-Colts,1890
-Colts,1891
-Colts,1892
-Colts,1893
-Colts,1894
-Colts,1895
-Browns,1897
+teamId,ateam,aseason
+1041.0,Cowboys,1884
+17.0,White Stockings,1889
+17.0,Colts,1890
+17.0,Colts,1891
+17.0,Colts,1892
+17.0,Colts,1893
+17.0,Colts,1894
+17.0,Colts,1895
+28.0,Browns,1897
