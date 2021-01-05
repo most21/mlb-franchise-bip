@@ -5,7 +5,7 @@ import pickle
 
 from tqdm import tqdm
 
-def build_teammate_matrix(save=True):
+def build_teammate_matrix(players, save=True):
     """
     Construct adjacency matrix for teammates. Stored as dictionary for efficiency.
     If A_ij = 1, player i and player j were teammates at one point. Else 0. We only store the entries with value 1.
@@ -20,7 +20,7 @@ def build_teammate_matrix(save=True):
     # Numpy 2d-array and dictionary mapping a player's index to his Fangraphs ID
     """
     # Load player list
-    players = pd.read_csv("./data/players.csv")
+    #players = pd.read_csv("./data/players.csv")
     N = players.shape[0]
     #player_id_dict = {i: str(players["playerid"][i]) for i in range(N)}
 

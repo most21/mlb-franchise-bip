@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 import sys
 
-from teammate_matrix import get_teammate_matrix
+from teammate_matrix import get_teammate_matrix, build_teammate_matrix
 
 def make_bip(players, idx_to_id_dict, teammate_matrix):
     N = players.shape[0]
@@ -57,7 +57,9 @@ def main():
 
     # Load data
     players, idx_to_id_dict = load_players(team)
-    teammate_matrix = get_teammate_matrix(matrix_loc="teammate_matrix.b")
+
+    # Create teammate matrix for this franchise
+    teammate_matrix = build_teammate_matrix(players, save=False)
 
     # Create and solve optimization problem
     make_bip(players, idx_to_id_dict, teammate_matrix)
