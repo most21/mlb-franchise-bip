@@ -14,6 +14,7 @@ def make_bip(players, idx_to_id_dict, teammate_matrix):
 
     # Create variables
     x = [m.add_var(var_type=mip.BINARY, name='var({})'.format(i)) for i in range(N)]
+    y = [[m.add_var(var_type=mip.BINARY, name='var({}-{})'.format(i, j)) for j in range(N)] for i in range(N)]
 
     # Create objective function
     m.objective = mip.xsum(players["WAR"][i] * x[i] for i in range(N))
@@ -22,12 +23,16 @@ def make_bip(players, idx_to_id_dict, teammate_matrix):
     m += mip.xsum(x[i] for i in range(N)) == 5
 
     # Create second set of constraints: no teammates allowed
-    for i in range(N):
+    #for i in range(N):
         #m += mip.xsum(mip.xsum(teammate_matrix.get((idx_to_id_dict[i], idx_to_id_dict[j]), 0) * x[j] * x[i] for j in range(N)) for i in range(N)) == 0
         # * x[i] for i in range(N)) == 0
-        m += mip.xsum(teammate_matrix.get((idx_to_id_dict[i], idx_to_id_dict[j]), 0) * x[j] for j in range(N)) == 0
+        #m += mip.xsum(teammate_matrix.get((idx_to_id_dict[i], idx_to_id_dict[j]), 0) * x[j] for j in range(N)) == 0
+    m += mip.xsum(mip.xsum(teammate_matrix.get((idx_to_id_dict[i], idx_to_id_dict[j]), 0) * y[i][j] for j in range(N)) for i in range(N))
 
-
+    # Constrain y variables to be product of x_i, x_j
+    for i in range(N):
+        for j in range(N):
+            m += y[i][j] == x[i] * x[j]
 
     # Solve
     m.optimize()
