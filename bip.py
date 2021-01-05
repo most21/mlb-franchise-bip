@@ -27,14 +27,14 @@ def make_bip(players, idx_to_id_dict, teammate_matrix):
         #m += mip.xsum(mip.xsum(teammate_matrix.get((idx_to_id_dict[i], idx_to_id_dict[j]), 0) * x[j] * x[i] for j in range(N)) for i in range(N)) == 0
         # * x[i] for i in range(N)) == 0
         #m += mip.xsum(teammate_matrix.get((idx_to_id_dict[i], idx_to_id_dict[j]), 0) * x[j] for j in range(N)) == 0
-    m += mip.xsum(mip.xsum(teammate_matrix.get((idx_to_id_dict[i], idx_to_id_dict[j]), 0) * y[i][j] for j in range(N)) for i in range(N))
+    m += mip.xsum(mip.xsum(teammate_matrix.get((idx_to_id_dict[i], idx_to_id_dict[j]), 0) * y[i][j] for j in range(N)) for i in range(N)) == 0
 
     # Constrain y variables to be product of x_i, x_j
     for i in range(N):
         for j in range(N):
             m += y[i][j] >= x[i] + x[j] - 1
-            m += y[i][j] <= x[i]
-            m += y[i][j] <= x[j]
+            #m += y[i][j] <= x[i]
+            #m += y[i][j] <= x[j]
 
     # Solve
     m.optimize()
