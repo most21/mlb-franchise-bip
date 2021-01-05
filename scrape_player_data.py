@@ -35,7 +35,7 @@ def scrape_player(pid, position="P", save_path="./data/player/", save=False):
     data = data.loc[data["ateam"] != "- - -"]
 
     # Take only the year and team name columns
-    data = data[["ateam", "aseason"]]
+    data = data[["teamId", "ateam", "aseason"]]
 
     # Save data to file
     if save:

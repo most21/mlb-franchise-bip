@@ -5,7 +5,7 @@ import pickle
 
 from tqdm import tqdm
 
-def build_teammate_matrix(players, save=True):
+def build_teammate_matrix(players, franchise_id, save=True):
     """
     Construct adjacency matrix for teammates. Stored as dictionary for efficiency.
     If A_ij = 1, player i and player j were teammates at one point. Else 0. We only store the entries with value 1.
@@ -34,10 +34,10 @@ def build_teammate_matrix(players, save=True):
     print("Building matrix...")
     matrix = {} #np.zeros((N, N))
     for i in tqdm(range(N)):
-        # Get data for player i. We open it here for efficiency, since it can be reused
+        # Get data for player i. We access it here for efficiency, since it can be reused
         pid1 = str(players["playerid"][i])
         df1 = data[pid1]
-        p1_data = set([(df1["ateam"][k], df1["aseason"][k]) for k in range(df1.shape[0])]) # turn dataframe into set of tuples (1 tuple per row)
+        p1_data = set([(df1["teamId"][k], df1["aseason"][k]) for k in range(df1.shape[0])]) # turn dataframe into set of tuples (1 tuple per row)
 
         for j in range(i, N):
             # If i and j are the same, just leave those entries as 0
@@ -47,11 +47,11 @@ def build_teammate_matrix(players, save=True):
             # Get data for player j
             pid2 = str(players["playerid"][j])
             df2 = data[pid2]
-            p2_data = set([(df2["ateam"][k], df2["aseason"][k]) for k in range(df2.shape[0])]) # turn dataframe into set of tuples (1 tuple per row)
+            p2_data = set([(df2["teamId"][k], df2["aseason"][k]) for k in range(df2.shape[0])]) # turn dataframe into set of tuples (1 tuple per row)
 
             # Take intersection of player data. If the result is non-empty, these players were teammates at some point
-            join = p1_data.intersection(p2_data)
-            if len(join) > 0:
+            teammates = check_teammates(p1_data, p2_data, franchise_id)
+            if teammates:
                 matrix[pid1, pid2] = 1
                 matrix[pid2, pid1] = 1
 
@@ -63,6 +63,15 @@ def build_teammate_matrix(players, save=True):
             pickle.dump(matrix, f)
 
     return matrix #, player_id_dict
+
+def check_teammates(p1_data, p2_data, franchise_id):
+    overlap = p1_data.intersection(p2_data)
+    for id, _ in overlap:
+        if id == franchise_id:
+            return True
+    return False
+
+
 
 def load_teammate_matrix(file):
     return pickle.load(open(file, "rb"))

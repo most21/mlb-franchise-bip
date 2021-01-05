@@ -1,4 +1,4 @@
-import mip
+#import mip
 import numpy as np
 import pandas as pd
 import sys
@@ -62,10 +62,12 @@ def main():
     players, idx_to_id_dict = load_players(team)
 
     # Create teammate matrix for this franchise
-    teammate_matrix = build_teammate_matrix(players, save=False)
+    teammate_matrix = build_teammate_matrix(players, 17, save=False)
+    print(teammate_matrix)
+    quit()
 
     # Create and solve optimization problem
-    make_bip(players, idx_to_id_dict, teammate_matrix)
+    #make_bip(players, idx_to_id_dict, teammate_matrix)
 
 
 
