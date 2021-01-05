@@ -62,9 +62,9 @@ def main():
     players, idx_to_id_dict = load_players(team)
 
     # Create teammate matrix for this franchise
-    teammate_matrix = build_teammate_matrix(players, 16, save=False)
+    teammate_matrix = build_teammate_matrix(players, 15, save=False)
     # for key in teammate_matrix:
-    #     if "1012299" in key:
+    #     if "4366" == key[0]:
     #         print(key, teammate_matrix[key])
     # quit()
 
