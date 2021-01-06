@@ -5,6 +5,39 @@ import sys
 
 from teammate_matrix import get_teammate_matrix, build_teammate_matrix
 
+FRANCHISE_ID = {
+    "Angels": 1,
+    "Astros": 21,
+    "Athletics": 10,
+    "Blue_Jays": 14,
+    "Braves": 16,
+    "Brewers": 23,
+    "Cardinals": 28,
+    "Cubs": 17,
+    "Diamondbacks": 15,
+    "Dodgers": 22,
+    "Giants": 30,
+    "Indians": 5,
+    "Mariners": 11,
+    "Marlins": 20,
+    "Mets": 25,
+    "Nationals": 24,
+    "Orioles": 2,
+    "Padres": 29,
+    "Phillies": 26,
+    "Pirates": 27,
+    "Rangers": 13,
+    "Rays": 12,
+    "Red_Sox": 3,
+    "Reds": 18,
+    "Rockies": 19,
+    "Royals": 7,
+    "Tigers": 6,
+    "Twins": 8,
+    "White_Sox": 4,
+    "Yankees": 9,
+}
+
 def make_bip(players, idx_to_id_dict, teammate_matrix):
     N = players.shape[0]
 
@@ -40,18 +73,18 @@ def make_bip(players, idx_to_id_dict, teammate_matrix):
     m.optimize()
 
     # Parse solution
-    #for i in range(N):
-    #    if np.isclose(x[i].x, 1):
-    #        print(i, idx_to_id_dict[i], x[i].x, players["WAR"][i])
-
     for i in range(N):
-        for j in range(N):
-            print(i, j, y[i][j].x)
-    print()
-    for i in range(N):
-        print(i, x[i].x)
+       if np.isclose(x[i].x, 1):
+           print(i, idx_to_id_dict[i], x[i].x, players["WAR"][i])
 
-    #print(f"\nObjective function: {m.objective_value}")
+    # for i in range(N):
+    #     for j in range(N):
+    #         print(i, j, y[i][j].x)
+    # print()
+    # for i in range(N):
+    #     print(i, x[i].x)
+
+    print(f"\nObjective function: {m.objective_value}")
 
 
 def load_players(team):
@@ -76,9 +109,9 @@ def main():
     players, idx_to_id_dict = load_players(team)
 
     # Create teammate matrix for this franchise
-    teammate_matrix = build_teammate_matrix(players, 15, save=False)
+    teammate_matrix = build_teammate_matrix(players, FRANCHISE_ID[team], save=False)
     # for key in teammate_matrix:
-    #     if "4366" == key[0]:
+    #     if "60" == key[0]:
     #         print(key, teammate_matrix[key])
     # quit()
 
