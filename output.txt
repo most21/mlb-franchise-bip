@@ -4,10 +4,11 @@ Build Date: Nov 15 2020
 
 Starting solution of the Linear programming relaxation problem using Primal Simplex
 
-Coin0506I Presolve 63 (-339) rows, 20 (-400) columns and 144 (-1180) elements
-Clp1000I sum of infeasibilities 5.39592e-10 - average 8.56496e-12, 3 fixed columns
-Coin0506I Presolve 45 (-18) rows, 17 (-3) columns and 105 (-39) elements
-Clp0029I End of values pass after 17 iterations
+Coin0506I Presolve 871 (-331) rows, 296 (-124) columns and 2016 (-908) elements
+Clp1000I sum of infeasibilities 5.74438e-08 - average 6.59516e-11, 0 fixed columns
+Coin0506I Presolve 871 (0) rows, 296 (0) columns and 2016 (0) elements
+Clp0029I End of values pass after 296 iterations
+Clp0014I Perturbing problem by 0.001% of 1.0000002 - largest nonzero change 2.9822462e-05 ( 0.0014911231%) - largest zero change 2.963241e-05
 Clp0000I Optimal - objective value 94.85
 Clp0000I Optimal - objective value 94.85
 Coin0511I After Postsolve, objective 94.85, infeasibilities - dual 0 (0), primal 0 (0)
@@ -15,411 +16,467 @@ Clp0000I Optimal - objective value 94.85
 Clp0000I Optimal - objective value 94.85
 Clp0000I Optimal - objective value 94.85
 Coin0511I After Postsolve, objective 94.85, infeasibilities - dual 0 (0), primal 0 (0)
-Clp0032I Optimal objective 94.85 - 0 iterations time 0.012, Presolve 0.00, Idiot 0.01
+Clp0032I Optimal objective 94.85 - 0 iterations time 0.082, Presolve 0.00, Idiot 0.08
 
 Starting MIP optimization
-Loading data files...
+Cgl0002I 124 variables fixed
+Cgl0003I 69 fixed, 0 tightened bounds, 606 strengthened rows, 228 substitutions
+Cgl0003I 11 fixed, 0 tightened bounds, 425 strengthened rows, 16 substitutions
+Cgl0003I 0 fixed, 0 tightened bounds, 267 strengthened rows, 16 substitutions
+Cgl0003I 0 fixed, 0 tightened bounds, 281 strengthened rows, 0 substitutions
+Cgl0003I 0 fixed, 0 tightened bounds, 197 strengthened rows, 0 substitutions
+Cgl0003I 0 fixed, 0 tightened bounds, 149 strengthened rows, 0 substitutions
+Cgl0003I 0 fixed, 0 tightened bounds, 79 strengthened rows, 0 substitutions
+Cgl0003I 0 fixed, 0 tightened bounds, 52 strengthened rows, 0 substitutions
+Cgl0003I 0 fixed, 0 tightened bounds, 32 strengthened rows, 0 substitutions
+Cgl0003I 0 fixed, 0 tightened bounds, 19 strengthened rows, 0 substitutions
+Cgl0003I 0 fixed, 0 tightened bounds, 9 strengthened rows, 0 substitutions
+Cgl0004I processed model has 222 rows, 108 columns (108 integer (108 of which binary)) and 1586 elements
+Coin3009W Conflict graph built in 0.000 seconds, density: 4.570%
+Cgl0015I Clique Strengthening extended 1 cliques, 1 were dominated
+Cbc0038I Initial state - 11 integers unsatisfied sum - 5.5
+Cbc0038I Pass   1: suminf.    5.00000 (10) obj. -46.3 iterations 30
+Cbc0038I Pass   2: suminf.    5.00000 (10) obj. -46.3 iterations 12
+Cbc0038I Pass   3: suminf.    6.50000 (13) obj. -58.8 iterations 29
+Cbc0038I Pass   4: suminf.    8.73333 (33) obj. -53.6667 iterations 68
+Cbc0038I Pass   5: suminf.    4.57143 (16) obj. -50.2857 iterations 48
+Cbc0038I Pass   6: suminf.    5.00000 (10) obj. -40.7 iterations 27
+Cbc0038I Pass   7: suminf.    5.00000 (10) obj. -57.3 iterations 19
+Cbc0038I Pass   8: suminf.    5.00000 (10) obj. -46.3 iterations 17
+Cbc0038I Pass   9: suminf.    5.00000 (10) obj. -46.3 iterations 11
+Cbc0038I Pass  10: suminf.    6.75000 (20) obj. -43.525 iterations 42
+Cbc0038I Pass  11: suminf.    6.66667 (20) obj. -41.7 iterations 59
+Cbc0038I Pass  12: suminf.    6.81818 (25) obj. -45.7045 iterations 52
+Cbc0038I Pass  13: suminf.    4.50000 (17) obj. -43.425 iterations 39
+Cbc0038I Pass  14: suminf.    5.00000 (10) obj. -43.8 iterations 28
+Cbc0038I Pass  15: suminf.    6.00000 (12) obj. -55.65 iterations 39
+Cbc0038I Pass  16: suminf.    6.33333 (20) obj. -59.225 iterations 62
+Cbc0038I Pass  17: suminf.    6.87500 (22) obj. -51.45 iterations 52
+Cbc0038I Pass  18: suminf.    4.54545 (16) obj. -47.9455 iterations 43
+Cbc0038I Pass  19: suminf.    5.00000 (10) obj. -51.3 iterations 26
+Cbc0038I Pass  20: suminf.    5.00000 (10) obj. -46.3 iterations 18
+Cbc0038I Pass  21: suminf.    5.00000 (10) obj. -46.3 iterations 10
+Cbc0038I Pass  22: suminf.    6.64286 (26) obj. -46.1357 iterations 37
+Cbc0038I Pass  23: suminf.    8.00000 (28) obj. -42.91 iterations 61
+Cbc0038I Pass  24: suminf.    9.00000 (25) obj. -42.525 iterations 61
+Cbc0038I Pass  25: suminf.    7.80000 (33) obj. -45.29 iterations 92
+Cbc0038I Pass  26: suminf.    4.61538 (25) obj. -40.1231 iterations 44
+Cbc0038I Pass  27: suminf.    4.44444 (28) obj. -39.3333 iterations 6
+Cbc0038I Pass  28: suminf.    5.16667 (13) obj. -56.9167 iterations 77
+Cbc0038I Pass  29: suminf.    5.00000 (10) obj. -46.3 iterations 27
+Cbc0038I Pass  30: suminf.    5.00000 (10) obj. -46.3 iterations 6
+Cbc0038I No solution found this major pass
+Cbc0038I Before mini branch and bound, 31 integers at bound fixed and 0 continuous
+Cbc0038I Full problem 222 rows 108 columns, reduced to 216 rows 77 columns - too large
+Cbc0038I Mini branch and bound did not improve solution (0.26 seconds)
+Cbc0038I Full problem 223 rows 108 columns, reduced to 221 rows 108 columns - too large
+Cbc0038I After 0.28 seconds - Feasibility pump exiting - took 0.10 seconds
+Cbc0012I Integer solution of -63.6 found by DiveCoefficient after 24 iterations and 0 nodes (0.29 seconds)
+Cbc0031I 3 added rows had average density of 5.3333333
+Cbc0013I At root node, 3 cuts changed objective from -66.7 to -63.6 in 2 passes
+Cbc0014I Cut generator 0 (Probing) - 0 row cuts average 0.0 elements, 0 column cuts (0 active)  in 0.002 seconds - new frequency is -100
+Cbc0014I Cut generator 1Loading data files...
 Building matrix...
-0 0 1.0
+0 0 0.0
 0 1 0.0
 0 2 0.0
-0 3 1.0
-0 4 1.0
+0 3 0.0
+0 4 0.0
 0 5 0.0
-0 6 1.0
+0 6 0.0
 0 7 0.0
-0 8 1.0
+0 8 0.0
 0 9 0.0
-0 10 1.0
-0 11 1.0
+0 10 0.0
+0 11 0.0
 0 12 0.0
-0 13 1.0
+0 13 0.0
 0 14 0.0
 0 15 0.0
-0 16 1.0
-0 17 1.0
+0 16 0.0
+0 17 0.0
 0 18 0.0
-0 19 1.0
+0 19 0.0
 1 0 0.0
-1 1 1.0
+1 1 0.0
 1 2 0.0
-1 3 1.0
-1 4 1.0
+1 3 0.0
+1 4 0.0
 1 5 0.0
-1 6 1.0
+1 6 0.0
 1 7 0.0
-1 8 1.0
-1 9 1.0
-1 10 1.0
-1 11 1.0
-1 12 1.0
-1 13 1.0
+1 8 0.0
+1 9 0.0
+1 10 0.0
+1 11 0.0
+1 12 0.0
+1 13 0.0
 1 14 0.0
-1 15 1.0
-1 16 1.0
-1 17 1.0
-1 18 1.0
-1 19 1.0
+1 15 0.0
+1 16 0.0
+1 17 0.0
+1 18 0.0
+1 19 0.0
 2 0 0.0
 2 1 0.0
 2 2 1.0
-2 3 1.0
+2 3 0.0
 2 4 1.0
 2 5 1.0
-2 6 1.0
+2 6 0.0
 2 7 0.0
-2 8 1.0
+2 8 0.0
 2 9 0.0
 2 10 1.0
-2 11 1.0
+2 11 0.0
 2 12 0.0
-2 13 1.0
-2 14 1.0
+2 13 0.0
+2 14 0.0
 2 15 1.0
-2 16 1.0
-2 17 1.0
+2 16 0.0
+2 17 0.0
 2 18 0.0
-2 19 1.0
-3 0 1.0
-3 1 1.0
-3 2 1.0
-3 3 1.0
+2 19 0.0
+3 0 0.0
+3 1 0.0
+3 2 0.0
+3 3 0.0
 3 4 0.0
-3 5 1.0
+3 5 0.0
 3 6 0.0
-3 7 1.0
+3 7 0.0
 3 8 0.0
-3 9 1.0
+3 9 0.0
 3 10 0.0
 3 11 0.0
-3 12 1.0
+3 12 0.0
 3 13 0.0
-3 14 1.0
-3 15 1.0
+3 14 0.0
+3 15 0.0
 3 16 0.0
 3 17 0.0
-3 18 1.0
+3 18 0.0
 3 19 0.0
-4 0 1.0
-4 1 1.0
+4 0 0.0
+4 1 0.0
 4 2 1.0
 4 3 0.0
 4 4 1.0
 4 5 1.0
 4 6 0.0
-4 7 1.0
-4 8 1.0
-4 9 1.0
+4 7 0.0
+4 8 0.0
+4 9 0.0
 4 10 1.0
 4 11 0.0
-4 12 1.0
+4 12 0.0
 4 13 0.0
-4 14 1.0
+4 14 0.0
 4 15 1.0
 4 16 0.0
-4 17 1.0
-4 18 1.0
-4 19 1.0
+4 17 0.0
+4 18 0.0
+4 19 0.0
 5 0 0.0
 5 1 0.0
 5 2 1.0
-5 3 1.0
+5 3 0.0
 5 4 1.0
 5 5 1.0
-5 6 1.0
-5 7 1.0
+5 6 0.0
+5 7 0.0
 5 8 0.0
-5 9 1.0
+5 9 0.0
 5 10 1.0
 5 11 0.0
-5 12 1.0
-5 13 1.0
+5 12 0.0
+5 13 0.0
 5 14 0.0
 5 15 1.0
-5 16 1.0
-5 17 1.0
-5 18 1.0
+5 16 0.0
+5 17 0.0
+5 18 0.0
 5 19 0.0
-6 0 1.0
-6 1 1.0
-6 2 1.0
+6 0 0.0
+6 1 0.0
+6 2 0.0
 6 3 0.0
 6 4 0.0
-6 5 1.0
-6 6 1.0
-6 7 1.0
-6 8 1.0
-6 9 1.0
-6 10 1.0
+6 5 0.0
+6 6 0.0
+6 7 0.0
+6 8 0.0
+6 9 0.0
+6 10 0.0
 6 11 0.0
-6 12 1.0
+6 12 0.0
 6 13 0.0
-6 14 1.0
-6 15 1.0
+6 14 0.0
+6 15 0.0
 6 16 0.0
-6 17 1.0
-6 18 1.0
-6 19 1.0
+6 17 0.0
+6 18 0.0
+6 19 0.0
 7 0 0.0
 7 1 0.0
 7 2 0.0
-7 3 1.0
-7 4 1.0
-7 5 1.0
-7 6 1.0
-7 7 1.0
-7 8 1.0
-7 9 1.0
-7 10 1.0
-7 11 1.0
+7 3 0.0
+7 4 0.0
+7 5 0.0
+7 6 0.0
+7 7 0.0
+7 8 0.0
+7 9 0.0
+7 10 0.0
+7 11 0.0
 7 12 0.0
-7 13 1.0
-7 14 1.0
-7 15 1.0
-7 16 1.0
-7 17 1.0
+7 13 0.0
+7 14 0.0
+7 15 0.0
+7 16 0.0
+7 17 0.0
 7 18 0.0
-7 19 1.0
-8 0 1.0
-8 1 1.0
-8 2 1.0
+7 19 0.0
+8 0 0.0
+8 1 0.0
+8 2 0.0
 8 3 0.0
-8 4 1.0
+8 4 0.0
 8 5 0.0
-8 6 1.0
-8 7 1.0
-8 8 1.0
-8 9 1.0
+8 6 0.0
+8 7 0.0
+8 8 0.0
+8 9 0.0
 8 10 0.0
 8 11 0.0
-8 12 1.0
-8 13 1.0
-8 14 1.0
-8 15 1.0
+8 12 0.0
+8 13 0.0
+8 14 0.0
+8 15 0.0
 8 16 0.0
 8 17 0.0
-8 18 1.0
+8 18 0.0
 8 19 0.0
 9 0 0.0
-9 1 1.0
+9 1 0.0
 9 2 0.0
-9 3 1.0
-9 4 1.0
-9 5 1.0
-9 6 1.0
-9 7 1.0
-9 8 1.0
-9 9 1.0
-9 10 1.0
-9 11 1.0
+9 3 0.0
+9 4 0.0
+9 5 0.0
+9 6 0.0
+9 7 0.0
+9 8 0.0
+9 9 0.0
+9 10 0.0
+9 11 0.0
 9 12 0.0
-9 13 1.0
-9 14 1.0
+9 13 0.0
+9 14 0.0
 9 15 0.0
-9 16 1.0
-9 17 1.0
+9 16 0.0
+9 17 0.0
 9 18 0.0
-9 19 1.0
-10 0 1.0
-10 1 1.0
+9 19 0.0
+10 0 0.0
+10 1 0.0
 10 2 1.0
 10 3 0.0
 10 4 1.0
 10 5 1.0
-10 6 1.0
-10 7 1.0
+10 6 0.0
+10 7 0.0
 10 8 0.0
-10 9 1.0
+10 9 0.0
 10 10 1.0
 10 11 0.0
-10 12 1.0
-10 13 1.0
-10 14 1.0
+10 12 0.0
+10 13 0.0
+10 14 0.0
 10 15 1.0
 10 16 0.0
 10 17 0.0
-10 18 1.0
+10 18 0.0
 10 19 0.0
-11 0 1.0
-11 1 1.0
-11 2 1.0
+11 0 0.0
+11 1 0.0
+11 2 0.0
 11 3 0.0
 11 4 0.0
 11 5 0.0
 11 6 0.0
-11 7 1.0
+11 7 0.0
 11 8 0.0
-11 9 1.0
+11 9 0.0
 11 10 0.0
-11 11 1.0
-11 12 1.0
+11 11 0.0
+11 12 0.0
 11 13 0.0
-11 14 1.0
-11 15 1.0
+11 14 0.0
+11 15 0.0
 11 16 0.0
 11 17 0.0
-11 18 1.0
+11 18 0.0
 11 19 0.0
 12 0 0.0
-12 1 1.0
+12 1 0.0
 12 2 0.0
-12 3 1.0
-12 4 1.0
-12 5 1.0
-12 6 1.0
+12 3 0.0
+12 4 0.0
+12 5 0.0
+12 6 0.0
 12 7 0.0
-12 8 1.0
+12 8 0.0
 12 9 0.0
-12 10 1.0
-12 11 1.0
-12 12 1.0
-12 13 1.0
-12 14 1.0
+12 10 0.0
+12 11 0.0
+12 12 0.0
+12 13 0.0
+12 14 0.0
 12 15 0.0
-12 16 1.0
-12 17 1.0
+12 16 0.0
+12 17 0.0
 12 18 0.0
-12 19 1.0
-13 0 1.0
-13 1 1.0
-13 2 1.0
+12 19 0.0
+13 0 0.0
+13 1 0.0
+13 2 0.0
 13 3 0.0
 13 4 0.0
-13 5 1.0
+13 5 0.0
 13 6 0.0
-13 7 1.0
-13 8 1.0
-13 9 1.0
-13 10 1.0
+13 7 0.0
+13 8 0.0
+13 9 0.0
+13 10 0.0
 13 11 0.0
-13 12 1.0
-13 13 1.0
-13 14 1.0
-13 15 1.0
+13 12 0.0
+13 13 0.0
+13 14 0.0
+13 15 0.0
 13 16 0.0
-13 17 1.0
-13 18 1.0
-13 19 1.0
+13 17 0.0
+13 18 0.0
+13 19 0.0
 14 0 0.0
 14 1 0.0
-14 2 1.0
-14 3 1.0
-14 4 1.0
+14 2 0.0
+14 3 0.0
+14 4 0.0
 14 5 0.0
-14 6 1.0
-14 7 1.0
-14 8 1.0
-14 9 1.0
-14 10 1.0
-14 11 1.0
-14 12 1.0
-14 13 1.0
-14 14 1.0
-14 15 1.0
-14 16 1.0
-14 17 1.0
-14 18 1.0
-14 19 1.0
+14 6 0.0
+14 7 0.0
+14 8 0.0
+14 9 0.0
+14 10 0.0
+14 11 0.0
+14 12 0.0
+14 13 0.0
+14 14 0.0
+14 15 0.0
+14 16 0.0
+14 17 0.0
+14 18 0.0
+14 19 0.0
 15 0 0.0
-15 1 1.0
+15 1 0.0
 15 2 1.0
-15 3 1.0
+15 3 0.0
 15 4 1.0
 15 5 1.0
-15 6 1.0
-15 7 1.0
-15 8 1.0
+15 6 0.0
+15 7 0.0
+15 8 0.0
 15 9 0.0
 15 10 1.0
-15 11 1.0
+15 11 0.0
 15 12 0.0
-15 13 1.0
-15 14 1.0
+15 13 0.0
+15 14 0.0
 15 15 1.0
-15 16 1.0
-15 17 1.0
+15 16 0.0
+15 17 0.0
 15 18 0.0
-15 19 1.0
-16 0 1.0
-16 1 1.0
-16 2 1.0
+15 19 0.0
+16 0 0.0
+16 1 0.0
+16 2 0.0
 16 3 0.0
 16 4 0.0
-16 5 1.0
+16 5 0.0
 16 6 0.0
-16 7 1.0
+16 7 0.0
 16 8 0.0
-16 9 1.0
+16 9 0.0
 16 10 0.0
 16 11 0.0
-16 12 1.0
+16 12 0.0
 16 13 0.0
-16 14 1.0
-16 15 1.0
-16 16 1.0
+16 14 0.0
+16 15 0.0
+16 16 0.0
 16 17 0.0
-16 18 1.0
+16 18 0.0
 16 19 0.0
-17 0 1.0
-17 1 1.0
-17 2 1.0
+17 0 0.0
+17 1 0.0
+17 2 0.0
 17 3 0.0
-17 4 1.0
-17 5 1.0
-17 6 1.0
-17 7 1.0
+17 4 0.0
+17 5 0.0
+17 6 0.0
+17 7 0.0
 17 8 0.0
-17 9 1.0
+17 9 0.0
 17 10 0.0
 17 11 0.0
-17 12 1.0
-17 13 1.0
-17 14 1.0
-17 15 1.0
+17 12 0.0
+17 13 0.0
+17 14 0.0
+17 15 0.0
 17 16 0.0
-17 17 1.0
-17 18 1.0
+17 17 0.0
+17 18 0.0
 17 19 0.0
 18 0 0.0
-18 1 1.0
+18 1 0.0
 18 2 0.0
-18 3 1.0
-18 4 1.0
-18 5 1.0
-18 6 1.0
+18 3 0.0
+18 4 0.0
+18 5 0.0
+18 6 0.0
 18 7 0.0
-18 8 1.0
+18 8 0.0
 18 9 0.0
-18 10 1.0
-18 11 1.0
+18 10 0.0
+18 11 0.0
 18 12 0.0
-18 13 1.0
-18 14 1.0
+18 13 0.0
+18 14 0.0
 18 15 0.0
-18 16 1.0
-18 17 1.0
-18 18 1.0
-18 19 1.0
-19 0 1.0
-19 1 1.0
-19 2 1.0
+18 16 0.0
+18 17 0.0
+18 18 0.0
+18 19 0.0
+19 0 0.0
+19 1 0.0
+19 2 0.0
 19 3 0.0
-19 4 1.0
+19 4 0.0
 19 5 0.0
-19 6 1.0
-19 7 1.0
+19 6 0.0
+19 7 0.0
 19 8 0.0
-19 9 1.0
+19 9 0.0
 19 10 0.0
 19 11 0.0
-19 12 1.0
-19 13 1.0
-19 14 1.0
-19 15 1.0
+19 12 0.0
+19 13 0.0
+19 14 0.0
+19 15 0.0
 19 16 0.0
 19 17 0.0
-19 18 1.0
-19 19 1.0
+19 18 0.0
+19 19 0.0
 
 0 0.0
 1 0.0
@@ -441,26 +498,14 @@ Building matrix...
 17 0.0
 18 0.0
 19 0.0
-Cgl0002I 124 variables fixed
-Cgl0003I 0 fixed, 0 tightened bounds, 46 strengthened rows, 0 substitutions
-Cgl0003I 0 fixed, 0 tightened bounds, 45 strengthened rows, 0 substitutions
-Cgl0003I 0 fixed, 0 tightened bounds, 38 strengthened rows, 0 substitutions
-Cgl0003I 0 fixed, 0 tightened bounds, 25 strengthened rows, 0 substitutions
-Cgl0003I 0 fixed, 0 tightened bounds, 15 strengthened rows, 0 substitutions
-Cgl0003I 0 fixed, 0 tightened bounds, 10 strengthened rows, 0 substitutions
-Cgl0003I 0 fixed, 0 tightened bounds, 5 strengthened rows, 0 substitutions
-Cgl0003I 0 fixed, 0 tightened bounds, 2 strengthened rows, 0 substitutions
-Cgl0003I 0 fixed, 0 tightened bounds, 2 strengthened rows, 0 substitutions
-Cgl0004I processed model has 14 rows, 17 columns (17 integer (17 of which binary)) and 81 elements
-Coin3009W Conflict graph built in 0.000 seconds, density: 10.756%
-Cgl0015I Clique Strengthening extended 1 cliques, 5 were dominated
-Cbc0038I Initial state - 0 integers unsatisfied sum - 0
-Cbc0038I Solution found of -63.6
-Cbc0038I Before mini branch and bound, 17 integers at bound fixed and 0 continuous
-Cbc0038I Mini branch and bound did not improve solution (0.05 seconds)
-Cbc0038I After 0.05 seconds - Feasibility pump exiting with objective of -63.6 - took 0.00 seconds
-Cbc0012I Integer solution of -63.6 found by feasibility pump after 0 iterations and 0 nodes (0.05 seconds)
-Cbc0001I Search completed - best objective -63.59999999999999, took 0 iterations and 0 nodes (0.05 seconds)
+ (Gomory) - 1 row cuts average 8.0 elements, 0 column cuts (0 active)  in 0.000 seconds - new frequency is 1
+Cbc0014I Cut generator 2 (Knapsack) - 0 row cuts average 0.0 elements, 0 column cuts (0 active)  in 0.001 seconds - new frequency is -100
+Cbc0014I Cut generator 3 (Clique) - 3 row cuts average 5.3 elements, 0 column cuts (0 active)  in 0.000 seconds - new frequency is 1
+Cbc0014I Cut generator 4 (OddWheel) - 0 row cuts average 0.0 elements, 0 column cuts (0 active)  in 0.000 seconds - new frequency is -100
+Cbc0014I Cut generator 5 (MixedIntegerRounding2) - 0 row cuts average 0.0 elements, 0 column cuts (0 active)  in 0.000 seconds - new frequency is -100
+Cbc0014I Cut generator 6 (FlowCover) - 0 row cuts average 0.0 elements, 0 column cuts (0 active)  in 0.000 seconds - new frequency is -100
+Cbc0014I Cut generator 7 (TwoMirCuts) - 1 row cuts average 8.0 elements, 0 column cuts (0 active)  in 0.000 seconds - new frequency is 1
+Cbc0001I Search completed - best objective -63.59999999999999, took 24 iterations and 0 nodes (0.29 seconds)
 Cbc0035I Maximum depth 0, 0 variables fixed on reduced cost
-Total time (CPU seconds):       0.03   (Wallclock seconds):       0.06
+Total time (CPU seconds):       0.29   (Wallclock seconds):       0.30
 

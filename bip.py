@@ -33,18 +33,25 @@ def make_bip(players, idx_to_id_dict, teammate_matrix):
     for i in range(N):
         for j in range(N):
             m += y[i][j] >= x[i] + x[j] - 1
-            #m += y[i][j] <= x[i]
-            #m += y[i][j] <= x[j]
+            m += y[i][j] <= x[i]
+            m += y[i][j] <= x[j]
 
     # Solve
     m.optimize()
 
     # Parse solution
-    for i in range(N):
-        if np.isclose(x[i].x, 1):
-            print(i, idx_to_id_dict[i], x[i].x, players["WAR"][i])
+    #for i in range(N):
+    #    if np.isclose(x[i].x, 1):
+    #        print(i, idx_to_id_dict[i], x[i].x, players["WAR"][i])
 
-    print(f"\nObjective function: {m.objective_value}")
+    for i in range(N):
+        for j in range(N):
+            print(i, j, y[i][j].x)
+    print()
+    for i in range(N):
+        print(i, x[i].x)
+
+    #print(f"\nObjective function: {m.objective_value}")
 
 
 def load_players(team):
