@@ -91,6 +91,9 @@ def get_players(player_loc=None, **kwargs):
 def main():
     players = get_players(player_loc="./data/players.csv")
     for i, pid in enumerate(players["playerid"], start=1):
+        if os.path.exists(f"./data/player/{pid}.csv"):
+            print(f"{i}/{len(players)} Skipping {pid}")
+            continue
         print(f"{i}/{len(players)} Scraping {pid}")
         scrape_player(pid, save=True)
         time.sleep(3)
