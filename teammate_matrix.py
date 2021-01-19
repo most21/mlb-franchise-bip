@@ -5,7 +5,7 @@ import pickle
 
 from tqdm import tqdm
 
-def build_teammate_matrix(players, franchise_id, save=True):
+def build_teammate_matrix(players, franchise_id, save=True, verbose=True):
     """
     Construct adjacency matrix for teammates. Stored as dictionary for efficiency.
     If A_ij = 1, player i and player j were teammates at one point. Else 0. We only store the entries with value 1.
@@ -20,20 +20,26 @@ def build_teammate_matrix(players, franchise_id, save=True):
     # Numpy 2d-array and dictionary mapping a player's index to his Fangraphs ID
     """
     # Load player list
-    #players = pd.read_csv("./data/players.csv")
     N = players.shape[0]
-    #player_id_dict = {i: str(players["playerid"][i]) for i in range(N)}
+
+    # Set verbosity
+    if verbose:
+        range_obj = tqdm(range(N))
+    else:
+        range_obj = range(N)
 
     # Read all player data files into memory
-    print("Loading data files...")
+    if verbose:
+        print("Loading data files...")
     data = {} # keys are player ids, values are dataframes
     for pid in players["playerid"]:
         data[str(pid)] = pd.read_csv("./data/player/" + str(pid) + ".csv")
 
     # Create teammate matrix
-    print("Building matrix...")
+    if verbose:
+        print("Building matrix...")
     matrix = {} #np.zeros((N, N))
-    for i in tqdm(range(N)):
+    for i in range_obj:
         # Get data for player i. We access it here for efficiency, since it can be reused
         pid1 = str(players["playerid"][i])
         df1 = data[pid1]
@@ -57,7 +63,8 @@ def build_teammate_matrix(players, franchise_id, save=True):
 
     # Pickle the teammate "matrix" and id dict so we don't have to recompute it every time
     if save:
-        print("Saving teammate matrix to file.")
+        if verbose:
+            print("Saving teammate matrix to file.")
         with open("teammate_matrix.b", "wb") as f:
             #pickle.dump((matrix, player_id_dict), f)
             pickle.dump(matrix, f)

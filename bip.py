@@ -38,12 +38,28 @@ FRANCHISE_ID = {
     "Yankees": 9,
 }
 
-def make_bip(players, idx_to_id_dict, teammate_matrix):
+def compute_rotation(players, idx_to_id_dict, teammate_matrix, verbose=True):
+    """
+    Formulate and solve a binary integer program for the problem of finding the top 5 pitchers
+        in franchise history by fWAR who were never teammates for that franchise.
+
+    Args:
+        players: DataFrame containing the players (Fangraphs IDs, WAR values) for a single franchise
+        idx_to_id_dict: dictionary mapping the index of each player in the players DataFrame to his Fangraphs ID
+        teammate_matrix: sparse dictionary representing teammate relationships. Keys are a pair (tuple) of players, value is 1 if they played together.
+            Non-teammates (i.e. value of 0) are not represented for memory efficiency
+        verbose: boolean value indicating whether to display progress output of the optimization solver
+
+    Returns:
+        solution: a list containing the result. Each element is a tuple (Fangraphs ID, fWAR)
+        oofv: the Optimal Objective Function Value, which is the total WAR for that rotation
+    """
     N = players.shape[0]
 
     # Create model
     m = mip.Model(sense=mip.MAXIMIZE, solver_name=mip.CBC)
-    # m.verbose = 0
+    if not verbose: # suppress optimization progress output
+        m.verbose = 0
 
     # Create variables
     x = [m.add_var(var_type=mip.BINARY, name='var({})'.format(i)) for i in range(N)]
@@ -55,14 +71,10 @@ def make_bip(players, idx_to_id_dict, teammate_matrix):
     # Create first constraint: exactly 5 pitchers must be chosen
     m += mip.xsum(x[i] for i in range(N)) == 5
 
-    # Create second set of constraints: no teammates allowed
-    #for i in range(N):
-        #m += mip.xsum(mip.xsum(teammate_matrix.get((idx_to_id_dict[i], idx_to_id_dict[j]), 0) * x[j] * x[i] for j in range(N)) for i in range(N)) == 0
-        # * x[i] for i in range(N)) == 0
-        #m += mip.xsum(teammate_matrix.get((idx_to_id_dict[i], idx_to_id_dict[j]), 0) * x[j] for j in range(N)) == 0
+    # Create second constraint: no teammates allowed
     m += mip.xsum(mip.xsum(teammate_matrix.get((idx_to_id_dict[i], idx_to_id_dict[j]), 0) * y[i][j] for j in range(N)) for i in range(N)) == 0
 
-    # Constrain y variables to be product of x_i, x_j
+    # Constrain y variables to be product of x_i, x_j. This is a tricky way to linearize the quadratic second constraint
     for i in range(N):
         for j in range(N):
             m += y[i][j] >= x[i] + x[j] - 1
@@ -73,18 +85,13 @@ def make_bip(players, idx_to_id_dict, teammate_matrix):
     m.optimize()
 
     # Parse solution
+    solution = []
+    oofv = m.objective_value
     for i in range(N):
        if np.isclose(x[i].x, 1):
-           print(i, idx_to_id_dict[i], x[i].x, players["WAR"][i])
+           solution.append((idx_to_id_dict[i], players["WAR"][i]))
 
-    # for i in range(N):
-    #     for j in range(N):
-    #         print(i, j, y[i][j].x)
-    # print()
-    # for i in range(N):
-    #     print(i, x[i].x)
-
-    print(f"\nObjective function: {m.objective_value}")
+    return solution, oofv
 
 
 def load_players(team):
@@ -116,7 +123,7 @@ def main():
     # quit()
 
     # Create and solve optimization problem
-    make_bip(players, idx_to_id_dict, teammate_matrix)
+    solution, oofv = compute_rotation(players, idx_to_id_dict, teammate_matrix)
 
 
 
