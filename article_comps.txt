@@ -1,1 +1,114 @@
 Angels
+[COMPLETE] Perfect player selection match: Angels
+[COMPLETE] WAR totals match
+
+Astros
+[WARNING] Found predicted players that were not in the reference solution: 1163
+[WARNING] Found players in the reference solution that were not predicted: 430
+[WARNING] WAR totals do not match. Predicted 146.8, expected 148.2
+
+Athletics
+[COMPLETE] Perfect player selection match: Athletics
+[WARNING] WAR totals do not match. Predicted 199.3, expected 199.29999999999998
+
+Blue_Jays
+[WARNING] Found predicted players that were not in the reference solution: 1009211, 1002255, 1001911
+[WARNING] Found players in the reference solution that were not predicted: 4138, 1012532, 1190
+[WARNING] WAR totals do not match. Predicted 100.0, expected 112.70000000000002
+
+Braves
+[COMPLETE] Perfect player selection match: Braves
+[COMPLETE] WAR totals match
+
+Brewers
+[COMPLETE] Perfect player selection match: Brewers
+[COMPLETE] WAR totals match
+
+Cardinals
+[COMPLETE] Perfect player selection match: Cardinals
+[COMPLETE] WAR totals match
+
+Cubs
+[COMPLETE] Perfect player selection match: Cubs
+[WARNING] WAR totals do not match. Predicted 211.9, expected 211.89999999999998
+
+Diamondbacks
+[COMPLETE] Perfect player selection match: Diamondbacks
+[COMPLETE] WAR totals match
+
+Dodgers
+[COMPLETE] Perfect player selection match: Dodgers
+[COMPLETE] WAR totals match
+
+Giants
+[COMPLETE] Perfect player selection match: Giants
+[COMPLETE] WAR totals match
+
+Indians
+[COMPLETE] Perfect player selection match: Indians
+[COMPLETE] WAR totals match
+
+Mariners
+[WARNING] Found predicted players that were not in the reference solution: 1010024, 1009122
+[WARNING] Found players in the reference solution that were not predicted: 1000516, 1007323
+[WARNING] WAR totals do not match. Predicted 145.7, expected 148.79999999999998
+
+Marlins
+[WARNING] Found predicted players that were not in the reference solution: 642, 1012114
+[WARNING] Found players in the reference solution that were not predicted: 1001535, 517
+[WARNING] WAR totals do not match. Predicted 62.1, expected 64.7
+
+Mets
+[COMPLETE] Perfect player selection match: Mets
+[COMPLETE] WAR totals match
+
+Nationals
+[COMPLETE] Perfect player selection match: Nationals
+[WARNING] WAR totals do not match. Predicted 155.1, expected 155.10000000000002
+
+Orioles
+[COMPLETE] Perfect player selection match: Orioles
+[COMPLETE] WAR totals match
+
+Padres
+[WARNING] Found predicted players that were not in the reference solution: 1144, 642
+[WARNING] Found players in the reference solution that were not predicted: 1006222, 637
+[WARNING] WAR totals do not match. Predicted 93.6, expected 95.30000000000001
+
+Phillies
+[COMPLETE] Perfect player selection match: Phillies
+[COMPLETE] WAR totals match
+
+Pirates
+[WARNING] Found predicted players that were not in the reference solution: 1009204, 1002602, 1010287
+[WARNING] Found players in the reference solution that were not predicted: 1000041, 1012822, 1011768
+[WARNING] WAR totals do not match. Predicted 191.2, expected 183.10000000000002
+
+Rangers
+[COMPLETE] Perfect player selection match: Rangers
+[WARNING] WAR totals do not match. Predicted 88.1, expected 88.10000000000001
+
+Rays
+[WARNING] Found predicted players that were not in the reference solution: 4676, 4897, 6345
+[WARNING] Found players in the reference solution that were not predicted: 898, 7059, 13543
+[WARNING] WAR totals do not match. Predicted 50.7, expected 46.4
+
+Red_Sox
+[COMPLETE] Perfect player selection match: Red_Sox
+[COMPLETE] WAR totals match
+
+Reds
+[WARNING] Found predicted players that were not in the reference solution: 1008039
+[WARNING] Found players in the reference solution that were not predicted: 1009665
+[WARNING] WAR totals do not match. Predicted 187.5, expected 185.00000000000003
+
+Rockies
+[COMPLETE] Perfect player selection match: Rockies
+[COMPLETE] WAR totals match
+
+Royals
+[WARNING] Found predicted players that were not in the reference solution: 1089
+[WARNING] Found players in the reference solution that were not predicted: 1943
+[WARNING] WAR totals do not match. Predicted 113.6, expected 127.39999999999999
+
+Tigers
