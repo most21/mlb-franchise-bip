@@ -33,7 +33,19 @@ def build_teammate_matrix(players, franchise_id, save=True, verbose=True):
         print("Loading data files...")
     data = {} # keys are player ids, values are dataframes
     for pid in players["playerid"]:
-        data[str(pid)] = pd.read_csv("./data/player/" + str(pid) + ".csv")
+        # Load data from file
+        player_data = pd.read_csv("./data/player/" + str(pid) + ".csv")
+        player_data["aseason"] = player_data["aseason"].astype("str")
+
+        # Identify midseason trades and make season unique (e.g. 2002a, 2002b)
+        season_counts = player_data["aseason"].value_counts()
+        trade_seasons = season_counts[season_counts > 1]
+        for year in trade_seasons.index:
+            new_season_values = [str(year) + chr(i + ord("a")) for i in range(trade_seasons[year])]
+            player_data.loc[player_data["aseason"] == year, "aseason"] = new_season_values
+
+        # Save player data in dictionary
+        data[str(pid)] = player_data
 
     # Create teammate matrix
     if verbose:
@@ -103,6 +115,6 @@ def get_teammate_matrix(matrix_loc=None, **kwargs):
         return build_teammate_matrix(**kwargs)
 
 if __name__ == "__main__":
-    #matrix = build_teammate_matrix(save=True)
-    #print(matrix)
+    players = pd.read_csv("./data/franchise/Marlins.csv")
+    matrix = build_teammate_matrix(players, 20, save=False, verbose=False)
     pass
