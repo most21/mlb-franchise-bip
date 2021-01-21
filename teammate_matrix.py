@@ -39,9 +39,9 @@ def build_teammate_matrix(players, franchise_id, save=True, verbose=True):
 
         # Identify midseason trades and make season unique (e.g. 2002a, 2002b)
         season_counts = player_data["aseason"].value_counts()
-        trade_seasons = season_counts[season_counts > 1]
-        for year in trade_seasons.index:
-            new_season_values = [str(year) + chr(i + ord("a")) for i in range(trade_seasons[year])]
+        #trade_seasons = season_counts[season_counts > 1]
+        for year in season_counts.index:
+            new_season_values = [str(year) + chr(i + ord("a")) for i in range(season_counts[year])]
             player_data.loc[player_data["aseason"] == year, "aseason"] = new_season_values
 
         # Save player data in dictionary
