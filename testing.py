@@ -30,8 +30,8 @@ def validate_oofv(pred_oofv, reference):
         string containing the result of the validation
     """
     ref_oofv = sum(r["war"] for r in reference)
-    if pred_oofv != ref_oofv:
-        return f"[WARNING] WAR totals do not match. Predicted {pred_oofv}, expected {ref_oofv}"
+    if round(pred_oofv, 1) != ref_oofv:
+        return "[WARNING] WAR totals do not match. Predicted {}, expected {}".format(round(pred_oofv, 1), ref_oofv)
     return "[COMPLETE] WAR totals match"
 
 def validate_player_selection(prediction, reference, teammate_matrix):
@@ -58,7 +58,7 @@ def validate_player_selection(prediction, reference, teammate_matrix):
     for i in range(len(prediction)):
         for j in range(i, len(prediction)):
             if (prediction[i]["id"], prediction[j]["id"]) in teammate_matrix:
-                errors.append(f"[ERROR] Found teammates: {prediction[i]} and {prediction[j]}")
+                errors.append(f"[ERROR] Found teammates: {prediction[i]['id']} and {prediction[j]['id']}")
 
     # Compare results (the players selected) to reference, regardless of order
     pred_players = set([p["id"] for p in prediction])

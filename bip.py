@@ -89,7 +89,7 @@ def compute_rotation(players, idx_to_id_dict, teammate_matrix, verbose=True):
     oofv = m.objective_value
     for i in range(N):
        if np.isclose(x[i].x, 1):
-           solution.append((idx_to_id_dict[i], players["WAR"][i]))
+           solution.append({"id": idx_to_id_dict[i], "war": players["WAR"][i]})
 
     return solution, oofv
 
