@@ -39,9 +39,9 @@ def build_teammate_matrix(players, franchise_id, save=True, verbose=True):
 
         # Identify midseason trades and make season unique (e.g. 2002a, 2002b)
         season_counts = player_data["aseason"].value_counts()
-        #trade_seasons = season_counts[season_counts > 1]
-        for year in season_counts.index:
-            new_season_values = [str(year) + chr(i + ord("a")) for i in range(season_counts[year])]
+        trade_seasons = season_counts[season_counts > 1]
+        for year in trade_seasons.index:
+            new_season_values = [str(year) + chr(i + ord("a")) for i in range(trade_seasons[year])]
             player_data.loc[player_data["aseason"] == year, "aseason"] = new_season_values
 
         # Save player data in dictionary
@@ -55,7 +55,8 @@ def build_teammate_matrix(players, franchise_id, save=True, verbose=True):
         # Get data for player i. We access it here for efficiency, since it can be reused
         pid1 = str(players["playerid"][i])
         df1 = data[pid1]
-        p1_data = set([(df1["teamId"][k], df1["aseason"][k]) for k in range(df1.shape[0])]) # turn dataframe into set of tuples (1 tuple per row)
+        df1 = df1[df1["teamId"] == franchise_id]
+        p1_data = set(df1["aseason"])
 
         for j in range(i, N):
             # If i and j are the same, just leave those entries as 0
@@ -65,10 +66,11 @@ def build_teammate_matrix(players, franchise_id, save=True, verbose=True):
             # Get data for player j
             pid2 = str(players["playerid"][j])
             df2 = data[pid2]
-            p2_data = set([(df2["teamId"][k], df2["aseason"][k]) for k in range(df2.shape[0])]) # turn dataframe into set of tuples (1 tuple per row)
+            df2 = df2[df2["teamId"] == franchise_id]
+            p2_data = set(df2["aseason"])
 
-            # Take intersection of player data. If the result is non-empty, these players were teammates at some point
-            teammates = check_teammates(p1_data, p2_data, franchise_id)
+            # Check if these two players were teammates for this franchise
+            teammates = check_teammates(p1_data, p2_data)
             if teammates:
                 matrix[pid1, pid2] = 1
                 matrix[pid2, pid1] = 1
@@ -83,12 +85,44 @@ def build_teammate_matrix(players, franchise_id, save=True, verbose=True):
 
     return matrix #, player_id_dict
 
-def check_teammates(p1_data, p2_data, franchise_id):
-    overlap = p1_data.intersection(p2_data)
-    for id, _ in overlap:
-        if id == franchise_id:
-            return True
+# def check_teammates(p1_data, p2_data, franchise_id):
+#     overlap = p1_data.intersection(p2_data)
+#     for id, _ in overlap:
+#         if id == franchise_id:
+#             return True
+#     return False
+
+def check_teammates(p1_data, p2_data):
+    # Identify the smaller set to loop through
+    if len(p1_data) <= len(p2_data):
+        shorter = p1_data
+        longer = p2_data
+    else:
+        shorter = p2_data
+        longer = p1_data
+
+    # Loop through shorter list
+    for season in shorter:
+        is_partial = season[-1].isdigit()
+        if is_partial: # if no mid-season trade, season is just a normal year (e.g. 2009, not 2009a or 2009b)
+            # If season appears in the other set, we can easily say they were teammates
+            if season in longer:
+                return True
+            else: # else, we have to check for partial seasons
+                for cand in longer:
+                    if season == cand[:-1]:
+                        return True
+        else:
+            # Look for matching partial seasons
+            if season in longer:
+                return True
+            else: # else, we have to check for a matching full season
+                season = season[:-1] # strip off the partial season
+                if season in longer:
+                    return True
+
     return False
+
 
 
 
@@ -115,6 +149,6 @@ def get_teammate_matrix(matrix_loc=None, **kwargs):
         return build_teammate_matrix(**kwargs)
 
 if __name__ == "__main__":
-    players = pd.read_csv("./data/franchise/Marlins.csv")
-    matrix = build_teammate_matrix(players, 20, save=False, verbose=False)
+    players = pd.read_csv("./data/franchise/Padres.csv")
+    matrix = build_teammate_matrix(players, 29, save=False, verbose=False)
     pass
